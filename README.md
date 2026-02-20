@@ -24,7 +24,7 @@
 
 **Obs6: Neuro-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis/Vectors and functionality Decision Making for Dimensions/Neuro.**
 
-**Obs7: Project Rendering AI Command in 3 Axis using N Dimensions within external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management.**
+**Obs7: Project Rendering AI Command Screen Viewer in 3 Axis using N Dimensions within external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management.**
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
