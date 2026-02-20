@@ -12,7 +12,7 @@
 
 **Obs2: 3 Axis (Z,Y,X) as Vectors within N Dimensions as Neurons**
 
-**Obs3: Starting project within 0 Axis to Infinity Anxis and 0 Dimensions to Infinity Dimensions**
+**Obs3: Starting project within 0 Axis to Infinity Axis and 0 Dimensions to Infinity Dimensions**
 
 ---
 
