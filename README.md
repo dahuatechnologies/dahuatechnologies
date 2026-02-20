@@ -330,57 +330,57 @@ Therefore, F is an equivalence of categories. ∎
 ### Section A: Sub-Symbolic Algorithms (1-39)
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                           ALGORITHM INVENTORY                               │
+┌───────────────────────────────────────────────────────────────────────────┐
+│                           ALGORITHM INVENTORY                             │
 ├──────┬────────────────────────────────────┬───────────────────────────────┤
-│ ID   │ Algorithm Family                    │ Key Reference                 │
+│ ID   │ Algorithm Family                   │ Key Reference                 │
 ├──────┼────────────────────────────────────┼───────────────────────────────┤
-│ 01   │ PAC Learning                        │ Valiant (1984)                │
-│ 02   │ VC Theory                           │ Vapnik & Chervonenkis (1971)  │
-│ 03   │ Statistical Learning Theory         │ Vapnik (1995)                 │
-│ 04   │ Empirical Risk Minimization         │ Vapnik (1995)                 │
-│ 05   │ Multi-Layer Perceptrons             │ Rumelhart et al. (1986)       │
-│ 06   │ Universal Approximation             │ Cybenko (1989)                │
-│ 07   │ Simple RNNs                         │ Rumelhart et al. (1986)       │
-│ 08   │ LSTM                                 │ Hochreiter & Schmidhuber (1997)│
-│ 09   │ GRU                                  │ Cho et al. (2014)             │
-│ 10   │ Neural ODE                          │ Chen et al. (2018)            │
-│ 11   │ LeNet                               │ LeCun et al. (1989)           │
-│ 12   │ AlexNet                             │ Krizhevsky et al. (2012)      │
-│ 13   │ VGG Net                             │ Simonyan & Zisserman (2014)   │
-│ 14   │ ResNet                              │ He et al. (2016)              │
-│ 15   │ Inception                           │ Szegedy et al. (2015)         │
-│ 16   │ EfficientNet                        │ Tan & Le (2019)               │
-│ 17   │ Vision Transformers                  │ Dosovitskiy et al. (2020)    │
-│ 18   │ Attention Mechanism                  │ Bahdanau et al. (2014)        │
-│ 19   │ Transformers                        │ Vaswani et al. (2017)         │
-│ 20   │ BERT                                │ Devlin et al. (2018)          │
-│ 21   │ GPT                                 │ Radford et al. (2018)         │
-│ 22   │ T5                                  │ Raffel et al. (2020)          │
-│ 23   │ Sparse MoE                          │ Fedus et al. (2022)           │
-│ 24   │ Logic Tensor Networks                │ Serafini & Garcez (2016)      │
-│ 25   │ Neural Programmers                   │ Reed & de Freitas (2016)      │
-│ 26   │ Differentiable Induction             │ Evans & Grefenstette (2018)   │
-│ 27   │ GANs                                │ Goodfellow et al. (2014)      │
-│ 28   │ DCGAN                               │ Radford et al. (2015)         │
-│ 29   │ WGAN                                │ Arjovsky et al. (2017)        │
-│ 30   │ StyleGAN                            │ Karras et al. (2019)          │
-│ 31   │ VAE                                 │ Kingma & Welling (2014)       │
-│ 32   │ β-VAE                               │ Higgins et al. (2017)         │
-│ 33   │ VQ-VAE                              │ van den Oord et al. (2017)    │
-│ 34   │ PixelRNN/PixelCNN                   │ van den Oord et al. (2016)    │
-│ 35   │ WaveNet                             │ van den Oord et al. (2016)    │
-│ 36   │ DDPM                                │ Ho et al. (2020)              │
-│ 37   │ Score-Based Models                   │ Song et al. (2021)            │
-│ 38   │ Latent Diffusion                     │ Rombach et al. (2022)         │
-│ 39   │ Q-Learning                          │ Watkins & Dayan (1992)        │
+│ 01   │ PAC Learning                       │ Valiant (1984)                │
+│ 02   │ VC Theory                          │ Vapnik & Chervonenkis (1971)  │
+│ 03   │ Statistical Learning Theory        │ Vapnik (1995)                 │
+│ 04   │ Empirical Risk Minimization        │ Vapnik (1995)                 │
+│ 05   │ Multi-Layer Perceptrons            │ Rumelhart et al. (1986)       │
+│ 06   │ Universal Approximation            │ Cybenko (1989)                │
+│ 07   │ Simple RNNs                        │ Rumelhart et al. (1986)       │
+│ 08   │ LSTM                               │ Hochreiter & Schmidhuber(1997)│
+│ 09   │ GRU                                │ Cho et al. (2014)             │
+│ 10   │ Neural ODE                         │ Chen et al. (2018)            │
+│ 11   │ LeNet                              │ LeCun et al. (1989)           │
+│ 12   │ AlexNet                            │ Krizhevsky et al. (2012)      │
+│ 13   │ VGG Net                            │ Simonyan & Zisserman (2014)   │
+│ 14   │ ResNet                             │ He et al. (2016)              │
+│ 15   │ Inception                          │ Szegedy et al. (2015)         │
+│ 16   │ EfficientNet                       │ Tan & Le (2019)               │
+│ 17   │ Vision Transformers                │ Dosovitskiy et al. (2020)     │
+│ 18   │ Attention Mechanism                │ Bahdanau et al. (2014)        │
+│ 19   │ Transformers                       │ Vaswani et al. (2017)         │
+│ 20   │ BERT                               │ Devlin et al. (2018)          │
+│ 21   │ GPT                                │ Radford et al. (2018)         │
+│ 22   │ T5                                 │ Raffel et al. (2020)          │
+│ 23   │ Sparse MoE                         │ Fedus et al. (2022)           │
+│ 24   │ Logic Tensor Networks              │ Serafini & Garcez (2016)      │
+│ 25   │ Neural Programmers                 │ Reed & de Freitas (2016)      │
+│ 26   │ Differentiable Induction           │ Evans & Grefenstette (2018)   │
+│ 27   │ GANs                               │ Goodfellow et al. (2014)      │
+│ 28   │ DCGAN                              │ Radford et al. (2015)         │
+│ 29   │ WGAN                               │ Arjovsky et al. (2017)        │
+│ 30   │ StyleGAN                           │ Karras et al. (2019)          │
+│ 31   │ VAE                                │ Kingma & Welling (2014)       │
+│ 32   │ β-VAE                              │ Higgins et al. (2017)         │
+│ 33   │ VQ-VAE                             │ van den Oord et al. (2017)    │
+│ 34   │ PixelRNN/PixelCNN                  │ van den Oord et al. (2016)    │
+│ 35   │ WaveNet                            │ van den Oord et al. (2016)    │
+│ 36   │ DDPM                               │ Ho et al. (2020)              │
+│ 37   │ Score-Based Models                 │ Song et al. (2021)            │
+│ 38   │ Latent Diffusion                   │ Rombach et al. (2022)         │
+│ 39   │ Q-Learning                         │ Watkins & Dayan (1992)        │
 └──────┴────────────────────────────────────┴───────────────────────────────┘
 ```
 
 ### Section B: Reinforcement Learning Algorithms (40-49)
 
 ```
-┌──────┬────────────────────────────────────┬───────────────────────────────┐
+┌──────┬─────────────────────────────────────┬───────────────────────────────┐
 │ 40   │ DQN                                 │ Mnih et al. (2015)            │
 │ 41   │ Rainbow DQN                         │ Hessel et al. (2018)          │
 │ 42   │ REINFORCE                           │ Williams (1992)               │
@@ -391,13 +391,13 @@ Therefore, F is an equivalence of categories. ∎
 │ 47   │ World Models                        │ Ha & Schmidhuber (2018)       │
 │ 48   │ MCTS                                │ Coulom (2006)                 │
 │ 49   │ AlphaZero                           │ Silver et al. (2017)          │
-└──────┴────────────────────────────────────┴───────────────────────────────┘
+└──────┴─────────────────────────────────────┴───────────────────────────────┘
 ```
 
 ### Section C: Traditional ML Algorithms (50-79)
 
 ```
-┌──────┬────────────────────────────────────┬───────────────────────────────┐
+┌──────┬─────────────────────────────────────┬───────────────────────────────┐
 │ 50   │ Linear Regression                   │ Legendre (1805)               │
 │ 51   │ Logistic Regression                 │ Cox (1958)                    │
 │ 52   │ Ridge Regression                    │ Hoerl & Kennard (1970)        │
@@ -428,13 +428,13 @@ Therefore, F is an equivalence of categories. ∎
 │ 77   │ Apriori                             │ Agrawal & Srikant (1994)      │
 │ 78   │ FP-Growth                           │ Han et al. (2000)             │
 │ 79   │ Bagging                             │ Breiman (1996)                │
-└──────┴────────────────────────────────────┴───────────────────────────────┘
+└──────┴─────────────────────────────────────┴───────────────────────────────┘
 ```
 
 ### Section D: Computational Intelligence (80-89)
 
 ```
-┌──────┬────────────────────────────────────┬───────────────────────────────┐
+┌──────┬─────────────────────────────────────┬───────────────────────────────┐
 │ 80   │ Genetic Algorithms                  │ Holland (1975)                │
 │ 81   │ Genetic Programming                 │ Koza (1992)                   │
 │ 82   │ Evolutionary Strategies             │ Rechenberg (1973)             │
@@ -445,24 +445,24 @@ Therefore, F is an equivalence of categories. ∎
 │ 87   │ Mamdani Systems                     │ Mamdani (1974)                │
 │ 88   │ Neuro-Fuzzy                         │ Jang (1993)                   │
 │ 89   │ Spiking Neural Networks             │ Maass (1997)                  │
-└──────┴────────────────────────────────────┴───────────────────────────────┘
+└──────┴─────────────────────────────────────┴───────────────────────────────┘
 ```
 
 ### Section E: Symbolic AI & Knowledge Representation (90-99)
 
 ```
-┌──────┬────────────────────────────────────┬───────────────────────────────┐
+┌──────┬─────────────────────────────────────┬───────────────────────────────┐
 │ 90   │ Propositional Logic                 │ Frege (1879)                  │
 │ 91   │ First-Order Logic                   │ Frege (1879)                  │
 │ 92   │ Resolution Theorem Proving          │ Robinson (1965)               │
-│ 93   │ Tableau Methods                      │ Beth (1955)                   │
+│ 93   │ Tableau Methods                     │ Beth (1955)                   │
 │ 94   │ RDF                                 │ Lassila & Swick (1999)        │
 │ 95   │ OWL                                 │ McGuinness & van Harmelen (2004)│
 │ 96   │ TransE                              │ Bordes et al. (2013)          │
 │ 97   │ Rete Algorithm                      │ Forgy (1982)                  │
 │ 98   │ STRIPS                              │ Fikes & Nilsson (1971)        │
 │ 99   │ SOAR                                │ Laird et al. (1987)           │
-└──────┴────────────────────────────────────┴───────────────────────────────┘
+└──────┴─────────────────────────────────────┴───────────────────────────────┘
 ```
 
 ---
@@ -524,165 +524,165 @@ Therefore, S ≅ I under F. ∎
 ├─────┬───────────────────────────────────────────────────────────────────────┤
 │ #   │ Reference                                                             │
 ├─────┼───────────────────────────────────────────────────────────────────────┤
-│ 001 │ Abadi, M. et al. (2016). "Deep Learning with Differential Privacy".  │
-│ 002 │ Agrawal, R. & Srikant, R. (1994). "Fast Algorithms for Mining        │
+│ 001 │ Abadi, M. et al. (2016). "Deep Learning with Differential Privacy".   │
+│ 002 │ Agrawal, R. & Srikant, R. (1994). "Fast Algorithms for Mining         │
 │     │ Association Rules". VLDB.                                             │
-│ 003 │ Amari, S. (1985). "Differential-Geometrical Methods in Statistics".  │
-│ 004 │ Anderson, J. (1983). "The Architecture of Cognition". Harvard UP.    │
-│ 005 │ Angluin, D. (1988). "Queries and Concept Learning". MLJ.             │
-│ 006 │ Arjovsky, M. et al. (2017). "Wasserstein GAN". ICML.                 │
-│ 007 │ Aronszajn, N. (1950). "Theory of Reproducing Kernels". Trans. AMS.   │
+│ 003 │ Amari, S. (1985). "Differential-Geometrical Methods in Statistics".   │
+│ 004 │ Anderson, J. (1983). "The Architecture of Cognition". Harvard UP.     │
+│ 005 │ Angluin, D. (1988). "Queries and Concept Learning". MLJ.              │
+│ 006 │ Arjovsky, M. et al. (2017). "Wasserstein GAN". ICML.                  │
+│ 007 │ Aronszajn, N. (1950). "Theory of Reproducing Kernels". Trans. AMS.    │
 │ 008 │ Åström, K. & Wittenmark, B. (1995). "Adaptive Control". Addison-Wesley│
 │ 009 │ Baader, F. et al. (2003). "The Description Logic Handbook". Cambridge │
-│ 010 │ Baars, B. (1997). "In the Theater of Consciousness". Oxford.         │
-│ 011 │ Bahdanau, D. et al. (2014). "Neural Machine Translation by Jointly   │
-│     │ Learning to Align and Translate". arXiv:1409.0473.                   │
-│ 012 │ Bai, Y. et al. (2022). "Constitutional AI: Harmlessness from AI      │
-│     │ Feedback". arXiv:2212.08073.                                         │
-│ 013 │ Bajcsy, R. (1988). "Active Perception". Proc. IEEE.                 │
-│ 014 │ Baltrušaitis, T. et al. (2019). "Multimodal Machine Learning: A      │
-│     │ Survey and Taxonomy". IEEE TPAMI.                                    │
-│ 015 │ Barabási, A. (2016). "Network Science". Cambridge.                   │
-│ 016 │ Barocas, S. et al. (2023). "Fairness and Machine Learning". MIT Press│
-│ 017 │ Beth, E. (1955). "Semantic Entailment and Formal Derivability".      │
-│ 018 │ Biamonte, J. et al. (2017). "Quantum Machine Learning". Nature.      │
-│ 019 │ Blanz, V. & Vetter, T. (1999). "A Morphable Model for the Synthesis  │
-│     │ of 3D Faces". SIGGRAPH.                                              │
-│ 020 │ Bordes, A. et al. (2013). "Translating Embeddings for Modeling       │
-│     │ Multi-relational Data". NIPS.                                        │
-│ 021 │ Boser, B. et al. (1992). "A Training Algorithm for Optimal Margin    │
-│     │ Classifiers". COLT.                                                  │
-│ 022 │ Bostrom, N. (2014). "Superintelligence: Paths, Dangers, Strategies". │
-│ 023 │ Breiman, L. (1996). "Bagging Predictors". MLJ.                       │
-│ 024 │ Breiman, L. (2001). "Random Forests". MLJ.                           │
-│ 025 │ Bronstein, A. et al. (2005). "Three-Dimensional Face Recognition".   │
-│ 026 │ Brooks, R. (1986). "A Robust Layered Control System for a Mobile     │
-│     │ Robot". IEEE JRA.                                                    │
-│ 027 │ Brooks, R. (1991). "Intelligence Without Representation". Artif. Int.│
-│ 028 │ Brown, T. et al. (2020). "Language Models are Few-Shot Learners".    │
-│     │ NeurIPS.                                                             │
-│ 029 │ Caruana, R. (1997). "Multitask Learning". MLJ.                       │
-│ 030 │ Chapelle, O. et al. (2006). "Semi-Supervised Learning". MIT Press.   │
-│ 031 │ Chen, R. et al. (2018). "Neural Ordinary Differential Equations".    │
-│     │ NeurIPS.                                                             │
-│ 032 │ Chen, T. et al. (2020). "A Simple Framework for Contrastive Learning │
-│     │ of Visual Representations". ICML.                                    │
-│ 033 │ Cho, K. et al. (2014). "Learning Phrase Representations using RNN    │
-│     │ Encoder-Decoder". EMNLP.                                             │
-│ 034 │ Church, A. (1940). "A Formulation of the Simple Theory of Types".    │
-│ 035 │ Clarke, E. et al. (1986). "Automatic Verification of Finite-State    │
-│     │ Concurrent Systems Using Temporal Logic Specifications". TOPLAS.     │
-│ 036 │ Comon, P. (1994). "Independent Component Analysis: A New Concept?".  │
-│ 037 │ Cook, S. (1971). "The Complexity of Theorem-Proving Procedures".     │
-│ 038 │ Cortes, C. & Vapnik, V. (1995). "Support-Vector Networks". MLJ.      │
-│ 039 │ Cox, D. (1958). "The Regression Analysis of Binary Sequences". JRSS. │
-│ 040 │ Cybenko, G. (1989). "Approximation by Superpositions of a Sigmoidal  │
-│     │ Function". MCSS.                                                     │
-│ 041 │ Dai, Z. et al. (2019). "Transformer-XL: Attentive Language Models    │
-│     │ Beyond a Fixed-Length Context". ACL.                                 │
-│ 042 │ de Moura, L. & Bjørner, N. (2008). "Z3: An Efficient SMT Solver".    │
-│ 043 │ Dempster, A. et al. (1977). "Maximum Likelihood from Incomplete Data │
-│     │ via the EM Algorithm". JRSS.                                         │
-│ 044 │ Devlin, J. et al. (2018). "BERT: Pre-training of Deep Bidirectional  │
-│     │ Transformers". NAACL.                                                │
-│ 045 │ Do Carmo, M. (1992). "Riemannian Geometry". Birkhäuser.              │
-│ 046 │ Dorigo, M. et al. (1996). "Ant System: Optimization by a Colony of   │
-│     │ Cooperating Agents". IEEE SMC.                                       │
-│ 047 │ Dosovitskiy, A. et al. (2020). "An Image is Worth 16x16 Words:       │
-│     │ Transformers for Image Recognition". ICLR.                           │
-│ 048 │ Downey, R. & Fellows, M. (1999). "Parameterized Complexity". Springer│
-│ 049 │ Drucker, H. et al. (1997). "Support Vector Regression Machines".     │
-│ 050 │ Ekman, P. & Friesen, W. (1978). "Facial Action Coding System".       │
-│ 051 │ Ester, M. et al. (1996). "A Density-Based Algorithm for Discovering  │
-│     │ Clusters in Large Spatial Databases". KDD.                           │
-│ 052 │ Evans, R. & Grefenstette, E. (2018). "Learning Explanatory Rules from│
-│     │ Noisy Data". JAIR.                                                   │
-│ 053 │ Fedus, W. et al. (2022). "Switch Transformers: Scaling to Trillion   │
-│     │ Parameter Models". JMLR.                                             │
-│ 054 │ Feigenbaum, E. et al. (1971). "On Generality and Problem Solving:    │
-│     │ A Case Study Using the DENDRAL Program". Machine Intelligence.       │
-│ 055 │ Ferrucci, D. et al. (2010). "Building Watson: An Overview of the     │
-│     │ DeepQA Project". AI Magazine.                                        │
-│ 056 │ Fikes, R. & Nilsson, N. (1971). "STRIPS: A New Approach to the       │
-│     │ Application of Theorem Proving to Problem Solving". AIJ.             │
-│ 057 │ Finn, C. et al. (2017). "Model-Agnostic Meta-Learning for Fast       │
-│     │ Adaptation of Deep Networks". ICML.                                  │
-│ 058 │ Fong, B. & Spivak, D. (2019). "An Invitation to Applied Category     │
-│     │ Theory". Cambridge.                                                  │
-│ 059 │ Fong, B. et al. (2019). "Backprop as Functor". NeurIPS.              │
-│ 060 │ Forgy, C. (1982). "Rete: A Fast Algorithm for the Many Pattern/Many  │
-│     │ Object Pattern Match Problem". AIJ.                                  │
-│ 061 │ Forrester, J. (1961). "Industrial Dynamics". MIT Press.              │
-│ 062 │ Franklin, S. et al. (2007). "The LIDA Architecture: Adding New Modes │
-│     │ of Learning to an Intelligent, Autonomous, Software Agent". IDPT.    │
-│ 063 │ Frege, G. (1879). "Begriffsschrift: A Formula Language of Pure       │
+│ 010 │ Baars, B. (1997). "In the Theater of Consciousness". Oxford.          │
+│ 011 │ Bahdanau, D. et al. (2014). "Neural Machine Translation by Jointly    │
+│     │ Learning to Align and Translate". arXiv:1409.0473.                    │
+│ 012 │ Bai, Y. et al. (2022). "Constitutional AI: Harmlessness from AI       │
+│     │ Feedback". arXiv:2212.08073.                                          │
+│ 013 │ Bajcsy, R. (1988). "Active Perception". Proc. IEEE.                   │
+│ 014 │ Baltrušaitis, T. et al. (2019). "Multimodal Machine Learning: A       │
+│     │ Survey and Taxonomy". IEEE TPAMI.                                     │
+│ 015 │ Barabási, A. (2016). "Network Science". Cambridge.                    │
+│ 016 │ Barocas, S. et al. (2023). "Fairness and Machine Learning". MIT Press │
+│ 017 │ Beth, E. (1955). "Semantic Entailment and Formal Derivability".       │
+│ 018 │ Biamonte, J. et al. (2017). "Quantum Machine Learning". Nature.       │
+│ 019 │ Blanz, V. & Vetter, T. (1999). "A Morphable Model for the Synthesis   │
+│     │ of 3D Faces". SIGGRAPH.                                               │
+│ 020 │ Bordes, A. et al. (2013). "Translating Embeddings for Modeling        │
+│     │ Multi-relational Data". NIPS.                                         │
+│ 021 │ Boser, B. et al. (1992). "A Training Algorithm for Optimal Margin     │
+│     │ Classifiers". COLT.                                                   │
+│ 022 │ Bostrom, N. (2014). "Superintelligence: Paths, Dangers, Strategies".  │
+│ 023 │ Breiman, L. (1996). "Bagging Predictors". MLJ.                        │
+│ 024 │ Breiman, L. (2001). "Random Forests". MLJ.                            │
+│ 025 │ Bronstein, A. et al. (2005). "Three-Dimensional Face Recognition".    │
+│ 026 │ Brooks, R. (1986). "A Robust Layered Control System for a Mobile      │
+│     │ Robot". IEEE JRA.                                                     │
+│ 027 │ Brooks, R. (1991). "Intelligence Without Representation". Artif. Int. │
+│ 028 │ Brown, T. et al. (2020). "Language Models are Few-Shot Learners".     │
+│     │ NeurIPS.                                                              │
+│ 029 │ Caruana, R. (1997). "Multitask Learning". MLJ.                        │
+│ 030 │ Chapelle, O. et al. (2006). "Semi-Supervised Learning". MIT Press.    │
+│ 031 │ Chen, R. et al. (2018). "Neural Ordinary Differential Equations".     │
+│     │ NeurIPS.                                                              │
+│ 032 │ Chen, T. et al. (2020). "A Simple Framework for Contrastive Learning  │
+│     │ of Visual Representations". ICML.                                     │
+│ 033 │ Cho, K. et al. (2014). "Learning Phrase Representations using RNN     │
+│     │ Encoder-Decoder". EMNLP.                                              │
+│ 034 │ Church, A. (1940). "A Formulation of the Simple Theory of Types".     │
+│ 035 │ Clarke, E. et al. (1986). "Automatic Verification of Finite-State     │
+│     │ Concurrent Systems Using Temporal Logic Specifications". TOPLAS.      │
+│ 036 │ Comon, P. (1994). "Independent Component Analysis: A New Concept?".   │
+│ 037 │ Cook, S. (1971). "The Complexity of Theorem-Proving Procedures".      │
+│ 038 │ Cortes, C. & Vapnik, V. (1995). "Support-Vector Networks". MLJ.       │
+│ 039 │ Cox, D. (1958). "The Regression Analysis of Binary Sequences". JRSS.  │
+│ 040 │ Cybenko, G. (1989). "Approximation by Superpositions of a Sigmoidal   │
+│     │ Function". MCSS.                                                      │
+│ 041 │ Dai, Z. et al. (2019). "Transformer-XL: Attentive Language Models     │
+│     │ Beyond a Fixed-Length Context". ACL.                                  │
+│ 042 │ de Moura, L. & Bjørner, N. (2008). "Z3: An Efficient SMT Solver".     │
+│ 043 │ Dempster, A. et al. (1977). "Maximum Likelihood from Incomplete Data  │
+│     │ via the EM Algorithm". JRSS.                                          │
+│ 044 │ Devlin, J. et al. (2018). "BERT: Pre-training of Deep Bidirectional   │
+│     │ Transformers". NAACL.                                                 │
+│ 045 │ Do Carmo, M. (1992). "Riemannian Geometry". Birkhäuser.               │
+│ 046 │ Dorigo, M. et al. (1996). "Ant System: Optimization by a Colony of    │
+│     │ Cooperating Agents". IEEE SMC.                                        │
+│ 047 │ Dosovitskiy, A. et al. (2020). "An Image is Worth 16x16 Words:        │
+│     │ Transformers for Image Recognition". ICLR.                            │
+│ 048 │ Downey, R. & Fellows, M. (1999). "Parameterized Complexity". Springer │
+│ 049 │ Drucker, H. et al. (1997). "Support Vector Regression Machines".      │
+│ 050 │ Ekman, P. & Friesen, W. (1978). "Facial Action Coding System".        │
+│ 051 │ Ester, M. et al. (1996). "A Density-Based Algorithm for Discovering   │
+│     │ Clusters in Large Spatial Databases". KDD.                            │
+│ 052 │ Evans, R. & Grefenstette, E. (2018). "Learning Explanatory Rules from │
+│     │ Noisy Data". JAIR.                                                    │
+│ 053 │ Fedus, W. et al. (2022). "Switch Transformers: Scaling to Trillion    │
+│     │ Parameter Models". JMLR.                                              │
+│ 054 │ Feigenbaum, E. et al. (1971). "On Generality and Problem Solving:     │
+│     │ A Case Study Using the DENDRAL Program". Machine Intelligence.        │
+│ 055 │ Ferrucci, D. et al. (2010). "Building Watson: An Overview of the      │
+│     │ DeepQA Project". AI Magazine.                                         │
+│ 056 │ Fikes, R. & Nilsson, N. (1971). "STRIPS: A New Approach to the        │
+│     │ Application of Theorem Proving to Problem Solving". AIJ.              │
+│ 057 │ Finn, C. et al. (2017). "Model-Agnostic Meta-Learning for Fast        │
+│     │ Adaptation of Deep Networks". ICML.                                   │
+│ 058 │ Fong, B. & Spivak, D. (2019). "An Invitation to Applied Category      │
+│     │ Theory". Cambridge.                                                   │
+│ 059 │ Fong, B. et al. (2019). "Backprop as Functor". NeurIPS.               │
+│ 060 │ Forgy, C. (1982). "Rete: A Fast Algorithm for the Many Pattern/Many   │
+│     │ Object Pattern Match Problem". AIJ.                                   │
+│ 061 │ Forrester, J. (1961). "Industrial Dynamics". MIT Press.               │
+│ 062 │ Franklin, S. et al. (2007). "The LIDA Architecture: Adding New Modes  │
+│     │ of Learning to an Intelligent, Autonomous, Software Agent". IDPT.     │
+│ 063 │ Frege, G. (1879). "Begriffsschrift: A Formula Language of Pure        │
 │     │ Thought".                                                             │
 │ 064 │ Freund, Y. & Schapire, R. (1997). "A Decision-Theoretic Generalization│
-│     │ of On-Line Learning and an Application to Boosting". JCSS.           │
+│     │ of On-Line Learning and an Application to Boosting". JCSS.            │
 │ 065 │ Friedman, J. (2001). "Greedy Function Approximation: A Gradient       │
-│     │ Boosting Machine". Annals of Statistics.                             │
-│ 066 │ Friston, K. (2010). "The Free-Energy Principle: A Unified Brain      │
-│     │ Theory?". Nature Reviews Neuroscience.                               │
-│ 067 │ Fukunaga, K. & Hostetler, L. (1975). "The Estimation of the Gradient │
-│     │ of a Density Function". IEEE IT.                                     │
-│ 068 │ Garcez, A. et al. (2019). "Neural-Symbolic Computing: An Effective   │
-│     │ Methodology for Principled Integration of Machine Learning and       │
-│     │ Reasoning". Journal of Applied Logics.                               │
-│ 069 │ Gelfond, M. & Lifschitz, V. (1991). "Classical Negation in Logic     │
-│     │ Programs and Disjunctive Databases". New Generation Computing.       │
-│ 070 │ Gentzen, G. (1935). "Investigations into Logical Deduction".         │
-│ 071 │ Gibson, J. (1979). "The Ecological Approach to Visual Perception".   │
-│ 072 │ Goodfellow, I. et al. (2014). "Generative Adversarial Networks".     │
+│     │ Boosting Machine". Annals of Statistics.                              │
+│ 066 │ Friston, K. (2010). "The Free-Energy Principle: A Unified Brain       │
+│     │ Theory?". Nature Reviews Neuroscience.                                │
+│ 067 │ Fukunaga, K. & Hostetler, L. (1975). "The Estimation of the Gradient  │
+│     │ of a Density Function". IEEE IT.                                      │
+│ 068 │ Garcez, A. et al. (2019). "Neural-Symbolic Computing: An Effective    │
+│     │ Methodology for Principled Integration of Machine Learning and        │
+│     │ Reasoning". Journal of Applied Logics.                                │
+│ 069 │ Gelfond, M. & Lifschitz, V. (1991). "Classical Negation in Logic      │
+│     │ Programs and Disjunctive Databases". New Generation Computing.        │
+│ 070 │ Gentzen, G. (1935). "Investigations into Logical Deduction".          │
+│ 071 │ Gibson, J. (1979). "The Ecological Approach to Visual Perception".    │
+│ 072 │ Goodfellow, I. et al. (2014). "Generative Adversarial Networks".      │
 │     │ NIPS.                                                                 │
-│ 073 │ Ha, D. & Schmidhuber, J. (2018). "World Models". NeurIPS.            │
-│ 074 │ Haarnoja, T. et al. (2018). "Soft Actor-Critic: Off-Policy Maximum   │
-│     │ Entropy Deep Reinforcement Learning". ICML.                          │
-│ 075 │ Hartmanis, J. & Stearns, R. (1965). "On the Computational Complexity │
-│     │ of Algorithms". Trans. AMS.                                          │
-│ 076 │ Hassabis, D. et al. (2017). "Neuroscience-Inspired Artificial        │
-│     │ Intelligence". Neuron.                                               │
-│ 077 │ Havlíček, V. et al. (2019). "Supervised Learning with Quantum-       │
-│     │ Enhanced Feature Spaces". Nature.                                    │
-│ 078 │ He, K. et al. (2016). "Deep Residual Learning for Image Recognition".│
+│ 073 │ Ha, D. & Schmidhuber, J. (2018). "World Models". NeurIPS.             │
+│ 074 │ Haarnoja, T. et al. (2018). "Soft Actor-Critic: Off-Policy Maximum    │
+│     │ Entropy Deep Reinforcement Learning". ICML.                           │
+│ 075 │ Hartmanis, J. & Stearns, R. (1965). "On the Computational Complexity  │
+│     │ of Algorithms". Trans. AMS.                                           │
+│ 076 │ Hassabis, D. et al. (2017). "Neuroscience-Inspired Artificial         │
+│     │ Intelligence". Neuron.                                                │
+│ 077 │ Havlíček, V. et al. (2019). "Supervised Learning with Quantum-        │
+│     │ Enhanced Feature Spaces". Nature.                                     │
+│ 078 │ He, K. et al. (2016). "Deep Residual Learning for Image Recognition". │
 │     │ CVPR.                                                                 │
-│ 079 │ Hessel, M. et al. (2018). "Rainbow: Combining Improvements in Deep   │
-│     │ Reinforcement Learning". AAAI.                                       │
-│ 080 │ Higgins, I. et al. (2017). "β-VAE: Learning Basic Visual Concepts    │
-│     │ with a Constrained Variational Framework". ICLR.                     │
-│ 081 │ Ho, J. et al. (2020). "Denoising Diffusion Probabilistic Models".    │
-│     │ NeurIPS.                                                             │
-│ 082 │ Hoare, C. (1969). "An Axiomatic Basis for Computer Programming".     │
-│     │ CACM.                                                                │
-│ 083 │ Hochreiter, S. & Schmidhuber, J. (1997). "Long Short-Term Memory".   │
-│     │ Neural Computation.                                                  │
-│ 084 │ Hoerl, A. & Kennard, R. (1970). "Ridge Regression: Biased Estimation │
-│     │ for Nonorthogonal Problems". Technometrics.                          │
-│ 085 │ Holland, J. (1975). "Adaptation in Natural and Artificial Systems".  │
-│ 086 │ Innes, M. (2018). "Differentiable Programming". NeurIPS Workshop.    │
-│ 087 │ Jang, J. (1993). "ANFIS: Adaptive-Network-Based Fuzzy Inference      │
-│     │ System". IEEE SMC.                                                   │
-│ 088 │ Johnson, S. (1967). "Hierarchical Clustering Schemes". Psychometrika.│
-│ 089 │ Karaboga, D. (2005). "An Idea Based on Honey Bee Swarm for Numerical │
-│     │ Optimization". Erciyes University.                                   │
-│ 090 │ Karp, R. (1972). "Reducibility Among Combinatorial Problems".        │
-│ 091 │ Karras, T. et al. (2019). "A Style-Based Generator Architecture for  │
-│     │ Generative Adversarial Networks". CVPR.                              │
-│ 092 │ Kennedy, J. & Eberhart, R. (1995). "Particle Swarm Optimization".    │
-│     │ ICNN.                                                                │
-│ 093 │ Kingma, D. & Welling, M. (2014). "Auto-Encoding Variational Bayes".  │
-│     │ ICLR.                                                                │
-│ 094 │ Kirillov, A. et al. (2023). "Segment Anything". ICCV.                │
-│ 095 │ Koch, G. et al. (2015). "Siamese Neural Networks for One-Shot Image  │
-│     │ Recognition". ICML Workshop.                                         │
-│ 096 │ Kolmogorov, A. (1965). "Three Approaches to the Quantitative         │
-│     │ Definition of Information". Problems of Information Transmission.   │
-│ 097 │ Koza, J. (1992). "Genetic Programming: On the Programming of         │
-│     │ Computers by Means of Natural Selection". MIT Press.                │
-│ 098 │ Kripke, S. (1963). "Semantical Analysis of Modal Logic I".           │
-│ 099 │ Krizhevsky, A. et al. (2012). "ImageNet Classification with Deep     │
-│     │ Convolutional Neural Networks". NIPS.                               │
-│ 100 │ Laird, J. et al. (1987). "SOAR: An Architecture for General          │
-│     │ Intelligence". AIJ.                                                  │
+│ 079 │ Hessel, M. et al. (2018). "Rainbow: Combining Improvements in Deep    │
+│     │ Reinforcement Learning". AAAI.                                        │
+│ 080 │ Higgins, I. et al. (2017). "β-VAE: Learning Basic Visual Concepts     │
+│     │ with a Constrained Variational Framework". ICLR.                      │
+│ 081 │ Ho, J. et al. (2020). "Denoising Diffusion Probabilistic Models".     │
+│     │ NeurIPS.                                                              │
+│ 082 │ Hoare, C. (1969). "An Axiomatic Basis for Computer Programming".      │
+│     │ CACM.                                                                 │
+│ 083 │ Hochreiter, S. & Schmidhuber, J. (1997). "Long Short-Term Memory".    │
+│     │ Neural Computation.                                                   │
+│ 084 │ Hoerl, A. & Kennard, R. (1970). "Ridge Regression: Biased Estimation  │
+│     │ for Nonorthogonal Problems". Technometrics.                           │
+│ 085 │ Holland, J. (1975). "Adaptation in Natural and Artificial Systems".   │
+│ 086 │ Innes, M. (2018). "Differentiable Programming". NeurIPS Workshop.     │
+│ 087 │ Jang, J. (1993). "ANFIS: Adaptive-Network-Based Fuzzy Inference       │
+│     │ System". IEEE SMC.                                                    │
+│ 088 │ Johnson, S. (1967). "Hierarchical Clustering Schemes". Psychometrika. │
+│ 089 │ Karaboga, D. (2005). "An Idea Based on Honey Bee Swarm for Numerical  │
+│     │ Optimization". Erciyes University.                                    │
+│ 090 │ Karp, R. (1972). "Reducibility Among Combinatorial Problems".         │
+│ 091 │ Karras, T. et al. (2019). "A Style-Based Generator Architecture for   │
+│     │ Generative Adversarial Networks". CVPR.                               │
+│ 092 │ Kennedy, J. & Eberhart, R. (1995). "Particle Swarm Optimization".     │
+│     │ ICNN.                                                                 │
+│ 093 │ Kingma, D. & Welling, M. (2014). "Auto-Encoding Variational Bayes".   │
+│     │ ICLR.                                                                 │ 
+│ 094 │ Kirillov, A. et al. (2023). "Segment Anything". ICCV.                 │
+│ 095 │ Koch, G. et al. (2015). "Siamese Neural Networks for One-Shot Image   │
+│     │ Recognition". ICML Workshop.                                          │
+│ 096 │ Kolmogorov, A. (1965). "Three Approaches to the Quantitative          │
+│     │ Definition of Information". Problems of Information Transmission.     │
+│ 097 │ Koza, J. (1992). "Genetic Programming: On the Programming of          │
+│     │ Computers by Means of Natural Selection". MIT Press.                  │
+│ 098 │ Kripke, S. (1963). "Semantical Analysis of Modal Logic I".            │
+│ 099 │ Krizhevsky, A. et al. (2012). "ImageNet Classification with Deep      │
+│     │ Convolutional Neural Networks". NIPS.                                 │
+│ 100 │ Laird, J. et al. (1987). "SOAR: An Architecture for General           │
+│     │ Intelligence". AIJ.                                                   │
 └─────┴───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -734,27 +734,27 @@ Level 6: TRANSFORMERS
 ║                    HIERARCHICAL CORRECTION VERIFICATION                      ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  We, the undersigned, verify that the hierarchical correction:              ║
+║  We, the undersigned, verify that the hierarchical correction:               ║
 ║                                                                              ║
 ║      OLD: AI ⊃ ML ⊃ DL ⊃ NN ⊃ LLM ⊃ (TF ∥ MoE)                              ║
-║      NEW: AI ⊃ ML ⊃ DL ⊃ NN ⊃ LLM ⊃ MoE ⊃ TF                                ║
+║      NEW: AI ⊃ ML ⊃ DL ⊃ NN ⊃ LLM ⊃ MoE ⊃ TF                               ║
 ║                                                                              ║
 ║  is mathematically proven correct through:                                   ║
 ║                                                                              ║
-║  ✓ Category Theory (Functor F: Old → New)                                   ║
-║  ✓ Homological Algebra (H_n(Old) ≅ H_n(New))                                ║
-║  ✓ Differential Geometry (MoE submanifold contains TF)                      ║
-║  ✓ Information Theory (Mutual information preserved)                        ║
-║  ✓ Computational Complexity (O(k·n²·d) hierarchy)                           ║
+║  ✓ Category Theory (Functor F: Old → New)                                    ║
+║  ✓ Homological Algebra (H_n(Old) ≅ H_n(New))                                 ║
+║  ✓ Differential Geometry (MoE submanifold contains TF)                       ║
+║  ✓ Information Theory (Mutual information preserved)                         ║
+║  ✓ Computational Complexity (O(k·n²·d) hierarchy)                            ║
 ║                                                                              ║
-║  The gap measure ε = 0.00000 has been achieved.                             ║
+║  The gap measure ε = 0.00000 has been achieved.                              ║
 ║                                                                              ║
 ║  This document serves as the definitive academic reference                   ║
-║  for the EvoX AI Commander v7.0 architecture.                               ║
+║  for the EvoX AI Commander v7.0 architecture.                                ║
 ║                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  Copyright © 2026 Evolution Technologies Research and Development            ║
-║  All Rights Reserved. Version 7.0.0 - February 20, 2026                     ║
+║  All Rights Reserved. Version 7.0.0 - February 20, 2026                      ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -787,10 +787,10 @@ AI                                  AI
 │   │   │   ├── LLM                 │   │   │   ├── LLM
 │   │   │   │   ├── TRANSFORMER     │   │   │   │   └── MoE ROUTER
 │   │   │   │   └── MoE             │   │   │   │       └── TRANSFORMER
-│   │   │   └── ...                  │   │   │   └── ...
-│   │   └── ...                      │   │   └── ...
-│   └── ...                          │   └── ...
-└── ...                              └── ...
+│   │   │   └── ...                 │   │   │   └── ...
+│   │   └── ...                     │   │   └── ...
+│   └── ...                         │   └── ...
+└── ...                             └── ...
 ```
 
 **Mathematically**: MoE ⊃ Transformer (MoE contains Transformer as a component)
