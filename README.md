@@ -8,6 +8,14 @@
 
 ---
 
+## Prototype Second Version (Autonomous Morphogenesis Evolution)
+
+---
+
+![Image](https://github.com/user-attachments/assets/d46cd644-329e-4b62-8c7e-255076814a8b)
+
+---
+
 ## Prototype First Version (Autonomous Generated)
 
 ---
