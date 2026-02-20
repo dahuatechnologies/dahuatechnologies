@@ -4,7 +4,11 @@
 
 ---
 
-#  3 Axis within N Dimensions in Big-Screen Cyber Warfare (Prototype Starting Version)
+# 3 Axis within N Dimensions in Big-Screen Cyber Warfare
+
+---
+
+## Prototype Starting Version
 
 ---
 
