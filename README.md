@@ -6,7 +6,7 @@
 
 ---
 
-### (Cable **Sousa**) - Bizu To C.D.F - HA HA HA
+### Cable **Sousa** - Bizu To C.D.F - HA HA HA
 
 ---
 
