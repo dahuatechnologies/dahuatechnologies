@@ -10,7 +10,7 @@
 
 ---
 
-**Obs1: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X) within N Dimension**
+**Obs1: HIERARCHICAL CORRECTION VALIDATION in 3 Axis as Vectors (Z,Y,X) within N Dimension as Neurons**
 
 ---
 
