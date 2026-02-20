@@ -8,7 +8,7 @@
 
 ---
 
-## Prototype Second Version
+## Prototype First Version (Autonoumous Generated)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Prototype Starting Version
+## Prototype Starting Version (Scanner Mapping)
 
 ---
 
