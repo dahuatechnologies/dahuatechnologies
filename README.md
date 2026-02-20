@@ -10,6 +10,23 @@
 
 ---
 
+NOVEL ACADEMIC RESEARCH OVERVIEW 
+
+ARTIFICIAL INTELLIGENCE (Level 0)
+├── MACHINE LEARNING (Level 1)
+│   ├── DEEP LEARNING (Level 2)
+│   │   ├── NEURAL NETWORKS (Level 3)
+│   │   │   ├── LLMs (Level 4)
+│   │   │   │   └── MoE ROUTER (Level 5)
+│   │   │   │       ├── TRANSFORMERS (Level 6)
+│   │   │   │       └── Model Import/Export (GGUF, GGML, Safevectors)
+│   │   │   └── Generative AI Models
+│   │   └── Reinforcement Learning
+│   └── Traditional ML Algorithms
+└── Symbolic AI Integration
+
+---
+
 **Obs0: Prototype implementation using vector in ANSI C89/90 within Standard Comments **/* ... */** using POSIX compliance, Big O Complexity Analysis and PThreads with Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for Lenovo Laptop AMD RyZen 5 7000 S Architectures within AMD Radeon Graphics using Eclipse IDE CDT on exclusive Linux Fedora 42;**
 
 **Obs1: Project Rendering AI Command Screen Viewer in 3 Axis using N Dimensions within external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management;**
