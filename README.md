@@ -1,6 +1,8 @@
-# Novel Academic Research Documentation & Formal Specification ⚡
+# Research Documentation & Formal Specification ⚡
 
 **Copyright © 2026 Evolution Technologies Research and Development - All Rights Reserved**
+
+**Powered By David Sousa Oliver** 
 
 ---
 
@@ -29,10 +31,6 @@
 ---
 
 ![Image](https://github.com/user-attachments/assets/9a06ac85-f397-4af0-ae63-01042a5c36b3)
-
----
-
-## Powered By David Sousa Oliver 
 
 ---
 
