@@ -1,3 +1,5 @@
+# Powered By David Sousa Oliver 
+
 ## Novel Academic Research Documentation & Formal Specification ⚡
 
 **Copyright © 2026 Evolution Technologies Research and Development - All Rights Reserved**
@@ -28,6 +30,8 @@ Here are some ideas to get you started:
 **-Project: Yes, Using Vector**
 
 **-Project: Not, Using Tensor**
+
+---
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
