@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ## HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X) or 3D (Z,Y,X)
 
-**Project: Yes, Using Vector**
+**-Project: Yes, Using Vector**
 
-**Project: Not, Using Tensor**
+**-Project: Not, Using Tensor**
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -65,10 +65,10 @@ Here are some ideas to get you started:
  ******************************************************************************/
 
 typedef enum evox_hierarchy_level_e {
-    LEVEL_0_AI = 0,           /* Artificial Intelligence */
-    LEVEL_1_ML,                /* Machine Learning */
-    LEVEL_2_DL,                 /* Deep Learning */
-    LEVEL_3_NN,                  /* Neural Networks */
+    LEVEL_0_AI = 0,               /* Artificial Intelligence */
+    LEVEL_1_ML,                   /* Machine Learning */
+    LEVEL_2_DL,                   /* Deep Learning */
+    LEVEL_3_NN,                   /* Neural Networks */
     LEVEL_4_LLM,                  /* Large Language Models */
     LEVEL_5_MOE,                  /* Mixture of Experts (CORRECT) */
     LEVEL_6_TF                    /* Transformers (CONTAINED in MoE) */
