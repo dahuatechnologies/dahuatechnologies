@@ -28,6 +28,10 @@ ARTIFICIAL INTELLIGENCE (Level 0)
 ```
 ---
 
+![Image](https://github.com/user-attachments/assets/9a06ac85-f397-4af0-ae63-01042a5c36b3)
+
+---
+
 **Obs0: Prototype implementation using vector in ANSI C89/90 within Standard Comments **/* ... */** using POSIX compliance, Big O Complexity Analysis and PThreads with Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for Lenovo Laptop AMD RyZen 5 7000 S Architectures within AMD Radeon Graphics using Eclipse IDE CDT on exclusive Linux Fedora 42;**
 
 **Obs1: Project Rendering AI Command Screen Viewer in 3 Axis using N Dimensions within external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management;**
@@ -43,6 +47,8 @@ ARTIFICIAL INTELLIGENCE (Level 0)
 **Obs6: Using Neuro-Fuzzy to Autonomous Weights to Vectors and Decision Making to Neurons;**
 
 **Obs7: Neuro-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis/Vectors and functionality Decision Making for Dimensions/Neuro.**
+
+---
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
