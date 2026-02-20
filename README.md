@@ -2,7 +2,7 @@
 
 **Copyright © 2026 Evolution Technologies Research and Development - All Rights Reserved**
 
-## Powered By Cable **Sousa** David Sousa Oliver
+## Powered By Cable **Sousa** - David Sousa Oliver
 
 ---
 
