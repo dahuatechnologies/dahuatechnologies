@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-# DAHUA CLARIFICATION AND EXPLANAION ALGORITHM v7.0
+# CLARIFICATION AND EXPLANAION ALGORITHM v7.0
 
 ## Complete Novel Research Implementation with Formal Hierarchy Correction
 
