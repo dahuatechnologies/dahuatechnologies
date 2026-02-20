@@ -10,7 +10,7 @@
 
 ---
 
-**Obs1: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X) or 3D (Z,Y,X)**
+**Obs1: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X) within N Dimension**
 
 ---
 
