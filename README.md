@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-# EVOX AI COMMANDER v7.0
+# DAHUA AI COMMANDER v7.0
 
 ---
 
