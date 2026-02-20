@@ -10,7 +10,8 @@
 
 ---
 
-NOVEL ACADEMIC RESEARCH OVERVIEW 
+```text
+NOVEL ACADEMIC RESEARCH OVERVIEW
 
 ARTIFICIAL INTELLIGENCE (Level 0)
 ├── MACHINE LEARNING (Level 1)
@@ -24,7 +25,7 @@ ARTIFICIAL INTELLIGENCE (Level 0)
 │   │   └── Reinforcement Learning
 │   └── Traditional ML Algorithms
 └── Symbolic AI Integration
-
+```
 ---
 
 **Obs0: Prototype implementation using vector in ANSI C89/90 within Standard Comments **/* ... */** using POSIX compliance, Big O Complexity Analysis and PThreads with Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for Lenovo Laptop AMD RyZen 5 7000 S Architectures within AMD Radeon Graphics using Eclipse IDE CDT on exclusive Linux Fedora 42;**
