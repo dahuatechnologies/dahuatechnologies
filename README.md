@@ -2,8 +2,6 @@
 
 **Copyright © 2026 Evolution Technologies Research and Development - All Rights Reserved**
 
----
-
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
