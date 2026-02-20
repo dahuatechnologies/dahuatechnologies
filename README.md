@@ -12,19 +12,19 @@
 
 **Obs0: Prototype implementation using vector in ANSI C89/90 within Standard Comments **/* ... */** using POSIX compliance, Big O Complexity Analysis and PThreads with Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for Lenovo Laptop AMD RyZen 5 7000 S Architectures within AMD Radeon Graphics using Eclipse IDE CDT on exclusive Linux Fedora 42;**
 
-**Obs1: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X);**
+**Obs1: Project Rendering AI Command Screen Viewer in 3 Axis using N Dimensions within external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management;**
 
-**Obs2: In Other Mathematically Principles in 3 Dimensions (Z,Y,X)???**
+**Obs2: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X);**
 
-**Obs3: 3 Axis (Z,Y,X) as Vectors within N Dimensions as Neurons;**
+**Obs3: In Other Mathematically Principles in 3 Dimensions (Z,Y,X)???**
 
-**Obs4: Starting project within 0 Axis to Infinity Axis and 0 Dimensions to Infinity Dimensions;**
+**Obs4: 3 Axis (Z,Y,X) as Vectors within N Dimensions as Neurons;**
 
-**Obs5: Using Neuro-Fuzzy to Autonomous Weights to Vectors and Decision Making to Neurons;**
+**Obs5: Starting project within 0 Axis to Infinity Axis and 0 Dimensions to Infinity Dimensions;**
 
-**Obs6: Neuro-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis/Vectors and functionality Decision Making for Dimensions/Neuro.**
+**Obs6: Using Neuro-Fuzzy to Autonomous Weights to Vectors and Decision Making to Neurons;**
 
-**Obs7: Project Rendering AI Command Screen Viewer in 3 Axis using N Dimensions within external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management.**
+**Obs7: Neuro-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis/Vectors and functionality Decision Making for Dimensions/Neuro.**
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
