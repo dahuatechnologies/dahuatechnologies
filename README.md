@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 ## HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X) or 3D (Z,Y,X)
 
+**Project: Yes, Using Vector**
+
+**Project: Not, Using Tensor**
+
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                    HIERARCHICAL VALIDATION MATRIX v7.0                      │
