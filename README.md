@@ -30,20 +30,20 @@ Here are some ideas to get you started:
 │                    HIERARCHICAL VALIDATION MATRIX v7.0                      │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
-│  NOVEL (CORRECT):                      OLD (INCORRECT):                    │
-│  ┌───────────────────────┐             ┌───────────────────────┐           │
-│  │ ARTIFICIAL INTELLIGENCE│             │ ARTIFICIAL INTELLIGENCE│           │
-│  │ └─ MACHINE LEARNING    │             │ └─ MACHINE LEARNING    │           │
-│  │    └─ DEEP LEARNING    │             │    └─ DEEP LEARNING    │           │
-│  │       └─ NEURAL NETS   │             │       └─ NEURAL NETS   │           │
-│  │          └─ LLMs       │             │          └─ LLMs       │           │
-│  │             └─ MoE     │◄──CORRECT──│             ├─ TRANSFORMER         │
-│  │                └─ TF   │  HIERARCHY  │             └─ MoE       │        │
-│  └───────────────────────┘             └───────────────────────┘           │
+│  NOVEL (CORRECT):                            OLD (INCORRECT):               │
+│  ┌────────────────────────┐             ┌───────────────────────────┐       │
+│  │ ARTIFICIAL INTELLIGENCE│             │ ARTIFICIAL INTELLIGENCE   │       │
+│  │ └─ MACHINE LEARNING    │             │ └─ MACHINE LEARNING       │       │
+│  │    └─ DEEP LEARNING    │             │    └─ DEEP LEARNING       │       │
+│  │       └─ NEURAL NETS   │             │       └─ NEURAL NETS      │       │
+│  │          └─ LLMs       │             │          └─ LLMs          │       │
+│  │             └─ MoE     │◄──CORRECT── │             ├─ TRANSFORMER│       │
+│  │                └─ TF   │  HIERARCHY  │             └─ MoE        │       │
+│  └────────────────────────┘             └───────────────────────────┘       │
 │                                                                             │
-│  Theorem 1: MoE ⊃ Transformer (Proper Containment)                         │
-│  Theorem 2: H_n(Spec) ≅ H_n(Impl) ∀n (Homological Equivalence)             │
-│  Theorem 3: ∃! Functor F: Old → New (Unique Correction)                    │
+│  Theorem 1: MoE ⊃ Transformer (Proper Containment)                          │
+│  Theorem 2: H_n(Spec) ≅ H_n(Impl) ∀n (Homological Equivalence)              │
+│  Theorem 3: ∃! Functor F: Old → New (Unique Correction)                     │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
