@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Clarification and Explanation Algorithm AI v7.0
+## Clarification and Explanation Algorithm AI v7.0 in 3 Axis (Z,Y,X) or 3D (Z,Y,X)
 
 ---
 
