@@ -8,6 +8,14 @@
 
 ---
 
+## Prototype Second Version
+
+---
+
+![Image](https://github.com/user-attachments/assets/e0bf134e-bf7b-4d5b-9825-e0437d35ca4a)
+
+---
+
 ## Prototype Starting Version
 
 ---
