@@ -2,11 +2,11 @@
 
 **Copyright © 2026 Evolution Technologies Research and Development - All Rights Reserved**
 
-## Powered By David Sousa Oliver (Cable **Sousa**)
+## Powered By David Sousa Oliver 
 
 ---
 
-### Bizu To C.D.F - HA HA HA
+### (Cable **Sousa**) - Bizu To C.D.F - HA HA HA
 
 ---
 
