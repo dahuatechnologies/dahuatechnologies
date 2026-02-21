@@ -278,30 +278,30 @@ static void evox_verify_natural_transformations(evox_isomorphism_verification_t*
  * UPDATED MATHEMATICAL CONSTANTS - PROVEN BY CONSTRUCTION v7.0
  *============================================================================*/
 
-#define EOVX_VERSION                            "7.0.0"
-#define EOVX_COMPANY                             "Evolution Technologies Research and Development"
-#define EOVX_COPYRIGHT                            "Copyright (c) 2026 Evolution Technologies - All Rights Reserved"
+#define EOVX_VERSION                                "7.0.0"
+#define EOVX_COMPANY                                "Evolution Technologies Research and Development"
+#define EOVX_COPYRIGHT                              "Copyright (c) 2026 Evolution Technologies - All Rights Reserved"
 
 /* Hierarchical Levels (Theorem 1.1) */
-#define EOVX_HIERARCHY_LEVELS                      7  /* AI, ML, DL, NN, LLM, MoE, TF */
+#define EOVX_HIERARCHY_LEVELS                       7  /* AI, ML, DL, NN, LLM, MoE, TF */
 #define EOVX_CONTAINMENT_DEPTH                      6  /* Maximum containment depth */
 #define EOVX_CORRECTION_FUNCTOR                     1  /* Unique correction functor F */
 
 /* Hyper-dimensional Constants (Proof in Section 3.2) */
-#define EOVX_HYPER_DIMENSIONS                      11  /* Dimension of the base manifold M */
-#define EOVX_FIBER_DIMENSIONS                       5  /* Dimension of the fiber F */
+#define EOVX_HYPER_DIMENSIONS                       11  /* Dimension of the base manifold M */
+#define EOVX_FIBER_DIMENSIONS                        5  /* Dimension of the fiber F */
 #define EOVX_TOTAL_SPACE_DIM                        16  /* Dimension of total space E = M × F */
 #define EOVX_CONSCIOUSNESS_LAYERS                    7  /* Number of sheaf sections (matches hierarchy) */
 #define EOVX_QUANTUM_STATES                         16  /* |H| = 2^n where n=4 (Hilbert space) */
-#define EOVX_ENTANGLEMENT_PAIRS                       8  /* Number of Bell states */
-#define EOVX_TEMPORAL_DEPTH                           5  /* Time-like dimensions */
+#define EOVX_ENTANGLEMENT_PAIRS                      8  /* Number of Bell states */
+#define EOVX_TEMPORAL_DEPTH                          5  /* Time-like dimensions */
 
 /* Neural Architecture Constants (Theorem 4.1) */
 #define EOVX_NEURAL_CLUSTERS                       256  /* Number of open covers */
 #define EOVX_SYNAPSE_DENSITY                      1024  /* Connection strength tensor rank */
 #define EOVX_AXONAL_BRANCHING                        8  /* Branching ratio γ */
-#define EOVX_DENDRITIC_ARBORS                        32  /* Arborization complexity */
-#define EOVX_NEUROTRANSMITTER_TYPES                   8  /* Chemical species */
+#define EOVX_DENDRITIC_ARBORS                       32  /* Arborization complexity */
+#define EOVX_NEUROTRANSMITTER_TYPES                  8  /* Chemical species */
 
 /* Vocabulary Constants (Lemma 5.2) */
 #define EOVX_VOCAB_SIZE                          128000  /* |Σ| = 2^17 * 1000 */
@@ -312,9 +312,9 @@ static void evox_verify_natural_transformations(evox_isomorphism_verification_t*
 
 /* Transformer Constants (Contained within MoE) */
 #define EOVX_TRANSFORMER_LAYERS                      12  /* Number of transformer blocks */
-#define EOVX_ATTENTION_HEADS                          16  /* Multi-head attention heads */
-#define EOVX_HEAD_DIM                                512  /* Attention head dimension */
-#define EOVX_FFN_DIM                                2048  /* Feed-forward network dimension */
+#define EOVX_ATTENTION_HEADS                         16  /* Multi-head attention heads */
+#define EOVX_HEAD_DIM                               512  /* Attention head dimension */
+#define EOVX_FFN_DIM                               2048  /* Feed-forward network dimension */
 
 /* MoE Router Constants (Container for Transformers) */
 #define EOVX_EXPERTS_PER_TOKEN                         4  /* Top-k experts per token */
@@ -325,15 +325,15 @@ static void evox_verify_natural_transformations(evox_isomorphism_verification_t*
 #define EOVX_HOLOGRAM_RESOLUTION                   4096  /* Nyquist sampling rate */
 #define EOVX_VOXEL_DEPTH                             16  /* Bit depth */
 #define EOVX_PHASE_LEVELS                           256  /* Phase quantization */
-#define EOVX_INTERFERENCE_PATTERNS                    64  /* Diffraction orders */
+#define EOVX_INTERFERENCE_PATTERNS                   64  /* Diffraction orders */
 
 /* Audio Constants (Proposition 7.1) */
 #define EOVX_AUDIO_DIMENSIONS                          9  /* SO(9) symmetry group */
-#define EOVX_HARMONIC_LAYERS                           32  /* Fourier series terms */
+#define EOVX_HARMONIC_LAYERS                          32  /* Fourier series terms */
 #define EOVX_BINAURAL_DEPTH                            8  /* HRTF resolution */
 
 /* API Constants (Theorem 8.2) */
-#define EOVX_API_ENDPOINTS                           256  /* REST endpoints */
+#define EOVX_API_ENDPOINTS                            256  /* REST endpoints */
 #define EOVX_WEBSOCKET_CHANNELS                        64  /* WebSocket channels */
 #define EOVX_REMOTE_EXPERTS                            32  /* Remote expert systems */
 #define EOVX_MESH_NODES                                16  /* Distributed mesh nodes */
