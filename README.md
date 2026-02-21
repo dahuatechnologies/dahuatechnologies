@@ -86,11 +86,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-![Image](https://github.com/user-attachments/assets/999986a1-3846-44bf-aff5-7c87085b8ce0)
-
----
-
-![Image](https://github.com/user-attachments/assets/b95bbc74-7e97-4df4-ac1b-6313a91b216b)
+![Image](https://github.com/user-attachments/assets/8f7601f9-8748-4bb1-99ba-01fd9d74b9c5)
 
 ---
 
