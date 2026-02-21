@@ -6,7 +6,7 @@
 
 ---
 
-## Dahua Prototype AI Mobile PC Displays Starting Version
+## Dahua Prototype AI Smart Personal Computer Starting Version
 
 ---
 
