@@ -92,7 +92,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ```text
 
-* 5 AXIS: G+ ●-----|GN|-----● G- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+* 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
 
 
                                Y+ AXIS (HEIGHT)
@@ -101,7 +101,7 @@ All computational references use the **0 marker**, which extends from the center
                             \  │  /
                              \ │ /
    (LENGHT) AXIS X+ ●----------0--------- X-
-                              /|\ Z (0,0,0,0,0) AXIS GRAVITY ROTATION CENTER ZERO FOR ALL AXIS
+                              /|\ ZN (0,0,0,0,0) AXIS GRAVITY ROTATION CENTER ZERO FOR ALL AXIS
                              / | \
                             /  |  \
                            A-  Y-  W-
@@ -118,16 +118,16 @@ All computational references use the **0 marker**, which extends from the center
 
 ```text
                                    
-* 5 AXES: R+ ●-----|RN|-----● R- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+* 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
 
 
-                               Y+ AXES (HEIGHT)
-       (DIAGONAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
+                               Y+ AXIS (HEIGHT)
+       (DIAGONAL) AXIS W+ ●    ●    ● A+ AXIS (WIDTH)
                            \   │   /
                             \  │  /
                              \ │ /
-   (LENGHT) AXES X+ ●----------0--------- X-
-                              /|\ Z (0,0,0,0,0) AXES GRAVITY ROTATION CENTER NEUTRO FOR ALL AXES
+   (LENGHT) AXIS X+ ●----------0--------- X-
+                              /|\ ZN (0,0,0,0,0) AXIS GRAVITY ROTATION CENTER NEUTRO FOR ALL AXIS
                              / | \
                             /  |  \
                            A-  Y-  W-
