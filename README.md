@@ -74,6 +74,8 @@ The fully circular spiral follows a containment hierarchy from largest to smalle
 - **W Axis-Vector (Width)**: A pure white line extending laterally.
 - **R Axis-Vector (Radial)**: A purple line curving radially outward, forming the autonomous orbital spiral neural mesh network pattern with real-time rendering sector-model architecture.
 
+All computational references use the **0 marker**, which extends from the center position representing the origin point; the **+1 marker**, which extends upward positive, indicating positive directional weighting; and the **-1 marker**, which extends downward negative, indicating negative directional weighting.
+
 ---
 
 **Obs: To do the logical test, use 5 different colored pens to assemble the mathematical model**
