@@ -6,7 +6,7 @@
 
 ---
 
-## Evo Prototype within AI Driven Smart Car - Starting Euro Version
+## Evo Prototype within AI Driven Smart Car - Starting Euro Vision
 
 ---
 
