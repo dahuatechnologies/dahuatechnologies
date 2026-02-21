@@ -82,8 +82,12 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
+#### Cartesian plan multi-axis system
+
+---
+
 ```text
-                                  
+
 * 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
 
 
