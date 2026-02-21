@@ -62,10 +62,6 @@
 
 ---
 
-**To do the logical test, use 5 different colored pens to assemble the mathematical model**
-
----
-
 **Eg:. HIERARCHICAL CORRECTION VALIDATION in 5 Axis (Z,Y,X,W,A) within N Dimensions**
 
 ---
@@ -77,6 +73,10 @@ The fully circular spiral follows a containment hierarchy from largest to smalle
 - **X Axis-Vector (Length)**: A crisp blue line extending horizontally.
 - **W Axis-Vector (Width)**: A pure white line extending laterally.
 - **R Axis-Vector (Radial)**: A purple line curving radially outward, forming the autonomous orbital spiral neural mesh network pattern with real-time rendering sector-model architecture.
+
+---
+
+**Obs: To do the logical test, use 5 different colored pens to assemble the mathematical model**
 
 ---
 
