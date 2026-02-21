@@ -68,7 +68,7 @@
 
 The fully circular spiral follows a containment hierarchy from largest to smallest: Hyper-Spaces (**equivalent to Platters**) contain Spaces (**equivalent to Surfaces**); Spaces contain Axis-Vectors (**equivalent to Disk-Sectors**) as geometric reference primitives; Axis-Vectors contain Dimensions-Neurons (**equivalent to Tracks**) as neurons to process data and make decisions; Dimensions-Neurons contain Data-Sectors-Cluster (**equivalent to Sectors**) as the atomic storage units, Data-Sectors ultimately contain the data payload and Raw-Data-Bytes per Data-Sectors-Cluster. 
 
-- **G Axis-Vector (Center of Gravity Rotation)**: Represented abstractly as a deep **green** line originating from the central initial point (0,0,0,0,0). This axis-vector establishes the core gravitational rotational reference and is visible only through an initial luminous **green** dot dimension-neuron.
+- **Z Axis-Vector (Center of Gravity Rotation)**: Represented abstractly as a deep **green** line originating from the central initial point (0,0,0,0,0). This axis-vector establishes the core gravitational rotational reference and is visible only through an initial luminous **green** dot dimension-neuron.
 - **Y Axis-Vector (Height)**: A bright yellow line extending vertically.
 - **X Axis-Vector (Length)**: A crisp blue line extending horizontally.
 - **W Axis-Vector (Width)**: A pure white line extending laterally.
