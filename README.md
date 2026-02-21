@@ -6,6 +6,14 @@
 
 ---
 
+## Evo Prototype within AI Driven Smart Car - Starting Euro Version
+
+---
+
+![Image](https://github.com/user-attachments/assets/58893e2b-76a8-4fea-808e-afbfa80ae67c)
+
+---
+
 ## Dahua Prototype an AI Driven Smart Car - Starting Version
 
 ---
