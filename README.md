@@ -6,6 +6,12 @@
 
 ---
 
+## Dahua Prototype an AI Driven Smart Car - Zero Version
+
+![Image](https://github.com/user-attachments/assets/0ecd750a-2578-4a1e-a52b-d2c3735a2f38)
+
+---
+
 ## Dahua Prototype an AI Smart Personal Computer - Initial Version
 
 ---
