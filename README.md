@@ -6,6 +6,10 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/30b4de91-2aa5-4611-8d1f-fc6e9524aab9)
+
+---
+
 # 9 Axis within N Dimensions in Big-Screen Cyber Warfare
 
 ---
