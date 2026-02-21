@@ -2496,9 +2496,7 @@ eovx_moe_router_t* create_moe_router(uint64_t num_experts) {
 <NN> ::= <LLM>
 <LLM> ::= <Transformer> | <MoE>
 <Transformer> ::= ...
-
-----
-
+```
 ---
 
 **Novel research in military science on Joint Forces Commands focuses on designing and optimizing the structures, processes, and technologies that integrate diverse military capabilities to solve complex strategic problems.**
