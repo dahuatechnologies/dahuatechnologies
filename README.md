@@ -78,14 +78,6 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-#### Cartesian plan system
-
----
-
-![Image](https://github.com/user-attachments/assets/3612d5c2-2b6e-4b77-a4e2-c69b085f75ce)
-
----
-
 **Obs: To do the logical test, use 5 different colored pens to assemble the mathematical model**
 
 ---
@@ -114,6 +106,15 @@ All computational references use the **0 marker**, which extends from the center
                             /  |  \
                            A-  Y-  W-
 ```
+---
+
+
+#### Cartesian cube plan system
+
+---
+
+![Image](https://github.com/user-attachments/assets/3612d5c2-2b6e-4b77-a4e2-c69b085f75ce)
+
 ---
 
 **Obs0: Prototype implementation using vector in ANSI C89/90 within Standard Comments **/* ... */** using POSIX compliance, Big O Complexity Analysis and PThreads with Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for Lenovo Laptop AMD RyZen 5 7000 S Architectures within AMD Radeon Graphics using Eclipse IDE CDT on exclusive Linux Fedora 42;**
