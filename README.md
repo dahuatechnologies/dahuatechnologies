@@ -96,6 +96,14 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
+#### Cartesian habitat multi-axis within multi-dimensions circle system
+
+---
+
+![Image](https://github.com/user-attachments/assets/4c6d9c12-b3a3-4e21-86f6-416724a305d9)
+
+---
+
 ```text
 
 * 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
