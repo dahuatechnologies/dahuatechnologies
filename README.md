@@ -109,7 +109,7 @@ All computational references use the **0 marker**, which extends from the center
 ---
 
 
-#### Cartesian cube plan system
+#### Cartesian cube N Dimensions within N Axes plan system
 
 ---
 
