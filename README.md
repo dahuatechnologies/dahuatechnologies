@@ -6,7 +6,7 @@
 
 ---
 
-## Dahua Prototype AI Smart Personal Computer Starting Version
+## Dahua Prototype an AI Smart Personal Computer - Initial Version
 
 ---
 
