@@ -66,7 +66,7 @@
 
 **Obs1: Project Rendering AI Command Screen Viewer in 3 Axis using N Dimensions within external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management;**
 
-**Obs2: Project Production in Cluster AI to Command Screen Viewer in 3 Axis using N Dimensions using external library OpenMPI to Message Cluster AI**
+**Obs2: Project Production in Cluster AI in 3 Axis within N Dimensions using external library OpenMPI to Message Cluster AI, implements Military-Grade Security using OpenSSL within VPN and P2P Protocol and Libmicrohttpd to connected Remotelly Expert System to Service Key API Rotation in N times**
 
 **Obs3: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X);**
 
