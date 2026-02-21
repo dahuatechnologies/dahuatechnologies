@@ -6,6 +6,14 @@
 
 ---
 
+## Prototype AI Mobile PC Displays Starting Version
+
+---
+
+![Image](https://github.com/user-attachments/assets/23b19f3d-ad65-40b8-9d75-a077d11094af)
+
+---
+
 ![Image](https://github.com/user-attachments/assets/30b4de91-2aa5-4611-8d1f-fc6e9524aab9)
 
 ---
