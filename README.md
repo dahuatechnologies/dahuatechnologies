@@ -108,11 +108,11 @@ All computational references use the **0 marker**, which extends from the center
 ```
 ---
 
-#### Cartesian cube multi-axis within multi-dimensions plan system
+#### Cartesian pyramid multi-axis within multi-dimensions plan system
 
 ---
 
-![Image](https://github.com/user-attachments/assets/3612d5c2-2b6e-4b77-a4e2-c69b085f75ce)
+![Image](https://github.com/user-attachments/assets/b7b623ab-5614-451c-afeb-f8fd431eb3e0)
 
 ---
 
