@@ -108,7 +108,7 @@ All computational references use the **0 marker**, which extends from the center
 ```
 ---
 
-#### Cartesian pyramid multi-axis within multi-dimensions plan system
+#### Cartesian pyramid multi-axis within multi-dimensions circle system
 
 ---
 
