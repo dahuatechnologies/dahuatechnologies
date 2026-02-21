@@ -101,7 +101,7 @@ All computational references use the **0 marker**, which extends from the center
                             \  │  /
                              \ │ /
    (LENGHT) AXIS X+ ●----------0--------- X-
-                              /|\ G (0,0,0,0,0) AXIS GRAVITY ROTATION CENTER ZERO FOR ALL AXIS
+                              /|\ Z (0,0,0,0,0) AXIS GRAVITY ROTATION CENTER ZERO FOR ALL AXIS
                              / | \
                             /  |  \
                            A-  Y-  W-
@@ -127,7 +127,7 @@ All computational references use the **0 marker**, which extends from the center
                             \  │  /
                              \ │ /
    (LENGHT) AXES X+ ●----------0--------- X-
-                              /|\ G (0,0,0,0,0) AXES GRAVITY ROTATION CENTER NEUTRO FOR ALL AXES
+                              /|\ Z (0,0,0,0,0) AXES GRAVITY ROTATION CENTER NEUTRO FOR ALL AXES
                              / | \
                             /  |  \
                            A-  Y-  W-
