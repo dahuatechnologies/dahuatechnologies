@@ -58,7 +58,7 @@
 
 ---
 
-### Cable **Sousa** - Bizu To C.D.F - HA HA HA
+### Cable **Sousa** - Bizu To C.D.F and Cone - HA HA HA
 
 ---
 
@@ -106,19 +106,23 @@ All computational references use the **0 marker**, which extends from the center
 
 **Obs2: Project Production in Cluster AI in 3 Axis within N Dimensions using external library OpenMPI to Message Cluster AI, implements Military-Grade Security using OpenSSL within VPN and P2P Protocol and Libmicrohttpd to connected Remotelly Expert System implements Service Key API Autonomous Rotation in N times; In Secure Mode Sandbox implements Packet Sniffing with Wireshark and Tcpdump Foundations**
 
-**Obs3: IN Advanced Project AI, Development 3 Axis Artificial Intelligence Operation System Microkernel using Minix Academic 3.1.1 Source Code Base**
+**Obs3: The artificial intelligence created will be a model in binary format to use for autonomous learning; Eg: dahua.bin;**
 
-**Obs4: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X);**
+**Obs4: Do not confuse AI (Eg: dahua.bin) with MoE, AI Code Parts; eg:,(*.gguf) and others**
 
-**Obs5: In Other Mathematically Principles in 3 Dimensions (Z,Y,X)???**
+**Obs5: IN Advanced Project AI, Development 3 Axis Artificial Intelligence Operation System Microkernel using Minix Academic 3.1.1 Source Code Base;**
 
-**Obs6: 3 Axis (Z,Y,X) as Vectors within N Dimensions as Neurons;**
+**Obs6: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X);**
 
-**Obs7: Starting project within 0 Axis to Infinity Axis and 0 Dimensions to Infinity Dimensions;**
+**Obs7: In Other Mathematically Principles in 3 Dimensions (Z,Y,X)???**
 
-**Obs8: Using Neuro-Fuzzy to Autonomous Weights to Vectors and Decision Making to Neurons;**
+**Obs8: 3 Axis (Z,Y,X) as Vectors within N Dimensions as Neurons;**
 
-**Obs9: Neuro-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis/Vectors and functionality Decision Making for Dimensions/Neuro.**
+**Obs9: Starting project within 0 Axis to Infinity Axis and 0 Dimensions to Infinity Dimensions;**
+
+**Obs10: Using Neuro-Fuzzy to Autonomous Weights to Vectors and Decision Making to Neurons;**
+
+**Obs11: Neuro-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis/Vectors and functionality Decision Making for Dimensions/Neuro.**
 
 ---
 
