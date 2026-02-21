@@ -62,6 +62,10 @@
 
 ---
 
+**To do the logical test, use 5 different colored pens to assemble the mathematical model**
+
+---
+
 **Eg:. HIERARCHICAL CORRECTION VALIDATION in 5 Axis (Z,Y,X,W,A) within N Dimensions**
 
 ---
@@ -76,7 +80,8 @@ The fully circular spiral follows a containment hierarchy from largest to smalle
 
 ---
 
-```text                                    
+```text
+                                  
 * 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
 
 
