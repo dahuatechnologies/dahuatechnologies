@@ -108,7 +108,7 @@ All computational references use the **0 marker**, which extends from the center
 
 **Obs3: The artificial intelligence created will be a model in binary format to use for autonomous learning; Eg: dahua.bin;**
 
-**Obs4: Do not confuse AI (Eg: dahua.bin) with MoE, AI Code Parts; eg:,(*.gguf) and others**
+**Obs4: Do not confuse AI (Eg:, dahua.bin) with MoE, AI Code Parts; (Eg:,*.gguf) and others;**
 
 **Obs5: IN Advanced Project AI, Development 3 Axis Artificial Intelligence Operation System Microkernel using Minix Academic 3.1.1 Source Code Base;**
 
