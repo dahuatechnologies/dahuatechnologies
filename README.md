@@ -62,39 +62,23 @@
 
 ---
 
-```text
-NOVEL ACADEMIC RESEARCH OVERVIEW
-
-ARTIFICIAL INTELLIGENCE (Level 0)
-├── MACHINE LEARNING (Level 1)
-│   ├── DEEP LEARNING (Level 2)
-│   │   ├── NEURAL NETWORKS (Level 3)
-│   │   │   ├── LLMs (Level 4)
-│   │   │   │   └── MoE ROUTER (Level 5)
-│   │   │   │       ├── TRANSFORMERS (Level 6)
-│   │   │   │       └── Model Import/Export (GGUF, GGML, Safevectors)
-│   │   │   └── Generative AI Models
-│   │   └── Reinforcement Learning
-│   └── Traditional ML Algorithms
-└── Symbolic AI Integration
-```
----
-
 **Obs0: Prototype implementation using vector in ANSI C89/90 within Standard Comments **/* ... */** using POSIX compliance, Big O Complexity Analysis and PThreads with Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for Lenovo Laptop AMD RyZen 5 7000 S Architectures within AMD Radeon Graphics using Eclipse IDE CDT on exclusive Linux Fedora 42;**
 
 **Obs1: Project Rendering AI Command Screen Viewer in 3 Axis using N Dimensions within external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management;**
 
-**Obs2: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X);**
+**Obs2: Project Production in Cluster AI to Command Screen Viewer in 3 Axis using N Dimensions using external library OpenMPI to Message Cluster AI**
 
-**Obs3: In Other Mathematically Principles in 3 Dimensions (Z,Y,X)???**
+**Obs3: HIERARCHICAL CORRECTION VALIDATION in 3 Axis (Z,Y,X);**
 
-**Obs4: 3 Axis (Z,Y,X) as Vectors within N Dimensions as Neurons;**
+**Obs4: In Other Mathematically Principles in 3 Dimensions (Z,Y,X)???**
 
-**Obs5: Starting project within 0 Axis to Infinity Axis and 0 Dimensions to Infinity Dimensions;**
+**Obs5: 3 Axis (Z,Y,X) as Vectors within N Dimensions as Neurons;**
 
-**Obs6: Using Neuro-Fuzzy to Autonomous Weights to Vectors and Decision Making to Neurons;**
+**Obs6: Starting project within 0 Axis to Infinity Axis and 0 Dimensions to Infinity Dimensions;**
 
-**Obs7: Neuro-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis/Vectors and functionality Decision Making for Dimensions/Neuro.**
+**Obs7: Using Neuro-Fuzzy to Autonomous Weights to Vectors and Decision Making to Neurons;**
+
+**Obs8: Neuro-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis/Vectors and functionality Decision Making for Dimensions/Neuro.**
 
 ---
 
@@ -117,6 +101,24 @@ Here are some ideas to get you started:
 
 ## Clarification and Explanation Algorithm AI v7.0 
 
+---
+
+```text
+NOVEL ACADEMIC RESEARCH OVERVIEW
+
+ARTIFICIAL INTELLIGENCE (Level 0)
+├── MACHINE LEARNING (Level 1)
+│   ├── DEEP LEARNING (Level 2)
+│   │   ├── NEURAL NETWORKS (Level 3)
+│   │   │   ├── LLMs (Level 4)
+│   │   │   │   └── MoE ROUTER (Level 5)
+│   │   │   │       ├── TRANSFORMERS (Level 6)
+│   │   │   │       └── Model Import/Export (GGUF, GGML, Safevectors)
+│   │   │   └── Generative AI Models
+│   │   └── Reinforcement Learning
+│   └── Traditional ML Algorithms
+└── Symbolic AI Integration
+```
 ---
 
 ```
