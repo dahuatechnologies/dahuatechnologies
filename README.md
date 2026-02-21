@@ -42,7 +42,7 @@
 
 ---
 
-## Prototype Displays First Version (Autonomous Generated)
+## Prototype Displays First Version (Autonomous Generated CAD/Manifolds Foundations)
 
 ---
 
