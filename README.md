@@ -82,7 +82,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-#### Cartesian plan spiral multi-axis within N Dimensions System
+#### Cartesian spiral multi-axis within N dimensions plan system
 
 ---
 
