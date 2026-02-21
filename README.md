@@ -132,6 +132,32 @@ All computational references use the **0 marker**, which extends from the center
                             /  |  \
                            A-  Y-  W-
 ```
+---
+
+#### Cartesian oval multi-axis within multi-dimensions circle system
+
+---
+
+![Image](https://github.com/user-attachments/assets/e8087922-28bd-4cb6-b651-5b599f67c221)
+
+---
+
+```text
+                                   
+* 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+
+
+                               Y+ AXIS (HEIGHT)
+       (DIAGONAL) AXIS W+ ●    ●    ● A+ AXIS (WIDTH)
+                           \   │   /
+                            \  │  /
+                             \ │ /
+   (LENGHT) AXIS X+ ●----------0--------- X-
+                              /|\ ZN (0,0,0,0,0) AXIS GRAVITY ROTATION CENTER NEUTRO FOR ALL AXIS
+                             / | \
+                            /  |  \
+                           A-  Y-  W-
+```
 
 ---
 
