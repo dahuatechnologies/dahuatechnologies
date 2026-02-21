@@ -112,10 +112,6 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-#### Cartesian cube N Dimensions within N Axes plan system
-
----
-
 ![Image](https://github.com/user-attachments/assets/3612d5c2-2b6e-4b77-a4e2-c69b085f75ce)
 
 ---
@@ -131,7 +127,7 @@ All computational references use the **0 marker**, which extends from the center
                             \  │  /
                              \ │ /
    (LENGHT) AXES X+ ●----------0--------- X-
-                              /|\ R (0,0,0,0,0) AXES GRAVITY ROTATION CENTER NEUTRO FOR ALL AXES
+                              /|\ G (0,0,0,0,0) AXES GRAVITY ROTATION CENTER NEUTRO FOR ALL AXES
                              / | \
                             /  |  \
                            A-  Y-  W-
