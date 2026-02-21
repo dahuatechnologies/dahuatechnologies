@@ -92,6 +92,8 @@ All computational references use the **0 marker**, which extends from the center
 
 #### Cartesian vehicle multi-axis within multi-dimensions circle system
 
+---
+
 ![Image](https://github.com/user-attachments/assets/9426f975-6868-484a-966c-ebe8810e3f26)
 
 ---
@@ -100,7 +102,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-![Image](https://github.com/user-attachments/assets/4c6d9c12-b3a3-4e21-86f6-416724a305d9)
+![Image](https://github.com/user-attachments/assets/0dbf7dbd-77bd-4aca-8c20-d77eb2958684)
 
 ---
 
