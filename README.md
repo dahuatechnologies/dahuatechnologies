@@ -78,11 +78,19 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
+#### Cartesian plan system
+
+---
+
+![Image](https://github.com/user-attachments/assets/3612d5c2-2b6e-4b77-a4e2-c69b085f75ce)
+
+---
+
 **Obs: To do the logical test, use 5 different colored pens to assemble the mathematical model**
 
 ---
 
-#### Cartesian plan multi-axis within N Dimensions System
+#### Cartesian plan spiral multi-axis within N Dimensions System
 
 ---
 
