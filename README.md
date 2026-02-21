@@ -158,6 +158,33 @@ All computational references use the **0 marker**, which extends from the center
                             /  |  \
                            A-  Y-  W-
 ```
+---
+
+
+#### Cartesian bottle multi-axis within multi-dimensions circle system
+
+---
+
+![Image](https://github.com/user-attachments/assets/c82ab50d-e902-41a7-b9d8-f4acd3124fb1)
+
+---
+
+```text
+                                   
+* 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+
+
+                               Y+ AXIS (HEIGHT)
+       (DIAGONAL) AXIS W+ ●    ●    ● A+ AXIS (WIDTH)
+                           \   │   /
+                            \  │  /
+                             \ │ /
+   (LENGHT) AXIS X+ ●----------0--------- X-
+                              /|\ ZN (0,0,0,0,0) AXIS GRAVITY ROTATION CENTER NEUTRO FOR ALL AXIS
+                             / | \
+                            /  |  \
+                           A-  Y-  W-
+```
 
 ---
 
