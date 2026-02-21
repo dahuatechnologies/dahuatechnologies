@@ -62,6 +62,37 @@
 
 ---
 
+**Eg:. HIERARCHICAL CORRECTION VALIDATION in 5 Axis (Z,Y,X,W,A) within N Dimensions**
+
+---
+
+The fully circular spiral follows a containment hierarchy from largest to smallest: Hyper-Spaces (**equivalent to Platters**) contain Spaces (**equivalent to Surfaces**); Spaces contain Axis-Vectors (**equivalent to Disk-Sectors**) as geometric reference primitives; Axis-Vectors contain Dimensions-Neurons (**equivalent to Tracks**) as neurons to process data and make decisions; Dimensions-Neurons contain Data-Sectors-Cluster (**equivalent to Sectors**) as the atomic storage units, Data-Sectors ultimately contain the data payload and Raw-Data-Bytes per Data-Sectors-Cluster. 
+
+- **Z Axis-Vector (Center of Gravity Rotation)**: Represented abstractly as a deep green line originating from the central initial point (0,0,0,0,0). This axis-vector establishes the core gravitational rotational reference and is visible only through an initial luminous dot dimension-neuron.
+- **Y Axis-Vector (Height)**: A bright yellow line extending vertically.
+- **X Axis-Vector (Length)**: A crisp blue line extending horizontally.
+- **W Axis-Vector (Width)**: A pure white line extending laterally.
+- **R Axis-Vector (Radial)**: A purple line curving radially outward, forming the autonomous orbital spiral neural mesh network pattern with real-time rendering sector-model architecture.
+
+---
+
+```text                                    
+* 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+
+
+                               Y+ AXES (HEIGHT)
+         (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
+                           \   │   /
+                            \  │  /
+                             \ │ /
+   (LENGHT) AXES X+ ●----------0--------- X-
+                              /|\ ZN (0,0,0,0,0) AXES GRAVITY ROTATION CENTER ZERO FOR ALL AXIS
+                             / | \
+                            /  |  \
+                           A-  Y-  W-
+```
+---
+
 **Obs0: Prototype implementation using vector in ANSI C89/90 within Standard Comments **/* ... */** using POSIX compliance, Big O Complexity Analysis and PThreads with Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for Lenovo Laptop AMD RyZen 5 7000 S Architectures within AMD Radeon Graphics using Eclipse IDE CDT on exclusive Linux Fedora 42;**
 
 **Obs1: Project Rendering AI Command Screen Viewer in 3 Axis using N Dimensions within external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management;**
