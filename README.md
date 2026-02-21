@@ -58,7 +58,7 @@
 
 ---
 
-### Cable **Sousa** - Bizu To C.D.F and Cone - HA HA HA
+### Cable **Sousa** - Bizu To C.D.F and The Cone of Class - HA HA HA
 
 ---
 
