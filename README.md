@@ -6,6 +6,14 @@
 
 ---
 
+## Evo Prototype within AI Driven Smart Car - Ultimate China Vision
+
+---
+
+![Image](https://github.com/user-attachments/assets/c5d76c56-1168-475a-b241-30a61d03d31c)
+
+---
+
 ## Evo Prototype within AI Driven Smart Car - Starting Euro Vision
 
 ---
