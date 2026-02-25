@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-![Image](https://github.com/user-attachments/assets/896bb9d5-c624-4023-b1b8-16f4863f2e2c)
+![Image](https://github.com/user-attachments/assets/d8e4b7dd-bfef-45b1-b27f-715d61c9e398)
 
 ---
 
