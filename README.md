@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+## returning home to Araba
+
+---
+
+![Image](https://github.com/user-attachments/assets/73caebf3-f2e6-4abd-bbd1-e35992e70055)
+
+---
+
 ## I Davada and Halaia Tisbi this afternoon in Jerusalem, Israel.
 
 ---
