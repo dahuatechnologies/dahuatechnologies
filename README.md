@@ -31,11 +31,15 @@ Here are some ideas to get you started:
 
 ---
 
-## Returning home to Araba (Flying Car)
+## Black Jacket For All Enemies in Name of Elohim
 
 ---
 
-## Black Jacket for Carrot Velhote Safadot Live in Juruna go to Alem
+![Image](https://github.com/user-attachments/assets/896bb9d5-c624-4023-b1b8-16f4863f2e2c)
+
+---
+
+## Returning home to Araba (Flying Car)
 
 ---
 
