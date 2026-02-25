@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/cb7a2b74-6ee3-4848-adae-310404fc16eb)
+
+---
+
 ![Image](https://github.com/user-attachments/assets/157f82e3-f0f4-4ae6-a809-01ab3b23771f)
 
 ---
