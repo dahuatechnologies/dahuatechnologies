@@ -1,4 +1,4 @@
-## Novel About The World ⚡
+## Novel About The New and Old World ⚡
 
 ---
 
@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+## Old Temple Mount, Dome of the Rock
+
+![Image](https://github.com/user-attachments/assets/557fa24e-b7c6-473c-9db8-5e5bcf6b3391)
 
 ---
 
