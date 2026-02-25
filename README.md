@@ -1,1 +1,59 @@
-# dauatechnologies
+## Novel About The World ⚡
+
+---
+
+**Copyright © 2026 Evolution Technologies Research and Development - All Rights Reserved**
+
+---
+
+**Powered By Davada and Halaia**
+
+---
+
+## The warriors of Elohim are on the side of those who fear
+
+<!--
+**dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+---
+
+## The beautiful and clean grelo river (F-28 Gripe Suina)
+
+---
+
+## Speak to the navy to arrange a fully cleanup of the Sabão Grelo River.
+
+---
+
+![Image](https://github.com/user-attachments/assets/6907b9d4-66fc-4b9b-b6b3-82ce54302393)
+
+---
+
+![Image](https://github.com/user-attachments/assets/29a3b7a1-8060-49fa-8dfc-24d6e274b71a)
+
+---
+
+![Image](https://github.com/user-attachments/assets/93065ec5-d26e-43b0-9588-aabdbe322168)
+
+---
+
+![Image](https://github.com/user-attachments/assets/993c0e5c-ed0b-48e7-8952-e4e53e427565)
+
+---
+
+![Image](https://github.com/user-attachments/assets/d0d3f916-5b56-4e10-8d79-73f82371b639)
+
+---
+
