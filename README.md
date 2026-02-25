@@ -12,6 +12,8 @@
 
 ## The warriors of Elohim are on the side of those who fear
 
+---
+
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +33,9 @@ Here are some ideas to get you started:
 
 ## Old Temple Mount, Dome of the Rock
 
-![Image](https://github.com/user-attachments/assets/557fa24e-b7c6-473c-9db8-5e5bcf6b3391)
+---
+
+![Image](https://github.com/user-attachments/assets/4b006cec-94be-4505-bcf0-ca8a4ee670ae)
 
 ---
 
