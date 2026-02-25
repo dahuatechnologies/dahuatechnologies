@@ -2,15 +2,15 @@
 
 ---
 
-**Copyright © 2026 Evolution Technologies Research and Development - All Rights Reserved**
+## The warriors of Elohim are on the side of those who fear
+
+---
+
+**Copyright © 2026 Dahua Technologies Research and Development - All Rights Reserved**
 
 ---
 
 **Powered By Davada and Halaia**
-
----
-
-## The warriors of Elohim are on the side of those who fear
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
