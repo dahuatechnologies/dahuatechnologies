@@ -35,15 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Riverplay (Davada Beni Elohim) Paleto within fios de ouro 100%
-
----
-
-![Image](https://github.com/user-attachments/assets/1217ba70-33e6-4314-bb60-855778c66e29)
-
----
-
-## Eu Davada PlayBoy Esperando all enemies die for me in the streets of Jerusalem, no one appears to kill him.
+## Riverplay (Davada Beni Zaita) in the streets of Jerusalem, no one appears to kill him.
 
 ---
 
@@ -75,19 +67,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Black Jacket For All Enemies in Name of Elohim
-
----
-
 ![Image](https://github.com/user-attachments/assets/d8e4b7dd-bfef-45b1-b27f-715d61c9e398)
-
----
-
-## Returning home to Araba (Flying Car)
-
----
-
-(Music Play - Kasino - Stay Tonight) - https://youtu.be/hVZR5AoXSJk
 
 ---
 
