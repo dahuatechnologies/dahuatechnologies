@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/0ef47e32-57e1-45ff-9dc7-8ff9a22fdb31)
+
+---
+
 ![Image](https://github.com/user-attachments/assets/2ae42bf6-9304-4af1-8bcf-2f12fc30f9f6)
 
 ---
