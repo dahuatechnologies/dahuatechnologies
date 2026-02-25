@@ -31,11 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Dava Special Forces
-
----
-
-## Riverplay (Davada Beni Zaita) in the streets of Jerusalem, no one appears to kill him.
+## Davada Beni Zaita in the streets of Jerusalem, no one appears to kill him.
 
 ---
 
