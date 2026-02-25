@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Riveplay (Davada Beni Elohim) Paleto within fios de ouro 100%
+## Riverplay (Davada Beni Elohim) Paleto within fios de ouro 100%
 
 ---
 
