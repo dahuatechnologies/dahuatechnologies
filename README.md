@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 
 ---
 
+## Prophet Elijah preaching in the streets of Jerusalem, no one appears to kill him.
+
+---
+
+![Image](https://github.com/user-attachments/assets/d21c4c48-e6ef-495a-b227-23a5cb35269b)
+
+---
+
 ![Image](https://github.com/user-attachments/assets/0ef47e32-57e1-45ff-9dc7-8ff9a22fdb31)
 
 ---
