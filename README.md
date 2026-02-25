@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 
 ---
 
+## Paleto within fios de ouro 100%
+
+---
+
+![Image](https://github.com/user-attachments/assets/1217ba70-33e6-4314-bb60-855778c66e29)
+
+---
+
 ## Eu Davada PlayBoy Esperando all enemies die for me in the streets of Jerusalem, no one appears to kill him.
 
 ---
