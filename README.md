@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+## I Davada and Halaia Tisbi this afternoon in Jerusalem, Israel.
+
+---
+
+![Image](https://github.com/user-attachments/assets/bb010b05-8c39-4c75-ad22-7f1593504207)
+
+---
+
 ## Old Temple Mount, Dome of the Rock
 
 ---
