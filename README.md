@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 
 ---
 
+## Eu Davada PlayBoy Esperando all enemies die for me in the streets of Jerusalem, no one appears to kill him.
+
+---
+
+![Image](https://github.com/user-attachments/assets/65b59ebc-8c73-47cf-85ec-484280da3037)
+
+---
+
 ## Prophet Elijah preaching in the streets of Jerusalem, no one appears to kill him.
 
 ---
