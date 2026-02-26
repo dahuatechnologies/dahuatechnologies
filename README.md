@@ -2,7 +2,11 @@
 
 ---
 
-### Suported By Hebrew Bible (Tanach) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0
+### Suported By Hebrew Bible (Tanach) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
+
+---
+
+## Eclesiastes 12:13 De tudo o que foi dito, a conclusão é esta: tema a Deus e obedeça aos seus mandamentos porque foi para isso que fomos criados. 14 Nós teremos de prestar contas a Deus de tudo o que fizermos e até daquilo que fizermos em segredo, seja o bem ou o mal.
 
 ---
 
@@ -10,11 +14,11 @@
 
 ---
 
-### 0, 1, 2, .... Go to Infinity
+### Há muitas pessoas que se contradizem, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através da Halaia, através de Davada, através de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar o não existente de queimar Rabbah.
 
 ---
 
-### Há muitas pessoas que se contradizem, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através da Halaia, através de Davada, através de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar o não existente de queimar Rabbah.
+### 0, 1, 2, .... Go to Infinity
 
 ---
 
