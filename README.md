@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 **The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation**
 
-**5 AXIS: (Z, Y, X, W, A) (Zaita, Davada Et al, 2025)**
+**Zaita, Davada Et al, 2025**
+
+**Multi-Axis: (Z, Y, X, W, A)**
 
 ---
 
