@@ -69,6 +69,10 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
+![Image](https://github.com/user-attachments/assets/4895aadd-7acb-4a1a-abaa-a02d26ef219f)
+
+---
+
 ## State-of-the-art autonomous learning and morphogenesis calculus 
 
 ---
