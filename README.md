@@ -6,6 +6,14 @@
 
 ---
 
+### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
+
+---
+
+![Image](https://github.com/user-attachments/assets/1bcec4ac-a6d1-4f66-94ca-03106c7bd74a)
+
+---
+
 ```text
 
 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
@@ -35,14 +43,6 @@ All computational references use the **0 marker**, which extends from the center
 **(Zaita, Davada Et al, 2025)**
 
 ```
-
----
-
-### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
-
----
-
-![Image](https://github.com/user-attachments/assets/1bcec4ac-a6d1-4f66-94ca-03106c7bd74a)
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
