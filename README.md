@@ -10,7 +10,7 @@
 
 ---
 
-### Há muitas pessoas que se contradizem, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através da Halaia, através de Davada, através de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar o não existente de queimar Rabbah.
+### Há muitas pessoas que se contradizendo, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através da Halaia, através de Davada, através de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar o não existente para queimar Rabbah.
 
 ---
 
