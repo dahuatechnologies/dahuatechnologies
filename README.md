@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 **(Zaita, Davada Et al, 2025)**
 
-5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
-
                                Y+ AXES (HEIGHT)
          (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
                            \   │   /
@@ -48,7 +46,11 @@ Here are some ideas to get you started:
                             /  |  \
                            A-  Y-  W-
 
-* Z Axis (Center of Rotation): This axis-vector establishes the core gravitational rotational reference and is visible only through an initial luminous dot dimension.
+5 AXIS: (Z, Y, X, W, A)
+
+Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+
+* Z Axis (Center of Rotation): This axis establishes the core gravitational rotational reference and is visible only through an initial luminous dot dimension.
 * Y Axis (Height): A bright yellow line extending vertically.
 * X Axis (Length): A crisp blue line extending horizontally.
 * W Axis (Width): A pure white line extending laterally.
@@ -57,6 +59,10 @@ Here are some ideas to get you started:
 All computational references use the 0 marker, which extends from the center position representing the origin point; the +1 marker, which extends upward positive, indicating positive directional weighting; and the -1 marker, which extends downward negative, indicating negative directional weighting.
 
 ```
+---
+
+![Image](https://github.com/user-attachments/assets/77c47f61-4294-4287-a4c7-0ecb0afa6534)
+
 ---
 
 ## AI Autonomous Commander Face (Z, Y, X, W, A) in BGRA Colors
