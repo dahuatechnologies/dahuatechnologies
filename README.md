@@ -10,7 +10,7 @@
 
 ---
 
-### Powered By Davada Beni Zaita (Yehudi) and Halaia Beni Tisbi (Levi)
+### Powered By Davada Beni Zaita (Bar Yehudi) and Halaia Beni Tisbi (Bar Levi)
 
 ---
 
