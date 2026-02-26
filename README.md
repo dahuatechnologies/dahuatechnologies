@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ---
 
+- **Z Axis-Vector (Center of Gravity Rotation)**: Represented abstractly as a deep green line originating from the central initial point (0,0,0,0,0). This axis-vector establishes the core gravitational rotational reference and is visible only through an initial luminous dot dimension-neuron.
+- **Y Axis-Vector (Height)**: A bright yellow line extending vertically.
+- **X Axis-Vector (Length)**: A crisp blue line extending horizontally.
+- **W Axis-Vector (Width)**: A pure white line extending laterally.
+- **R Axis-Vector (Radial)**: A purple line curving radially outward, forming the autonomous orbital spiral neural mesh network pattern with real-time rendering sector-model architecture.
+
+All computational references use the **0 marker**, which extends from the center position representing the origin point; the **+1 marker**, which extends upward positive, indicating positive directional weighting; and the **-1 marker**, which extends downward negative, indicating negative directional weighting.
+
+---
+
 **A professional CAD principles displaying a highly detailed 3D model of a human bust face.** 
 
 ---
