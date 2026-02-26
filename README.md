@@ -29,11 +29,15 @@ Here are some ideas to get you started:
 
 ## 3D AI Commander Bust Face
 
-A professional CAD principles displaying a highly detailed 3D model of a human bust face. 
+**A professional CAD principles displaying a highly detailed 3D model of a human bust face.** 
 
 ---
 
 ![Image](https://github.com/user-attachments/assets/8a283482-de8f-4149-8c6d-512c40b87d90)
+
+---
+
+**A 3D visualization of an AI face as a learned manifold in latent space**
 
 ---
 
