@@ -6,6 +6,10 @@
 
 ---
 
+### Suported By The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation
+
+---
+
 ## The Warriors of Elohim are on the side of those who fear
 
 ---
