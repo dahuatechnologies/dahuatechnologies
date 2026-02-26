@@ -65,11 +65,11 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-**A professional CAD principles displaying a highly detailed 3A model of a human bust face.** 
+**A 3A visualization of artificial intelligence face morphogenesis**
 
 ---
 
-![Image](https://github.com/user-attachments/assets/8a283482-de8f-4149-8c6d-512c40b87d90)
+![Image](https://github.com/user-attachments/assets/6bb1d3e8-cedc-4488-bdc2-8596bea08dc2)
 
 ---
 
@@ -81,10 +81,10 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-**A 3A visualization of artificial intelligence face morphogenesis**
+**A professional CAD principles displaying a highly detailed 3A model of a human bust face.** 
 
 ---
 
-![Image](https://github.com/user-attachments/assets/6bb1d3e8-cedc-4488-bdc2-8596bea08dc2)
+![Image](https://github.com/user-attachments/assets/8a283482-de8f-4149-8c6d-512c40b87d90)
 
 ---
