@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 
 ---
 
-**Clarification Calculus: Green side - GYBW - AAA <- (Davada);**
+**Clarification Calculus: Green side - GYBW - AAA <- (Davada) and Yours People;**
 
 ---
 
-**Clarification Calculus: Temporary - BGRA - AAA <- (BANACH);** 
+**Clarification Calculus: Temporary - BGRA - AAA <- (BANACH) and Yours People;** 
 
 ---
 
-**Clarification Calculus: Red side - RGBA -> RRR (RAMAN).** 
+**Clarification Calculus: Red side - RGBA -> RRR (RAMAN) and Yours Peoples.** 
 
 ---
 
