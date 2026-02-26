@@ -6,7 +6,7 @@
 
 ---
 
-### Tem muita gente que continue contraditando dizendo que vão para a glória, para o ceu, o paraiso, so que tem um problema tem que passar pelo Halaia, pelo Davada, Por Adonai, então concluindo, Não Passa, Não Passa, Não Passa até o infinito, opositor a biblia hebraica não passa.
+### Tem muita gente que fica contraditando dizendo que vão para a glória, para o ceu, o paraiso, so que tem um problema tem que passar pelo Halaia, pelo Davada, Por Adonai Tzevaot, então concluindo, Não Passa, Não Passa, Não Passa até o infinito, opositor a biblia hebraica não passa. Eles vão parar o inexistente para queimar a Raba.
 
 ---
 
