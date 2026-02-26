@@ -1,12 +1,12 @@
-### Suported By Hebrew Bible (Tanach) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
-
----
-
 ### Copyright © 2026 Dahua Technologies Research and Development - All Rights Reserved
 
 ---
 
 ### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
+
+---
+
+### Suported By Hebrew Bible (Tanach) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
 
 ---
 
@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 
 ```text
 
-5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+**The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation**
 
+**(Zaita, Davada Et al, 2025)**
+
+5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
 
                                Y+ AXES (HEIGHT)
          (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
@@ -51,12 +54,7 @@ Here are some ideas to get you started:
 
 All computational references use the **0 marker**, which extends from the center position representing the origin point; the **+1 marker**, which extends upward positive, indicating positive directional weighting; and the **-1 marker**, which extends downward negative, indicating negative directional weighting.
 
-**The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation**
-
-**(Zaita, Davada Et al, 2025)**
-
 ```
-
 ---
 
 ## AI Autonomous Commander Face (Z, Y, X, W, A) in BGRA Colors
