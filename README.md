@@ -8,7 +8,8 @@
 
 ```text
 
-* 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+
 
                                Y+ AXES (HEIGHT)
          (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
