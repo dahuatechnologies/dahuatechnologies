@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Autonomous Generated Face as Result Show Preview**
+**Autonomous Human Face Artificial Intelligence Morphogenesis**
 
 ---
 
