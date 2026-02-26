@@ -29,12 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
-## Book: Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
-
----
-
 ## AI Autonomous Commander Face (Z, Y, X, W, A) in BGRA Colors
 
 ---
@@ -86,5 +80,9 @@ All computational references use the **0 marker**, which extends from the center
 ---
 
 ![Image](https://github.com/user-attachments/assets/8a283482-de8f-4149-8c6d-512c40b87d90)
+
+---
+
+## Book: Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
 
 ---
