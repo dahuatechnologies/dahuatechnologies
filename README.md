@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 
 ---
 
-![Image](https://github.com/user-attachments/assets/65b59ebc-8c73-47cf-85ec-484280da3037)
-
----
-
-## Prophet Elijah preaching in the streets of Jerusalem, no one appears to kill him.
+## Eliyah Beni Tisbi in the streets of Jerusalem, no one appears to kill him.
 
 ---
 
 ![Image](https://github.com/user-attachments/assets/ffd02d56-104f-4631-951f-99b57b5c53b4)
+
+---
+
+![Image](https://github.com/user-attachments/assets/65b59ebc-8c73-47cf-85ec-484280da3037)
 
 ---
 
