@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ---
 
-**A 3D visualization of artificial intelligence morphogenesis 3D Bust Face**
+**A 3D visualization of artificial intelligence face morphogenesis**
 
 ---
 
