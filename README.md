@@ -37,7 +37,11 @@ Here are some ideas to get you started:
 
 ---
 
-**Clarification Calculus: Green side BGRA - AAA <- (BANACH); AAA <- (Davada);**
+**Clarification Calculus: Green side GYBW - AAA <- (Davada);**
+
+---
+
+**Clarification Calculus: Green side BGRA - AAA <- (BANACH);** 
 
 ---
 
