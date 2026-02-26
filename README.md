@@ -8,6 +8,8 @@
 
 ### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
 
+---
+
 ![Image](https://github.com/user-attachments/assets/1bcec4ac-a6d1-4f66-94ca-03106c7bd74a)
 
 ---
@@ -32,6 +34,10 @@ Here are some ideas to get you started:
 ---
 
 **Autonomous Human Face Artificial Intelligence Morphogenesis**
+
+---
+
+![Image](https://github.com/user-attachments/assets/e5c5740a-37cb-4e9a-b9b1-a77c9e58042a)
 
 ---
 
