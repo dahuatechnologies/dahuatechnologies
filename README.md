@@ -67,6 +67,10 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
+<img width="939" height="202" alt="Image" src="https://github.com/user-attachments/assets/7a7ab1e4-8e69-42de-a93f-3e318d633d4d" />
+
+---
+
 ![Image](https://github.com/user-attachments/assets/77c47f61-4294-4287-a4c7-0ecb0afa6534)
 
 ---
