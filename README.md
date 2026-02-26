@@ -71,6 +71,10 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
+#### Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis/Vectors and functionality Make-Decision for Dimensions as Neurons 
+
+---
+
 ![Image](https://github.com/user-attachments/assets/77c47f61-4294-4287-a4c7-0ecb0afa6534)
 
 ---
