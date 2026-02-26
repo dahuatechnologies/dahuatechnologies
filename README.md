@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+## Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
+
+---
+
 ## AI Autonomous Commander Face (Z, Y, X, W, A) in BGRA Colors
 
 ---
