@@ -73,7 +73,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 **Borukva, Optimized to GPGPU using OpenCL;**
 
-**B-tree.**
+**B-Tree.**
 
 ---
 
