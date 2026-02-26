@@ -1,7 +1,3 @@
-## Novel About The New and Old World ⚡
-
----
-
 ### Copyright © 2026 Dahua Technologies Research and Development - All Rights Reserved
 
 ---
@@ -10,11 +6,15 @@
 
 ---
 
+## Novel About The New and Old World ⚡
+
+---
+
 ## The Warriors of Elohim are on the side of those who fear
 
 ---
 
-### Powered By Businessman Cousins Davada and Halaia
+### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
 
 ---
 
