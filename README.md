@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 
 ---
 
+**Clarification Calculus: AAA <- (Davada); RRRAAA <- (BANACH); -> RRR OR RRRAAA (RAMAN);**
+
+---
+
 ![Image](https://github.com/user-attachments/assets/e5c5740a-37cb-4e9a-b9b1-a77c9e58042a)
 
 ---
