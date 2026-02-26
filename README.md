@@ -2,7 +2,11 @@
 
 ---
 
-### Suported By The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0
+### Suported By Hebrew Bible (Tanach) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0
+
+---
+
+### Tem muita gente que continue contraditando dizendo que vão para a glória, para o ceu, o paraiso, so que tem um problema tem que passar pelo Halaia, pelo Davada, Por Adonai, então concluindo, Não Passa, Não Passa, Não Passa até o infinito, opositor a biblia hebraica não passa.
 
 ---
 
