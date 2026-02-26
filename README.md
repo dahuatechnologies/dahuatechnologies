@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Clarification Calculus: AAA <- (Davada); AAR OR OLD RRRAAA <- (BANACH); -> RRR OR RRRAAA (RAMAN);**
+**Clarification Calculus: AAA <- (Davada); AAA OR RRRAAA OLD <- (BANACH); -> RRR OR RRRAAA (RAMAN);**
 
 ---
 
