@@ -31,23 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Clarification Calculus: Red - Left Side | Red Ranzinzo vs Blue Nato | Green - Right Side**
-
----
-
-**Clarification Calculus: Green side - GYBW - AAA <- (Davada) and Yours Peoples;**
-
----
-
-**Clarification Calculus: Temporary - BGRA - AAA <- (BANACH) and Yours Peoples;** 
-
----
-
-**Clarification Calculus: Red side - RGBA -> RRR (RAMAN/RAZINHO) and Yours Peoples.** 
-
----
-
-## AI Autonomous Commander Face (Z, Y, X, W, A)
+## AI Autonomous Commander Face (Z, Y, X, W, A) in BGRA Colors
 
 ---
 
