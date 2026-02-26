@@ -10,7 +10,7 @@
 
 ---
 
-### There are many people who contradict themselves, saying they are going to glory, to heaven, to paradise, but there's a problem: they have to go through Halaia, through Davada, through Adonai Tzevaot. So, in conclusion, it doesn't pass, it doesn't pass, it doesn't pass to infinity; those who oppose the Hebrew Bible don't pass. They will stop the nonexistent to burn Rabbah.
+### There are many people who contradict themselves, saying they are going to glory, to heaven, to paradise, but there's a problem: they have to go through Halaia, through Davada, through Adonai Tzevaot. So, in conclusion, it doesn't pass, it doesn't pass, it doesn't pass to infinity; those who oppose the Hebrew Bible don't pass. They will stop the nonexistent to burn Rabbah. It's good that Nato Banach and Batach and their people still had a page from the Tanakh to erase the Rabbah, even though it's still there.
 
 ---
 
