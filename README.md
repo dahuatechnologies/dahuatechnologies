@@ -8,13 +8,13 @@
 
 ### Key Question: Where is the Nazarene? The Prophet Isa? Prophet Muhammad? Others, Others, and Others ???
 
-### Para que eles falem em seu próprio nome ???
+### For Them To Speak on Their Own Behalf On Behalf ???
 
 ---
 
 ### Pergunta Chave: Cade o Nazareno? Profeta Isa? Profeta Mohamed? Outros, Outros e Outros ???
 
-### For Them To Speak on Their Own Behalf On Behalf ???
+### Para que eles falem em seu próprio nome ???
 
 ---
 
