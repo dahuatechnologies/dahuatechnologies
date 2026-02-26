@@ -6,7 +6,7 @@
 
 ---
 
-### Há muitas pessoas contradizendo, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através do Halaia, do Davada, e de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar no existente para queimar Rabbah.
+### Há muitas pessoas contradizendo, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através do Halaia, do Davada, e de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar no inexistente para queimar Rabbah com que já está por lá. Que bom que o Nato e Batach e os seu tinha ainda uma folhinha do Tanach para apagar a Rabbah.
 
 ---
 
