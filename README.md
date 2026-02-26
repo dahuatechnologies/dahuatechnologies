@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 4-point Harness
+## 4-point Harness (Blue - Ok, Red - Error)
 
 ![Image](https://github.com/user-attachments/assets/9fa8a615-789b-49a2-95d1-53de9ca550d8)
 
