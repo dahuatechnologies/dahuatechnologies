@@ -6,11 +6,11 @@
 
 ---
 
-## The warriors of Elohim are on the side of those who fear
+## The Warriors of Elohim are on the side of those who fear
 
 ---
 
-### Powered By Davada Beni Zaita (Bar Yehudi) and Halaia Beni Tisbi (Bar Levi)
+### Powered By Cousins Davada Beni Zaita (Bar Yehudi) and Halaia Beni Tisbi (Bar Levi)
 
 ---
 
