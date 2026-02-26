@@ -29,6 +29,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+## 4-point Harness
+
+![Image](https://github.com/user-attachments/assets/9fa8a615-789b-49a2-95d1-53de9ca550d8)
+
+---
+
 ## AI Autonomous Commander Face (Z, Y, X, W, A) in BGRA Colors
 
 ---
