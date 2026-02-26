@@ -6,6 +6,13 @@
 
 ---
 
+### Key Question: Where is the Nazarene? The Prophet Isa? Prophet Muhammad? Others, Others, and Others ???
+
+
+### Pergunta Chave: Cade o Nazareno? O Profeta Isa? Cade o Profeta Mohamed? Outros, Outros e Outros ???
+
+---
+
 ### Há muitas pessoas contradizendo, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através do Halaia, do Davada, e de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar no inexistente para queimar Rabbah com que já está por lá. Que bom que o Nato Banach e a Batach e os seus tinham ainda uma folhinha do Tanach para apagar a Rabbah, mesmo assim continua por lá.
 
 ---
