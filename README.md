@@ -9,7 +9,7 @@
 ### Key Question: Where is the Nazarene? The Prophet Isa? Prophet Muhammad? Others, Others, and Others ???
 
 
-### Pergunta Chave: Cade o Nazareno? O Profeta Isa? Cade o Profeta Mohamed? Outros, Outros e Outros ???
+### Pergunta Chave: Cade o Nazareno? Profeta Isa? Profeta Mohamed? Outros, Outros e Outros ???
 
 ---
 
