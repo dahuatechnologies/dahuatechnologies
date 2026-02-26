@@ -2,7 +2,7 @@
 
 ---
 
-### Suported By The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation
+### Suported By The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0
 
 ---
 
