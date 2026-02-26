@@ -29,12 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## AI Autonomous Commander Face (Z, Y, X, W, A)
-
----
-
-**Algorithm to Generated Autonomous Artificial Intelligence Human Face Morphogenesis**
-
 ---
 
 **Clarification Calculus: Red - Left Side | Red Ranzinzo vs Blue Nato | Green - Right Side**
@@ -50,6 +44,14 @@ Here are some ideas to get you started:
 ---
 
 **Clarification Calculus: Red side - RGBA -> RRR (RAMAN/RAZINHO) and Yours Peoples.** 
+
+---
+
+## AI Autonomous Commander Face (Z, Y, X, W, A)
+
+---
+
+**Algorithm to Generated Autonomous Artificial Intelligence Human Face Morphogenesis**
 
 ---
 
