@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Clarification Calculus: Red - Left Side | BGRA - Blue Center Side | Green - Right Side**
+**Clarification Calculus: Red - Left Side | Red vs Blue | Green - Right Side**
 
 ---
 
