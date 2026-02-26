@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Clarification Calculus: Red side - RGBA -> RRR (RAMAN) and Yours Peoples.** 
+**Clarification Calculus: Red side - RGBA -> RRR (RAMAN/RAZINHO) and Yours Peoples.** 
 
 ---
 
