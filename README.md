@@ -8,10 +8,7 @@
 
 ```text
 
-* 5 AXIS: The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation (Zaita, Davada Et al, 2025)
-
-Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
-
+* 5 AXIS: Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
 
                                Y+ AXES (HEIGHT)
          (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
@@ -31,6 +28,10 @@ Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|---
 - **R Axis-Vector (Radial)**: A purple line curving radially outward, forming the autonomous orbital spiral neural mesh network pattern with real-time rendering sector-model architecture.
 
 All computational references use the **0 marker**, which extends from the center position representing the origin point; the **+1 marker**, which extends upward positive, indicating positive directional weighting; and the **-1 marker**, which extends downward negative, indicating negative directional weighting.
+
+**The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation**
+
+**(Zaita, Davada Et al, 2025)**
 
 ```
 
