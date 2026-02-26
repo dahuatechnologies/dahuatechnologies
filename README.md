@@ -6,15 +6,15 @@
 
 ---
 
-## Eclesiastes 12:13 De tudo o que foi dito, a conclusão é esta: tema a Deus e obedeça aos seus mandamentos porque foi para isso que fomos criados. 14 Nós teremos de prestar contas a Deus de tudo o que fizermos e até daquilo que fizermos em segredo, seja o bem ou o mal.
-
----
-
-### There are many people who contradict themselves, saying they are going to glory, to heaven, to paradise, but there's a problem: they have to go through Halaia, through Davada, through Adonai Tzevaot. So, in conclusion, it doesn't pass, it doesn't pass, it doesn't pass to infinity; those who oppose the Hebrew Bible don't pass. They will stop the nonexistent to burn Rabbah.
+## Eclesiastes 12:13 De tudo o que foi dito, a conclusão é esta: tema a Elohim e obedeça aos seus mandamentos porque foi para isso que fomos criados. 14 Nós teremos de prestar contas a Elohim de tudo o que fizermos e até daquilo que fizermos em segredo, seja o bem ou o mal.
 
 ---
 
 ### Há muitas pessoas que se contradizem, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através da Halaia, através de Davada, através de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar o não existente de queimar Rabbah.
+
+---
+
+### There are many people who contradict themselves, saying they are going to glory, to heaven, to paradise, but there's a problem: they have to go through Halaia, through Davada, through Adonai Tzevaot. So, in conclusion, it doesn't pass, it doesn't pass, it doesn't pass to infinity; those who oppose the Hebrew Bible don't pass. They will stop the nonexistent to burn Rabbah.
 
 ---
 
