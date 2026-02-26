@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/a4706de2-854b-4179-9fc5-cdd968a8b5e6)
+
+---
+
 ![Image](https://github.com/user-attachments/assets/ffd02d56-104f-4631-951f-99b57b5c53b4)
 
 ---
