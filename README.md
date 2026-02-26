@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Autonomous Human Face Artificial Intelligence Morphogenesis**
+**Algorithm to Generated Autonomous Artificial Intelligence Human Face Morphogenesis**
 
 ---
 
