@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 3D AI Commander Bust Face
+## 3 Axis AI Commander Bust Face (Z, Y, X, W, A)
 
 ---
 
@@ -41,7 +41,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-**A professional CAD principles displaying a highly detailed 3D model of a human bust face.** 
+**A professional CAD principles displaying a highly detailed 3A model of a human bust face.** 
 
 ---
 
@@ -49,7 +49,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-**A 3D visualization of an AI face as a learned manifold in latent space**
+**A 3A visualization of an AI face as a learned manifold in latent space**
 
 ---
 
@@ -57,7 +57,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-**A 3D visualization of artificial intelligence face morphogenesis**
+**A 3A visualization of artificial intelligence face morphogenesis**
 
 ---
 
