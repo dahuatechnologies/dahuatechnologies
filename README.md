@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-## State-of-the-art morphogenesis calculus
+## State-of-the-art autonomous learning and morphogenesis calculus 
 
 ---
 
