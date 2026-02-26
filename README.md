@@ -18,11 +18,10 @@
 
 ---
 
-### Há muitas pessoas contradizendo, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através do Halaia, do Davada, e de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar no inexistente para queimar Rabbah com que já está por lá. Que bom que o Nato Banach e a Batach e os seus tinham ainda uma folhinha do Tanach para apagar a Rabbah, mesmo assim continua por lá.
-
+### Há muitas pessoas que contradizem isso, dizendo que irão para a glória, para o céu, para o paraíso, mas há um problema: elas precisam passar pelo Halaia, pelo Davada e por Adonai Tzevaot. Em resumo, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles param no inexistente para queimar Rabbah com o que já está lá. Que sorte que Nato Banach e a Batach e seus seguidores ainda tinham uma pequena página do Tanakh para apagar Rabbah, mas mesmo assim eles permanecem lá.
 ---
 
-### There are many people who contradict themselves, saying they are going to glory, to heaven, to paradise, but there's a problem: they have to go through Halaia, through Davada, through Adonai Tzevaot. So, in conclusion, it doesn't pass, it doesn't pass, it doesn't pass to infinity; those who oppose the Hebrew Bible don't pass. They will stop the nonexistent to burn Rabbah. It's good that Nato Banach and Batach and their people still had a page from the Tanakh to erase the Rabbah, even though it's still there.
+### There are many people who contradict this, saying that they will go to glory, to heaven, to paradise, but there is a problem: they need to go through Halaia, Davada, and Adonai Tzevaot. In short, this doesn't pass, doesn't pass, doesn't pass infinitely; those who oppose the Hebrew Bible don't pass. They stop at the nonexistent to burn Rabbah with what is already there. How fortunate that Nato Banach, Batach, and their followers still had a small page of the Tanakh to erase Rabbah, but even so, it remains there.
 
 ---
 
