@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
+## Book: Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
 
 ---
 
