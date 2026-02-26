@@ -43,7 +43,7 @@ Here are some ideas to get you started:
                             \  │  /
                              \ │ /
    (LENGHT) AXES X+ ●----------0--------- X-
-                              /|\ ZN (0,0,0,0,0) AXES GRAVITY ROTATION CENTER ZERO FOR ALL AXIS
+                              /|\ ZN (0,0,0,0,0) CENTER AXIS
                              / | \
                             /  |  \
                            A-  Y-  W-
