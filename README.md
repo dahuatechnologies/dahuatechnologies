@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ---
 
-## State-of-Art Morphogenesis
+## State-of-the-art morphogenesis calculus
 
 ---
 
