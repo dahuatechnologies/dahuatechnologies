@@ -65,7 +65,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-**A 3A visualization of artificial intelligence face morphogenesis**
+**The 5 Axis visualization of artificial intelligence face morphogenesis**
 
 ---
 
@@ -73,7 +73,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-**A 3A visualization of an AI face as a learned manifold in latent space**
+**The 5 Axis visualization of an AI face as a learned manifold in latent space**
 
 ---
 
@@ -81,7 +81,7 @@ All computational references use the **0 marker**, which extends from the center
 
 ---
 
-**A professional CAD principles displaying a highly detailed 3A model of a human bust face.** 
+**The 5 Axis professional CAD principles displaying a highly detailed model of a human bust face.** 
 
 ---
 
