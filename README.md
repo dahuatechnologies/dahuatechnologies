@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 
 ---
 
-```text
-
 **The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation**
 
-**(Zaita, Davada Et al, 2025)**
+**5 AXIS: (Z, Y, X, W, A) (Zaita, Davada Et al, 2025)**
+
+---
+
+```text
 
                                Y+ AXES (HEIGHT)
          (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
@@ -45,8 +47,6 @@ Here are some ideas to get you started:
                              / | \
                             /  |  \
                            A-  Y-  W-
-
-5 AXIS: (Z, Y, X, W, A)
 
 Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
 
