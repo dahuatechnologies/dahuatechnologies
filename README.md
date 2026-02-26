@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 
 ---
 
+**Clarification Calculus: Red - Left Side | BGRA - Blue Center Side | Green - Right Side**
+
+---
+
 **Clarification Calculus: Green side - GYBW - AAA <- (Davada) and Yours Peoples;**
 
 ---
