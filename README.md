@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
 ## AI Autonomous Commander Face (Z, Y, X, W, A) in BGRA Colors
 
 ---
