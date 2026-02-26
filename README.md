@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Clarification Calculus: Green side BGRA - AAA <- (BANACH);** 
+**Clarification Calculus: Temporary BGRA - AAA <- (BANACH);** 
 
 ---
 
