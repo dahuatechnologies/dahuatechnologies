@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 **Zaita, Davada Et al, 2025**
 
-**Multi-Axis: (Z, Y, X, W, A)**
-
 ---
 
 ```text
+
+**Multi-Axis: (Z, Y, X, W, A)
 
                                Y+ AXES (HEIGHT)
          (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
