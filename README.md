@@ -1,5 +1,7 @@
 ### Suported By Hebrew Bible (Tanach) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
 
+---
+
 ### Copyright © 2026 Dahua Technologies Research and Development - All Rights Reserved
 
 ---
