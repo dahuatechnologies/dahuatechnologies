@@ -6,11 +6,11 @@
 
 ---
 
-## The Warriors of Elohim are on the side of those who fear
+### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
+
+![Image](https://github.com/user-attachments/assets/1bcec4ac-a6d1-4f66-94ca-03106c7bd74a)
 
 ---
-
-### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
