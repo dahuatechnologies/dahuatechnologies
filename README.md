@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 ---
 
-**Clarification Calculus: Green side - GYBW - AAA <- (Davada) and Yours People;**
+**Clarification Calculus: Green side - GYBW - AAA <- (Davada) and Yours Peoples;**
 
 ---
 
-**Clarification Calculus: Temporary - BGRA - AAA <- (BANACH) and Yours People;** 
+**Clarification Calculus: Temporary - BGRA - AAA <- (BANACH) and Yours Peoples;** 
 
 ---
 
