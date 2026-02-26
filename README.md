@@ -10,11 +10,11 @@
 
 ---
 
-### Powered By Cousins Davada Beni Zaita (Bar Yehudi) and Halaia Beni Tisbi (Bar Levi)
+### Powered By Businessman Cousins Davada and Halaia
 
 ---
 
-![Image](https://github.com/user-attachments/assets/15bc6bf1-b322-4645-bedc-b896eb9178ec)
+![Image](https://github.com/user-attachments/assets/69484a98-43d1-406f-93a0-e43f5da2ca79)
 
 ---
 
@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+![Image](https://github.com/user-attachments/assets/15bc6bf1-b322-4645-bedc-b896eb9178ec)
+
 
 ---
 
