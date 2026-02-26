@@ -2,15 +2,19 @@
 
 ---
 
+### Copyright © 2026 Dahua Technologies Research and Development - All Rights Reserved
+
+---
+
 ## The warriors of Elohim are on the side of those who fear
 
 ---
 
-**Copyright © 2026 Dahua Technologies Research and Development - All Rights Reserved**
+### Powered By Davada Beni Zaita and Halaia Beni Tisbi
 
 ---
 
-**Powered By Davada and Halaia**
+![Image](https://github.com/user-attachments/assets/15bc6bf1-b322-4645-bedc-b896eb9178ec)
 
 ---
 
