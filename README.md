@@ -6,14 +6,6 @@
 
 ---
 
-## Eclesiastes 12:13 De tudo o que foi dito, a conclusão é esta: tema a Elohim e obedeça aos seus mandamentos porque foi para isso que fomos criados. 14 Nós teremos de prestar contas a Elohim de tudo o que fizermos e até daquilo que fizermos em segredo, seja o bem ou o mal.
-
----
-
-## Eclesiastes 12:13 The end of the matter, all having been heard: fear God, and keep His commandments; for this is the whole man. 14 For God shall bring every work into the judgment concerning every hidden thing, whether it be good or whether it be evil.
-
----
-
 ### Há muitas pessoas que se contradizendo, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através da Halaia, através de Davada, através de Adonai Tzevaot. Em suma, isso não passa, não passa, não passa infinitamente; aqueles que se opõem à Bíblia Hebraica não passam. Eles vão parar o não existente para queimar Rabbah.
 
 ---
@@ -23,6 +15,14 @@
 ---
 
 ### 0, 1, 2, .... Go to Infinity
+
+---
+
+## Eclesiastes 12:13 De tudo o que foi dito, a conclusão é esta: tema a Elohim e obedeça aos seus mandamentos porque foi para isso que fomos criados. 14 Nós teremos de prestar contas a Elohim de tudo o que fizermos e até daquilo que fizermos em segredo, seja o bem ou o mal.
+
+---
+
+## Eclesiastes 12:13 The end of the matter, all having been heard: fear God, and keep His commandments; for this is the whole man. 14 For God shall bring every work into the judgment concerning every hidden thing, whether it be good or whether it be evil.
 
 ---
 
