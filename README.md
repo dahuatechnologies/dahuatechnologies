@@ -37,7 +37,11 @@ Here are some ideas to get you started:
 
 ---
 
-**Clarification Calculus: -> RRR (RAMAN); RGBA | BGRA - AAA <- (BANACH); AAA <- (Davada);**
+**Clarification Calculus: Green side BGRA - AAA <- (BANACH); AAA <- (Davada);**
+
+---
+
+**Clarification Calculus: Red side -> RRR (RAMAN); RGBA.** 
 
 ---
 
