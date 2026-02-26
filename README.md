@@ -10,7 +10,7 @@
 
 ---
 
-### Tem muita gente que fica contraditando dizendo que vão para a glória, para o ceu, o paraiso, so que tem um problema tem que passar pelo Halaia, pelo Davada, Por Adonai Tzevaot, então concluindo, Não Passa, Não Passa, Não Passa até o infinito, opositor a biblia hebraica não passa. Eles vão parar o inexistente para queimar a Raba.
+### Há muitas pessoas que se contradizem, dizendo que estão indo para a glória, para o céu, para o paraíso, mas há um problema: eles têm que ir através da Halaia, através de Davada, através de Adonai Tzevaot. So, in conclusion, it doesn't pass, it doesn't pass, it doesn't pass to infinity; those who oppose the Hebrew Bible don't pass. Eles vão parar o não existente de queimar Rabbah.
 
 ---
 
