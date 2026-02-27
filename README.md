@@ -63,7 +63,7 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
-## AI Human Face Multi-Axes Cartesian Coordinate System (Z, Y, X, W, A) within BGRA Colors
+## Artificial Intelligence within Virtual Human Face 
 
 ---
 
