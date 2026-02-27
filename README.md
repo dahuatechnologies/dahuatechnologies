@@ -61,21 +61,20 @@ Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|---
 All computational references use the 0 marker, which extends from the center position representing the origin point; the +1 marker, which extends upward positive, indicating positive directional weighting; and the -1 marker, which extends downward negative, indicating negative directional weighting.
 
 ```
+
+### Zero Prototype Evox X64_86 within Mimix 3.1.2 Expert OS Microkernel
+
 ---
 
 ![Image](https://github.com/user-attachments/assets/76080b62-0b9b-4afa-9f78-6893921469a4)
 
 ---
 
-![Image](https://github.com/user-attachments/assets/024b8dd6-cd56-480f-bfac-ee0dae48cae7)
-
----
-
-### Zero Prototype Evox X64_86 within Mimix 3.1.2 Expert OS Microkernel
-
----
-
 ![Image](https://github.com/user-attachments/assets/9494e004-8c15-49a0-bcb7-9c12a1336e19)
+
+---
+
+![Image](https://github.com/user-attachments/assets/024b8dd6-cd56-480f-bfac-ee0dae48cae7)
 
 ---
 
