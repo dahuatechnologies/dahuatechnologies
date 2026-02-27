@@ -69,7 +69,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and SystemVerilog); The Minix Book: Operating Systems Design and Implementation.**
+**Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and Verilog); The Minix Book: Operating Systems Design and Implementation 3e.**
 
 ---
 
