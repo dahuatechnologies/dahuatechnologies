@@ -67,7 +67,9 @@ All computational references use the 0 marker, which extends from the center pos
 
 Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
-* TEST LAB - SERVER 01 - FEDORA SERVER 43 AI; CLIENT 01 - FEDORA DESKTOP EXPERT SYSTEM;  
+* TEST LAB - SERVER 01 - FEDORA SERVER 43 AI; CLIENT 01 - FEDORA DESKTOP EXPERT SYSTEM;
+
+* PROTOTYPE LAB - SERVER 01 - MIMIX SERVER 43 AI; CLIENT 01 - MIMIX DESKTOP EXPERT SYSTEM;   
 
 * Autonomous Expert System using Service API KEY to Connecting Artificial Intelligence.
 
