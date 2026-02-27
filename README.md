@@ -63,14 +63,6 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
-**Obs: Communication with the AI ​​interface allows it to create its own interfaces within its global virtual environment.**
-
----
-
-![Image](https://github.com/user-attachments/assets/3ee38582-74fa-4786-8f26-8855b658a8a6)
-
----
-
 ## artificial intelligence virtual holographic full body human 
 
 
@@ -104,7 +96,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-## State-of-the-art autonomous learning and morphogenesis calculus 
+## autonomous learning and morphogenesis calculus 
 
 ---
 
