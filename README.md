@@ -71,6 +71,14 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
+### Zero Prototype Evox X64_86 within Mimix 3.1.2 Expert OS Microkernel
+
+---
+
+![Image](https://github.com/user-attachments/assets/9494e004-8c15-49a0-bcb7-9c12a1336e19)
+
+---
+
 **Remember this Zero: Using FPGA to Expert Processor Development and Expert OS Microkernel**
 
 **Remember this One: Expert OS Microkernel connecting to AI OS Microkernel Data Center Management**
