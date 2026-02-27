@@ -67,6 +67,8 @@ All computational references use the 0 marker, which extends from the center pos
 
 Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
+* TEST LAB CLUSTER AI - Using OpenMPI to Cluster Server AI's;
+
 * TEST LAB - SERVER 01 - FEDORA SERVER 43 AI; CLIENT 01 - FEDORA DESKTOP EXPERT SYSTEM;
 
 * TEST LAB - AMD RyZen 5 7000 S Radeon Architectures (OK) / Intel Core I7 Nvidia Architectures (NOT OK); 
