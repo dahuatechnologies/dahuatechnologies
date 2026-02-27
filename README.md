@@ -64,7 +64,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-### Zero Prototype Evox X64_86 within Mimix 3.1.2 Expert OS Microkernel
+### Zero Prototype FPGA Evox X64_86 within Mimix 3.1.2 Expert OS Microkernel
 
 ---
 
@@ -76,11 +76,19 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-### One Prototype Evox X64_86 within Mimix 3.1.2 Expert OS Microkernel
+### One Prototype FPGA Evox X64_86 within Mimix 3.1.2 Expert OS Microkernel
 
 ---
 
 ![Image](https://github.com/user-attachments/assets/e24aa773-5d5f-47a0-8656-a9bb8f092187)
+
+---
+
+### Two Prototype FPGA Evox X64_86 within Mimix 3.1.2 Expert OS Microkernel
+
+---
+
+![Image](https://github.com/user-attachments/assets/6d2d650a-b805-45db-b71a-affefd043264)
 
 ---
 
