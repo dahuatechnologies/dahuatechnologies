@@ -61,6 +61,13 @@ Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|---
 All computational references use the 0 marker, which extends from the center position representing the origin point; the +1 marker, which extends upward positive, indicating positive directional weighting; and the -1 marker, which extends downward negative, indicating negative directional weighting.
 
 ```
+---
+
+### Xilux FPGA Vortex Ultrascale - Basis 2
+
+---
+
+![Image](https://github.com/user-attachments/assets/494ca3ee-027e-4882-8a25-7d9d277ae76d)
 
 ---
 
