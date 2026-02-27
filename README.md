@@ -71,6 +71,7 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * Basic Your Project:
 
+- Adhering Mathematical Foundation: Pre-Calculus, Calculus A/B/C, Linear Algebra;
 - law of excluded middle and law of contradiction;
 - Proving Isomorphisms Mathematics;
 - Gaps Resolutions Between Specification and Implementation.
