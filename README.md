@@ -69,7 +69,23 @@ Bizu: Teacher Zaita (Eclipse IDE CDT on Fedora Linux 43)
 
 ---
 
+$ sudo dnf install ffmpeg ffmpeg-devel ffmpeg-libs libavdevice-devel libavfilter-devel libswscale-devel     libswresample-devel libpostproc-devel
+
+$ sudo dnf install libpng-devel libjpeg-turbo-devel freeglut-devel mesa-libGL-devel opencl-headers ocl-icd-devel
+
+$ sudo dnf install alsa-lib-devel mesa-libGL-devel libX11-devel numa-devel
+
+$ sudo dnf install libcurl-devel libwebsockets-devel json-c-devel protobuf-c-devel
+
+$ sudo dnf install libmicrohttpd-devel
+
 $ sudo dnf install -y glew-devel freeglut-devel openal-soft-devel alsa-lib-devel leptonica-devel tesseract-devel fftw-devel libjpeg-turbo-devel opencv-devel openssl-devel
+
+$ sudo ln -sf /usr/lib64/libavcodec.so.61.19.101 /usr/lib64/libavcodec.so
+
+$ sudo dnf install binutils-devel glm-devel libxml2-devel libxslt-devel xmlstarlet
+
+pkg-config --cflags libxml-2.0 pkg-config --libs libxml-2.0  
 
 ---
 
