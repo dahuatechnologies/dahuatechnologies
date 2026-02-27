@@ -63,6 +63,14 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
+## AI Cad Principles
+
+---
+
+https://github.com/dahuatechnologies/aicadfaceprinciples
+
+---
+
 https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
 
 ---
