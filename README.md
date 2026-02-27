@@ -127,6 +127,30 @@ pkg-config --libs libxml-2.0
 
 ---
 
+ADD to Development AI OS MIMIX 3.1.2 MICROKERNEL 
+
+---
+
+$ sudo dnf update -y --refresh
+
+$ sudo dnf install gcc nasm make grub2 xorriso qemu-system-x86 gdb
+
+$ sudo dnf install -y     qemu-system-x86     qemu-system-x86-core     qemu-kvm     qemu-kvm-core     qemu-kvm-common     qemu-kvm-block-iscsi     qemu-kvm-block-curl     qemu-kvm-block-ssh     qemu-kvm-block-rbd     qemu-kvm-block-gluster
+
+$ sudo dnf install -y     virtio-win     virtio-win-prewhql     libvirt-daemon-config-network     libvirt-daemon-driver-network     libvirt-daemon-driver-nwfilter     libvirt-daemon-driver-qemu     libvirt-daemon-driver-storage     libvirt-daemon-kvm     libvirt-client     virt-manager     virt-viewer     virt-install     seabios     edk2-ovmf     swtpm     swtpm-tools
+
+$ sudo dnf install -y     libvirt-daemon-driver-vbox     virt-v2v     spice-protocol     spice-server     spice-gtk     spice-gtk3     spice-webdavd
+
+$ sudo dnf install -y     gdb     gdb-gdbserver     gdb-dashboard     gdb-tui     libguestfs-tools     guestfs-tools     libguestfs     libguestfs-inspect-icons     libguestfs-winsupport     strace     ltrace     perf     valgrind     systemtap     systemtap-sdt-devel
+
+$ sudo dnf install -y     libvirt-daemon-config-network     libvirt-daemon-driver-network     ebtables     dnsmasq     bridge-utils     openvswitch     openvswitch-ovn-common     openvswitch-ovn-host
+
+$ sudo dnf install -y     libguestfs-tools-c     guestfs-tools-c     libguestfs-xfs     nbdkit     nbdkit-server     nbdkit-basic-plugins     nbdkit-curl-plugin     nbdkit-gzip-plugin     nbdkit-tar-plugin     qemu-img     libiscsi     libiscsi-utils
+
+---
+
+---
+
 ```text
 
 Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
