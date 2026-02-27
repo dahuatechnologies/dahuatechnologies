@@ -69,7 +69,9 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * TEST LAB - SERVER 01 - FEDORA SERVER 43 AI; CLIENT 01 - FEDORA DESKTOP EXPERT SYSTEM;
 
-* PROTOTYPE LAB - SERVER 01 - MIMIX SERVER 43 AI; CLIENT 01 - MIMIX DESKTOP EXPERT SYSTEM;   
+* PROTOTYPE LAB - SERVER 01 - MIMIX SERVER 43 AI; CLIENT 01 - MIMIX DESKTOP EXPERT SYSTEM;
+
+* 64 Bits within 32 Bits Protected (64-X86)   
 
 * Autonomous Expert System using Service API KEY to Connecting Artificial Intelligence.
 
