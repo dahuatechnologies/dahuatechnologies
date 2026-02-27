@@ -69,9 +69,13 @@ Bizu: Teacher Zaita
 
 Starting using 5 Axes and 65536 Vectors and 262144 Neurons.
 
-Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons. 
+Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons.
 
 ```
+
+---
+
+## Manifold Book: Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
 
 ---
 
@@ -149,16 +153,6 @@ https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
 
 ---
 
-- **Z Axis-Vector (Center of Gravity Rotation)**: Represented abstractly as a deep green line originating from the central initial point (0,0,0,0,0). This axis-vector establishes the core gravitational rotational reference and is visible only through an initial luminous dot dimension-neuron.
-- **Y Axis-Vector (Height)**: A bright yellow line extending vertically.
-- **X Axis-Vector (Length)**: A crisp blue line extending horizontally.
-- **W Axis-Vector (Width)**: A pure white line extending laterally.
-- **R Axis-Vector (Radial)**: A purple line curving radially outward, forming the autonomous orbital spiral neural mesh network pattern with real-time rendering sector-model architecture.
-
-All computational references use the **0 marker**, which extends from the center position representing the origin point; the **+1 marker**, which extends upward positive, indicating positive directional weighting; and the **-1 marker**, which extends downward negative, indicating negative directional weighting.
-
----
-
 **The 5 Axis visualization of artificial intelligence face morphogenesis**
 
 ---
@@ -180,9 +174,5 @@ All computational references use the **0 marker**, which extends from the center
 ---
 
 ![Image](https://github.com/user-attachments/assets/8a283482-de8f-4149-8c6d-512c40b87d90)
-
----
-
-## Book: Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
 
 ---
