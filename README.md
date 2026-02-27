@@ -63,7 +63,7 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
-## AI Cad Principles
+## AI Cad Principles (Adhering Mathematical: Pre-Calculus, Calculus A/B/C)
 
 ---
 
