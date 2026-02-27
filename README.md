@@ -67,7 +67,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 Bizu: Teacher Zaita (Eclipse IDE CDT on Fedora Linux 43)
 
-In first time installed packed one-by-one
+In first time installed packed one-by-one, many packets changed and bugs
 
 ---
 
