@@ -69,6 +69,14 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 ---
 
+* Basic Your Project:
+
+- Law of excluded middle;
+- Proving Isomorphisms Mathematics;
+- Gaps Resolutions Between Specification and Implementation.
+
+---
+
 * TEST LAB - SERVER 01 - FEDORA SERVER 43 AI; CLIENT 01 - FEDORA DESKTOP EXPERT SYSTEM;
 
 * TEST LAB - AMD RyZen 5 7000 S Radeon Architectures (OK) / Intel Core I7 Nvidia Architectures (NOT OK);
@@ -85,7 +93,7 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * PROTOTYPE LAB - SERVER 01 - Mimix SERVER 43 AI; CLIENT 01 - MIMIX DESKTOP EXPERT SYSTEM;
 
-* PROTOTYPE LAB Mimix 64 Bits within 32 Bits Protected (X64-86);
+* PROTOTYPE LAB Mimix Expert 64 Bits vwithin 32 Bits Protected (X64-86);
 
 * Recomendation is Artificial Intelligence Operation System Microkernel (Duolithic);
 
