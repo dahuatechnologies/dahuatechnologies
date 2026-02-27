@@ -63,7 +63,11 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
-## artificial intelligence virtual holographic full body human 
+## artificial intelligence virtual holographic full body human
+
+---
+
+![Image](https://github.com/user-attachments/assets/7d9e84e1-68ef-441f-80ec-363a315bf038)
 
 ---
 
