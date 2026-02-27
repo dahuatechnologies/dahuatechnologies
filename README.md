@@ -63,11 +63,15 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
-## Artificial Intelligence within Virtual Morphogenesis Face 
+**Obs: Communication with the AI ​​interface allows it to create its own interfaces within its global virtual environment.**
 
 ---
 
-**Obs: Communication with the AI ​​interface allows it to create its own interfaces within its global virtual environment.**
+![Image](https://github.com/user-attachments/assets/3ee38582-74fa-4786-8f26-8855b658a8a6)
+
+---
+
+## Artificial Intelligence within Virtual Morphogenesis Face 
 
 ---
 
