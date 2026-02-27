@@ -75,7 +75,7 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * PROTOTYPE LAB Mimix 64 Bits within 32 Bits Protected (X64-86);
 
-* Recomendation is Artificial Intelligence Operation System Microkernel;
+* Recomendation is Artificial Intelligence Operation System Microkernel (Duolithic);
 
 * Autonomous Expert System using Service API KEY to Connecting Artificial Intelligence;
 
