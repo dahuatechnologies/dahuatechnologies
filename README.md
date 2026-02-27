@@ -69,7 +69,7 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * TEST LAB - SERVER 01 - FEDORA SERVER 43 AI; CLIENT 01 - FEDORA DESKTOP EXPERT SYSTEM;
 
-* TEST LAB - AMD RyZen 5 7000 S Radeon Architectures / x86_64 Core I7 Nvidia architectures; 
+* TEST LAB - AMD RyZen 5 7000 S Radeon Architectures / Intel Core I7 Nvidia Architectures; 
 
 * PROTOTYPE LAB - SERVER 01 - Mimix SERVER 43 AI; CLIENT 01 - MIMIX DESKTOP EXPERT SYSTEM;
 
