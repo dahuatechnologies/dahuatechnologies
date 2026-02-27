@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
 
-* Z Axes (Center of Rotation): This axes establishes the core gravitational rotational reference and is visible only through an initial luminous dot dimension.
+* Z Axes (Center of Rotation): This green axes establishe the core gravitational rotational reference and is visible only through an initial luminous dot dimension.
 * Y Axes (Height): A bright yellow line extending vertically.
 * X Axes (Length): A crisp blue line extending horizontally.
 * W Axes (Width): A pure white line extending laterally.
