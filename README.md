@@ -67,7 +67,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-### Xilux FPGA AI Vortex Ultrascale - Basis 0 (autonomous programmable)
+### Xilux FPGA AI Vortex Ultrascale - Basis 0 (Autonomous programmable)
 
 ---
 
@@ -75,7 +75,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-### Xilux FPGA AI Vortex Ultrascale - Basis 1
+### Xilux FPGA AI Vortex Ultrascale - Basis 1 (Standalone programmable)
 
 ---
 
