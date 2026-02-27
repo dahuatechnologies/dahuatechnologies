@@ -64,9 +64,9 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-### Basis 3 Xilux FPGA Vortex Ultrascale
+### Xilux FPGA Vortex Ultrascale - Basis 3
 
---
+---
 
 ![Image](https://github.com/user-attachments/assets/f82fe32d-7264-43b2-ae44-5532597268a4)
 
