@@ -83,7 +83,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-### Xilux FPGA Vortex Ultrascale - Basis 2
+### Xilux FPGA Vortex Ultrascale - Basis 2 (Standalone programmable)
 
 ---
 
@@ -91,7 +91,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-### Xilux FPGA Vortex Ultrascale - Basis 3
+### Xilux FPGA Vortex Ultrascale - Basis 3 (Standalone programmable)
 
 ---
 
