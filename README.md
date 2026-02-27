@@ -63,6 +63,18 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
+```text
+
+Bizu: Teacher Zaita
+
+Autonomous Face Manifolds Generation System Starting using 5 Axes and 65536 Vectors and 262144 Neurons. 
+
+Clarification and explanation of the 5 axes (Z, Y, X, W, A); * Z-axes (Center of Rotation): This Green axes establishes the central gravitational rotational reference and is visible only through an initial luminous point dimension. * Y-axes (Height): A bright yellow line extending vertically. * X-axes (Length): A crisp blue line extending horizontally. * W-axes (Width): A pure white line extending laterally. * R-axes (Radial): A purple line curving radially outwards, forming the radial with real-time rendering sector model architecture. All computational references use the 0 marker, which extends from the central position representing the origin point; the +1 marker, which extends upwards positively, indicating positive directional weighting; and the -1 marker, which extends downwards negatively, indicating negative directional weighting.
+
+```
+
+---
+
 ## AI Cad Principles (Adhering Mathematical: Pre-Calculus, Calculus A/B/C)
 
 ---
