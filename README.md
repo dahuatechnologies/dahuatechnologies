@@ -127,7 +127,14 @@ pkg-config --libs libxml-2.0
 
 ---
 
-ADD to Development AI OS MIMIX 3.1.2 MICROKERNEL 
+Download Minix 3.1.1 Academic Source Code Book;
+
+https://wiki.minix3.org/doku.php?id=www:download:start
+
+To Development AI OS Minix 3.1.2 MICROKERNEL. 
+
+---
+Add This Qemu and Libvirt Managment
 
 ---
 
