@@ -67,7 +67,9 @@ All computational references use the 0 marker, which extends from the center pos
 
 Bizu: Teacher Zaita
 
-Starting using 5 Axes and 65536 Vectors and 262144 Neurons. 
+Starting using 5 Axes and 65536 Vectors and 262144 Neurons.
+
+Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons. 
 
 ```
 
@@ -110,10 +112,6 @@ https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
 ---
 
 ## Artificial Intelligence within Virtual Morphogenesis Face 
-
----
-
-#### Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis as Vectors and functionality Make-Decision for Dimensions as Neurons 
 
 ---
 
