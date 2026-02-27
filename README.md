@@ -65,7 +65,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ```text
 
-* Bizu: Teacher Zaita
+Bizu: Teacher Zaita
 
 * Starting using 5 Axes and 65536 Vectors and 262144 Neurons.
 
