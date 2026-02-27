@@ -71,7 +71,7 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons.
 
-* Adopting ANSI C89/90 within Standard Comments /*...*/ using POSIX compliance, Big O Complexity Analysis and PThreads within Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for AMD RyZen 5 7000 S Architectures using Eclipse IDE CDT on exclusive Linux Fedora 43. The implementation external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management in one complete file as `mimix/src/main.c`. 
+* Adopting ANSI C89/90 within Standard Comments /*...*/ using POSIX compliance, Big O Complexity Analysis and PThreads within Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for AMD RyZen 5 7000 S Architectures using Eclipse IDE CDT on exclusive Linux Fedora 43. The result preview interactive implementation external library as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management in one complete file as `mimix/src/main.c`. 
 
 ```
 ---
