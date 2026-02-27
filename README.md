@@ -67,6 +67,12 @@ All computational references use the 0 marker, which extends from the center pos
 
 Bizu: Teacher Zaita (Eclipse IDE CDT on Fedora Linux 43)
 
+---
+
+$ sudo dnf install -y glew-devel freeglut-devel openal-soft-devel alsa-lib-devel leptonica-devel tesseract-devel fftw-devel libjpeg-turbo-devel opencv-devel openssl-devel
+
+---
+
 - Create Project C/C++
 - Configuration C/C++ Setting
 - GCC C++ Compiler
