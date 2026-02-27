@@ -65,6 +65,12 @@ All computational references use the 0 marker, which extends from the center pos
 
 ```text
 
+---
+
+To new Expert X64_86 within 64 Bits using 32 bits 86 protected using Principles IA-64 (Intel Architecture-64) was a 64-bit microprocessor architecture jointly developed by Hewlett-Packard (HP) and Intel in the 1990s, designed to succeed the PA-RISC and x86 architectures for high-end enterprise servers and workstations. It was built on the concept of Explicitly Parallel Instruction Computing (EPIC), which shifted the burden of identifying instruction-level parallelism from the processor hardware to the compiler.
+
+---
+
 Bizu: Teacher Zaita (Eclipse IDE CDT on Fedora Linux 43)
 
 In first time installed packed one-by-one, many packets changed and bugs
