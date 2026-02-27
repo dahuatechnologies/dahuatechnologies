@@ -67,6 +67,8 @@ All computational references use the 0 marker, which extends from the center pos
 
 Bizu: Teacher Zaita (Eclipse IDE CDT on Fedora Linux 43)
 
+In first time installed packed one-by-one
+
 ---
 
 $ sudo dnf install ffmpeg ffmpeg-devel ffmpeg-libs libavdevice-devel libavfilter-devel libswscale-devel     libswresample-devel libpostproc-devel
@@ -100,8 +102,10 @@ pkg-config --cflags libxml-2.0
 pkg-config --libs libxml-2.0  
 
 ---
-
+- Install Eclipse CDT IDE
 - Create Project C/C++
+---
+
 - Configuration C/C++ Setting
 - GCC C++ Compiler
 - Dialect: ISO C++17 (-std=c++17)
