@@ -89,11 +89,11 @@ $ sudo dnf install gsl-devel alsa-lib-devel mesa-libGL-devel libX11-devel numa-d
 
 $ gcc --version
 
-$ nasm --version
+$ g++ --version
 
 $ gdb --version
 
-$ g++ --version
+$ nasm --version
 
 $ sudo ln -sf /usr/lib64/libavcodec.so.61.19.101 /usr/lib64/libavcodec.so
 
