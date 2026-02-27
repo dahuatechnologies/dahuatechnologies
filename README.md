@@ -71,7 +71,7 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * Basic Your Project:
 
-- Law of excluded middle;
+- law of excluded middle and law of contradiction;
 - Proving Isomorphisms Mathematics;
 - Gaps Resolutions Between Specification and Implementation.
 
