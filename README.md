@@ -63,6 +63,10 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
+![Image](https://github.com/user-attachments/assets/e717b68d-6c35-46bf-b088-cc7b3cad5cde)
+
+---
+
 **Remember this Zero: Using FPGA to Expert Processor Development and Expert OS Microkernel**
 
 **Remember this One: Expert OS Microkernel connecting to AI OS Microkernel Data Center Management**
