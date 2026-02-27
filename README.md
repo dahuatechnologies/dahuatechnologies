@@ -69,7 +69,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and Verilog); The Minix Book: Operating Systems Design and Implementation 3e.**
+**Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and Verilog); The Minix Book: Operating Systems Design and Implementation 3e; Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition.**
 
 ---
 
@@ -230,10 +230,6 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 ---
 
 ## AI Cad Principles (Adhering Mathematical: Pre-Calculus, Calculus A/B/C)
-
----
-
-### Book: Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
 
 ---
 
