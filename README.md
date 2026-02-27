@@ -67,7 +67,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**Obs: The prompt text is only for communicating with the interface, and it creates the interface itself within the scenario.**
+**Obs: The communicating with the AI interface, and it creates the interfaces itself within the scenario virtual.**
 
 ---
 
