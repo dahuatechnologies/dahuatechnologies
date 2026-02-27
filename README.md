@@ -106,7 +106,7 @@ pkg-config --libs libxml-2.0
 - Create Project C/C++
 ---
 
-- Configuration C/C++ Setting
+- Configuration C/C++ Setting (Obs: Insert Per Line Patch and Library one-by-one)
 ---
 - GCC C++ Compiler
 - Dialect: ISO C++17 (-std=c++17)
@@ -122,11 +122,8 @@ pkg-config --libs libxml-2.0
 
 - GCC C++ Linker
 - General: Checked: Support for pthread (-pthread)
-- Libraries: Libraries (-l) m; curl; numa; portaudio;  png16
-
-
-
-
+- Libraries: Libraries (-l) m; curl; numa; portaudio; png16; SDL2_mixer; SDL2; v4l2; GLEW; glut; rt; dl; GL; GLU; X11; Xm; Xext; Xt; Xmu; openal; asound; fftw3; jpeg; tesseract; leptonica; OpenCL; ssl; crypto; opencv_core; opencv_videoio; opencv_highgui; opencv_imgproc; opencv_objdetect; opencv_face; opencv_dnn; opencv_video; opencv_calib3d; opencv_imgcodecs 
+- Libraries search path (-L): /usr/lib; /usr/lib64; /usr/lib64/libv4l; /opt/rocm/lib
 
 ---
 
