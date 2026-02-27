@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ```text
 
-**Multi-Axis: (Z, Y, X, W, A)
+**Multi-Axes: (Z, Y, X, W, A)
 
                                Y+ AXES (HEIGHT)
          (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
@@ -45,25 +45,25 @@ Here are some ideas to get you started:
                             \  │  /
                              \ │ /
    (LENGHT) AXES X+ ●----------0--------- X-
-                              /|\ ZN (0,0,0,0,0) CENTER AXIS
+                              /|\ ZN (0,0,0,0,0) CENTER AXES
                              / | \
                             /  |  \
                            A-  Y-  W-
 
 Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
 
-* Z Axis (Center of Rotation): This axis establishes the core gravitational rotational reference and is visible only through an initial luminous dot dimension.
-* Y Axis (Height): A bright yellow line extending vertically.
-* X Axis (Length): A crisp blue line extending horizontally.
-* W Axis (Width): A pure white line extending laterally.
-* R Axis (Radial): A purple line curving radially outward, forming the radial with real-time rendering sector-model architecture.
+* Z Axes (Center of Rotation): This axes establishes the core gravitational rotational reference and is visible only through an initial luminous dot dimension.
+* Y Axes (Height): A bright yellow line extending vertically.
+* X Axes (Length): A crisp blue line extending horizontally.
+* W Axes (Width): A pure white line extending laterally.
+* R Axes (Radial): A purple line curving radially outward, forming the radial with real-time rendering sector-model architecture.
 
 All computational references use the 0 marker, which extends from the center position representing the origin point; the +1 marker, which extends upward positive, indicating positive directional weighting; and the -1 marker, which extends downward negative, indicating negative directional weighting.
 
 ```
 ---
 
-## AI Autonomous Commander Face (Z, Y, X, W, A) in BGRA Colors
+## AI Human Face Multi-Axes Cartesian Coordinate System (Z, Y, X, W, A) within BGRA Colors
 
 ---
 
