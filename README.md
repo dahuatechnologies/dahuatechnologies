@@ -79,7 +79,7 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * TEST LAB - Cluster AI - Using OpenMPI to Cluster Server AI's;
 
-* TEST LAB - HAL (hardware Abstraction Layer) Sandbox AI - Using Wireshark Foundations to Packet Capture.
+* TEST LAB - Sandbox AI HAL (Hardware Abstraction Layer) - Using Wireshark Foundations to Packet Capture.
 
 --- 
 
