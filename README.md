@@ -67,6 +67,10 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
+**Obs: The prompt text is only for communicating with the interface, and it creates the interface itself within the scenario.**
+
+---
+
 #### Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Axis as Vectors and functionality Make-Decision for Dimensions as Neurons 
 
 ---
