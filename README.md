@@ -107,11 +107,26 @@ pkg-config --libs libxml-2.0
 ---
 
 - Configuration C/C++ Setting
+---
 - GCC C++ Compiler
 - Dialect: ISO C++17 (-std=c++17)
 - Defined Symbols (-D): _GNU_SOURCE; CL_TARGET_OPENCL_VERSION=300; _POSIX_C_SOURCE=200809L
 - Include paths (-l): ${workspace_loc:/mimix/src}; /usr/include; /usr/include/CL; /usr/include/openssl; /usr/include/opencv4; /usr/include/opencv4/opencv2; /usr/include/SDL2; /usr/X11R6/include; /usr/include/GL; /usr/include/AL; /usr/include/alsa; /usr/include/leptonica; /usr/include/tesseract.
 - Miscellaneous: Checked: Support for pthread (-pthread)
+
+- GCC C Compiler
+- Dialect: ISO C90 / ANSI C89 (-std=90)
+- Defined Symbols (-D): _GNU_SOURCE; CL_TARGET_OPENCL_VERSION=300; _POSIX_C_SOURCE=200809L
+- Include paths (-l): ${workspace_loc:/mimix/src}; /usr/include; /usr/include/CL; /usr/include/openssl; /usr/include/opencv4; /usr/include/opencv4/opencv2; /usr/include/SDL2; /usr/X11R6/include; /usr/include/GL; /usr/include/AL; /usr/include/alsa; /usr/include/leptonica; /usr/include/tesseract.
+- Miscellaneous: Checked: Support for pthread (-pthread)
+
+- GCC C++ Linker
+- General: Checked: Support for pthread (-pthread)
+- Libraries: Libraries (-l) m; curl; numa; portaudio;  png16
+
+
+
+
 
 ---
 
