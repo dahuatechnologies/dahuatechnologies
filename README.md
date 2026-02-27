@@ -72,16 +72,9 @@ Starting using 5 Axes and 65536 Vectors and 262144 Neurons.
 Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons.
 
 ```
-
 ---
 
-## Manifold Book: Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
-
----
-
-## B-Tree
-
-**Borukva, Optimized to GPGPU using OpenCL;**
+## B-Tree (Borukva, Optimized to GPGPU using OpenCL)
 
 ---
 
@@ -90,6 +83,10 @@ Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Con
 ---
 
 ## AI Cad Principles (Adhering Mathematical: Pre-Calculus, Calculus A/B/C)
+
+---
+
+### Book: Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition
 
 ---
 
