@@ -6,7 +6,7 @@
 
 ---
 
-### Suported By Hebrew Bible (Tanach) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
+### Suported By Hebrew Bible (Tanach By Adam) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
 
 ---
 
@@ -66,6 +66,10 @@ All computational references use the 0 marker, which extends from the center pos
 **Remember this Zero: Using FPGA to Expert Processor Development and Expert OS Microkernel**
 
 **Remember this One: Expert OS Microkernel connecting to AI OS Microkernel Data Center Management**
+
+---
+
+**Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and SystemVerilog); The Minix Book: Operating Systems Design and Implementation.**
 
 ---
 
