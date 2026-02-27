@@ -67,7 +67,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**Obs: The communication with the AI ​​interface is so that it can create its own interfaces within its virtual global world environment.**
+**Obs: Communication with the AI ​​interface allows it to create its own interfaces within its global virtual environment.**
 
 ---
 
