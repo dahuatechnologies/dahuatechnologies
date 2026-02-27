@@ -67,6 +67,8 @@ All computational references use the 0 marker, which extends from the center pos
 
 Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
+* Expert System White-Box 
+
 * Starting using 5 Axes and 65536 Vectors and 262144 Neurons.
 
 * Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons.
