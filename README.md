@@ -67,7 +67,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**Obs: The communicating with the AI interface, and it creates the interfaces itself within the scenario virtual.**
+**Obs: The communication with the AI ​​interface is so that it can create its own interfaces within its virtual global world environment.**
 
 ---
 
