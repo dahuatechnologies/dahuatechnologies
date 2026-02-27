@@ -67,7 +67,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
-* Autonomous Expert System White-Box 
+* Autonomous Expert System using Service API KEY to Connecting Artificial Intelligence.
 
 * Starting using 5 Axes and 65536 Vectors and 262144 Neurons.
 
