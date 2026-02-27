@@ -95,7 +95,7 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * PROTOTYPE LAB - SERVER 01 - Mimix SERVER 43 AI; CLIENT 01 - MIMIX DESKTOP EXPERT SYSTEM;
 
-* PROTOTYPE LAB Mimix Expert 64 Bits vwithin 32 Bits Protected (X64-86);
+* PROTOTYPE LAB Mimix Expert 64 Bits within 32 Bits Protected (X64-86);
 
 * Recomendation is Artificial Intelligence Operation System Microkernel (Duolithic);
 
@@ -103,7 +103,7 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * Starting using 5 Axes and 65536 Vectors and 262144 Neurons;
 
-* Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons;
+* Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons.
 
 ---
 
