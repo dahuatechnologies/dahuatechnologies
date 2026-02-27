@@ -73,11 +73,13 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * TEST LAB - AMD RyZen 5 7000 S Radeon Architectures (OK) / Intel Core I7 Nvidia Architectures (NOT OK);
 
-* TEST LAB Server/Client - Using implementation P2P Protocol Foundations;
+* TEST LAB - Server/Client - Using implementation P2P Protocol Foundations;
 
-* TEST LAB Security AI - Using OpenSSL to Military Grade Security; 
+* TEST LAB - Security AI - Using OpenSSL to Military Grade Security; 
 
-* TEST LAB CLUSTER AI - Using OpenMPI to Cluster Server AI's;
+* TEST LAB - Cluster AI - Using OpenMPI to Cluster Server AI's;
+
+* TEST LAB - HAL (hardware Abstraction Layer) Sandbox AI - Using Wireshark Foundations to Capture Packet;
 
 --- 
 
