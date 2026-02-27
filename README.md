@@ -75,6 +75,16 @@ Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Con
 
 ---
 
+## B-Tree
+
+**Borukva, Optimized to GPGPU using OpenCL;**
+
+---
+
+<img width="939" height="202" alt="Image" src="https://github.com/user-attachments/assets/7a7ab1e4-8e69-42de-a93f-3e318d633d4d" />
+
+---
+
 ## AI Cad Principles (Adhering Mathematical: Pre-Calculus, Calculus A/B/C)
 
 ---
@@ -112,16 +122,6 @@ https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
 ---
 
 ## Artificial Intelligence within Virtual Morphogenesis Face 
-
----
-
-**Borukva, Optimized to GPGPU using OpenCL;**
-
-**B-Tree.**
-
----
-
-<img width="939" height="202" alt="Image" src="https://github.com/user-attachments/assets/7a7ab1e4-8e69-42de-a93f-3e318d633d4d" />
 
 ---
 
