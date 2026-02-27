@@ -73,7 +73,9 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 * PROTOTYPE LAB - SERVER 01 - Mimix SERVER 43 AI; CLIENT 01 - MIMIX DESKTOP EXPERT SYSTEM;
 
-* PROTOTYPE LAB Mimix 64 Bits within 32 Bits Protected (X64-86);   
+* PROTOTYPE LAB Mimix 64 Bits within 32 Bits Protected (X64-86);
+
+* Recomendation is Artificial Intelligence Operation System Microkernel;
 
 * Autonomous Expert System using Service API KEY to Connecting Artificial Intelligence;
 
