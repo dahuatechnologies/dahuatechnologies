@@ -63,6 +63,14 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
+### AI Xilux FPGA Vortex Ultrascale - Basis 1
+
+---
+
+![Image](https://github.com/user-attachments/assets/50abe694-f767-488c-826c-d29f11a0a93a)
+
+---
+
 ### Xilux FPGA Vortex Ultrascale - Basis 2
 
 ---
