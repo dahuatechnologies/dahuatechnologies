@@ -74,7 +74,8 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 - Adhering Mathematical Foundation: Pre-Calculus, Calculus A/B/C;
 - law of excluded middle and law of contradiction;
 - Proving Isomorphisms Mathematics;
-- Gaps Resolutions Between Specification and Implementation.
+- Gaps Resolutions Between Specification and Implementation;
+- Adopting ANSI C89/90 within Standard Comments /*...*/ using POSIX compliance, Big O Complexity Analysis and PThreads within Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for AMD RyZen 5 7000 S Architectures using Eclipse IDE CDT on exclusive Linux Fedora 43. The interactive result uses external libraries such as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management in a complete file such as `mimix/src/main.c`.
 
 ---
 
@@ -103,8 +104,6 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 * Starting using 5 Axes and 65536 Vectors and 262144 Neurons;
 
 * Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons;
-
-* Adopting ANSI C89/90 within Standard Comments /*...*/ using POSIX compliance, Big O Complexity Analysis and PThreads within Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for AMD RyZen 5 7000 S Architectures using Eclipse IDE CDT on exclusive Linux Fedora 43. The interactive result uses external libraries such as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management in a complete file such as `mimix/src/main.c`.
 
 ---
 
