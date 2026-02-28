@@ -63,6 +63,22 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
+### melon face principles
+
+---
+
+### cad face principles
+
+---
+
+https://github.com/dahuatechnologies/aicadfaceprinciples
+
+---
+
+https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
+
+---
+
 ### VLSI design using VHDL
 
 ---
@@ -306,14 +322,6 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 ---
 
 ## AI Cad Principles (Adhering Mathematical: Pre-Calculus, Calculus A/B/C)
-
----
-
-https://github.com/dahuatechnologies/aicadfaceprinciples
-
----
-
-https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
 
 ---
 
