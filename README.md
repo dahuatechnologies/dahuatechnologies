@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/fb575b39-3790-439e-9546-bce052c92586)
+
+---
+
 **The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation**
 
 **Zaita, Davada Et al, 2025**
