@@ -72,7 +72,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ### neuron-fuzzy logic gamification principles
 
---
+---
 
 https://github.com/dahuatechnologies/gamification
 
