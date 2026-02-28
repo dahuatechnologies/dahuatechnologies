@@ -79,7 +79,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**Obs: The circuit is close so that can expand or regress in its learning.**
+**Obs: The circuit is close so that can not expand or regress in its learning.**
 
 ---
 
