@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ```text
 
-**Multi-Axes: (Z, Y, X, W, A)
+**Multi-Axes: 5A (Z, Y, X, W, A)
 
                                Y+ AXES (HEIGHT)
          (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
@@ -74,7 +74,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**5D manifold: z,y,x,ψ,φ (quantum phases)**
+**5A manifold: z,y,x,ψ,φ (quantum phases)**
 
 ---
 
