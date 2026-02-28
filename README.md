@@ -70,7 +70,11 @@ All computational references use the 0 marker, which extends from the center pos
 
 ```
 
-### neuron-fuzzy logic gamification principles
+### neuron-fuzzy logic gamification principles 
+
+---
+
+**5A manifold: x, y, z, d (depth), a (angle)**
 
 ---
 
