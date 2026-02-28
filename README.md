@@ -69,6 +69,13 @@ Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|---
 All computational references use the 0 marker, which extends from the center position representing the origin point; the +1 marker, which extends upward positive, indicating positive directional weighting; and the -1 marker, which extends downward negative, indicating negative directional weighting.
 
 ```
+
+### neuron-fuzzy logic gamification principles
+
+--
+
+https://github.com/dahuatechnologies/gamification
+
 ---
 
 ### melon cad face principles
