@@ -63,11 +63,11 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
-### melon face principles
+### melon cad face principles
 
 ---
 
-### cad face principles
+### heart cad face principles
 
 ---
 
