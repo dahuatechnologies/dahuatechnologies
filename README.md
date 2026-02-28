@@ -6,7 +6,7 @@
 
 ---
 
-### Suported By Hebrew Bible (Tanach By Adam) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
+### Suported By Hebrew Bible (Tanach By Adam Rishon) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
 
 ---
 
