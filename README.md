@@ -67,7 +67,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**Obs: The circuit is open so that AI can expand or regress in its learning.**
+**Obs0: The circuit is open so that AI can expand or regress in its learning.**
 
 ---
 
@@ -79,7 +79,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**Obs: The circuit is close so that can not expand or regress in its learning.**
+**Obs1: The circuit is close so that can not expand or regress in its learning (Expert System).**
 
 ---
 
