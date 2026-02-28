@@ -74,7 +74,7 @@ All computational references use the 0 marker, which extends from the center pos
 
 ---
 
-**5A manifold: x, y, z, d (depth), a (angle)**
+**5D manifold: x,y,z,ψ,φ (quantum phases)**
 
 ---
 
