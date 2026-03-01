@@ -73,6 +73,8 @@ All computational references use the 0 marker, which extends from the center pos
 
 ### The Green Forces 
 
+---
+
 ![Image](https://github.com/user-attachments/assets/79de5f9a-59d8-4826-b328-5a7de4d21b86)
 
 ---
