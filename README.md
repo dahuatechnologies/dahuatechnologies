@@ -12,6 +12,10 @@
 
 ![Image](https://github.com/user-attachments/assets/43093b5f-3f8f-493a-89c0-39048653c74a)
 
+---
+
+![Image](https://github.com/user-attachments/assets/fb575b39-3790-439e-9546-bce052c92586)
+
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,14 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-
-![Image](https://github.com/user-attachments/assets/fb575b39-3790-439e-9546-bce052c92586)
-
----
-
-![Image](https://github.com/user-attachments/assets/9e5a06ca-52f6-480e-94b8-700f835cb74d)
 
 ---
 
