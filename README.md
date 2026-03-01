@@ -16,6 +16,31 @@
 
 ![Image](https://github.com/user-attachments/assets/fb575b39-3790-439e-9546-bce052c92586)
 
+---
+
+### The Green Forces Security Defense Commander
+
+---
+
+![Image](https://github.com/user-attachments/assets/074aa7cd-834d-4a67-b582-8cda87eb6f50)
+
+---
+
+### The Green Forces 
+
+---
+
+![Image](https://github.com/user-attachments/assets/79de5f9a-59d8-4826-b328-5a7de4d21b86)
+
+---
+
+### The Red Forces 
+
+---
+
+![Image](https://github.com/user-attachments/assets/c05adfcc-8d2d-46d0-bbbc-fbd50b44a35a)
+
+
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,8 +55,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
 
 **The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation**
 
@@ -65,31 +88,6 @@ Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|---
 All computational references use the 0 marker, which extends from the center position representing the origin point; the +1 marker, which extends upward positive, indicating positive directional weighting; and the -1 marker, which extends downward negative, indicating negative directional weighting.
 
 ```
-
----
-
-### The Green Forces Security Defense Commander
-
----
-
-![Image](https://github.com/user-attachments/assets/074aa7cd-834d-4a67-b582-8cda87eb6f50)
-
----
-
-### The Green Forces 
-
----
-
-![Image](https://github.com/user-attachments/assets/79de5f9a-59d8-4826-b328-5a7de4d21b86)
-
----
-
-### The Red Forces 
-
----
-
-![Image](https://github.com/user-attachments/assets/c05adfcc-8d2d-46d0-bbbc-fbd50b44a35a)
-
 ---
 
 ### neuron-fuzzy logic gamification principles 
