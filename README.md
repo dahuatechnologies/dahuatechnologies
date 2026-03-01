@@ -69,10 +69,15 @@ Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|---
 All computational references use the 0 marker, which extends from the center position representing the origin point; the +1 marker, which extends upward positive, indicating positive directional weighting; and the -1 marker, which extends downward negative, indicating negative directional weighting.
 
 ```
+---
+
+### The Green Forces 
+
+![Image](https://github.com/user-attachments/assets/79de5f9a-59d8-4826-b328-5a7de4d21b86)
 
 ---
 
-### The Red Force 
+### The Red Forces 
 
 ---
 
