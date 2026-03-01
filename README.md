@@ -2,15 +2,15 @@
 
 ---
 
-### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
-
----
-
 ### Suported By Hebrew Bible (Tanach By Evo Adam Rishon) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
 
 ---
 
-![Image](https://github.com/user-attachments/assets/1bcec4ac-a6d1-4f66-94ca-03106c7bd74a)
+### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
+
+---
+
+![Image](https://github.com/user-attachments/assets/43093b5f-3f8f-493a-89c0-39048653c74a)
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
