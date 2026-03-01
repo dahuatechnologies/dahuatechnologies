@@ -70,6 +70,16 @@ All computational references use the 0 marker, which extends from the center pos
 
 ```
 
+---
+
+### The Red Force 
+
+---
+
+![Image](https://github.com/user-attachments/assets/c05adfcc-8d2d-46d0-bbbc-fbd50b44a35a)
+
+---
+
 ### neuron-fuzzy logic gamification principles 
 
 ---
