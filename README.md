@@ -76,6 +76,10 @@ Here are some ideas to get you started:
 
 ---
 
+**Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and Verilog); The Minix Book: Operating Systems Design and Implementation 3e; Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition.**
+
+---
+
 ```text
 
 **Multi-Axes: 5A (Z, Y, X, W, A)
@@ -219,10 +223,6 @@ https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
 ---
 
 ![Image](https://github.com/user-attachments/assets/024b8dd6-cd56-480f-bfac-ee0dae48cae7)
-
----
-
-**Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and Verilog); The Minix Book: Operating Systems Design and Implementation 3e; Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition.**
 
 ---
 
