@@ -303,6 +303,18 @@ Instead of manual path configuration, you can use the MPI compiler wrappers:
 
 7. **Apply** and **Run**
 
+8. # Create a conf file for OpenMPI
+echo "/usr/lib64/openmpi/lib" | sudo tee /etc/ld.so.conf.d/openmpi.conf
+
+# Update the library cache
+sudo ldconfig
+
+# Verify it's now found
+ldconfig -p | grep libmpi.so.40
+
+# Run your program
+./mpi_test
+
 ## 6. Test with a simple MPI program
 
 Create a test file `mpi_test.c`:
