@@ -325,7 +325,7 @@ int main(int argc, char** argv) {
 
 ```bash
 # Compile with mpic++
-mpic++ -o mpi_test mpi_test.cpp
+mpic++ -o mpi_test mpi_test.c
 
 # Run with 4 processes
 mpirun -np 4 ./mpi_test
