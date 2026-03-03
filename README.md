@@ -296,9 +296,9 @@ Instead of manual path configuration, you can use the MPI compiler wrappers:
 
 ## 6. Test with a simple MPI program
 
-Create a test file `mpi_test.cpp`:
+Create a test file `mpi_test.c`:
 
-```cpp
+```c
 #include <mpi.h>
 #include <iostream>
 
