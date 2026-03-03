@@ -547,11 +547,23 @@ Here are some ideas to get you started:
 
 ---
 
-### The Green Forces Security Defense Commander
+### The Green Forces 
+
+---
+
+![Image](https://github.com/user-attachments/assets/79de5f9a-59d8-4826-b328-5a7de4d21b86)
+
+---
+
+### The Red Forces 
 
 ---
 
 ![Image](https://github.com/user-attachments/assets/46bd97a3-1631-4352-b9b8-a583ce774075)
+
+---
+
+### The Green Forces Commanders
 
 ---
 
@@ -568,18 +580,6 @@ Here are some ideas to get you started:
 ---
 
 ![Image](https://github.com/user-attachments/assets/074aa7cd-834d-4a67-b582-8cda87eb6f50)
-
----
-
-### The Green Forces 
-
----
-
-![Image](https://github.com/user-attachments/assets/79de5f9a-59d8-4826-b328-5a7de4d21b86)
-
----
-
-### The Red Forces 
 
 ---
 
