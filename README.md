@@ -303,19 +303,26 @@ Instead of manual path configuration, you can use the MPI compiler wrappers:
 
 7. **Apply** and **Run**
 
-8. # Create a conf file for OpenMPI
+8. **Create a conf file for OpenMPI**
 echo "/usr/lib64/openmpi/lib" | sudo tee /etc/ld.so.conf.d/openmpi.conf
 
-# Update the library cache
+**Update the library cache**
 sudo ldconfig
 
-# Verify it's now found
+** Verify it's now found**
 ldconfig -p | grep libmpi.so.40
 
-# Run your program
+**Run your program**
 ./mpi_test
 
-## 6. Test with a simple MPI program
+9. **Why This Happens**
+- OpenMPI 4.0 used libmpi.so.40;
+- OpenMPI 5.0 uses libmpi.so.50;
+- Your program was compiled/linked expecting version 4.0;
+- Recompiling with mpicc or correct paths links against the correct version 5.0 libraries;
+- The mpicc wrapper automatically adds the correct include paths and library paths for your installed OpenMPI version.
+
+6. **Test with a simple MPI program**
 
 Create a test file `mpi_test.c`:
 
