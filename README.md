@@ -39,11 +39,11 @@
 Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|ZN|-----● Y- AND X+ ●-----|ZN|-----● X-
 AND A+ ●-----|ZN|-----● A- AND W+ ●-----|ZN|-----● W-
 
-* Z Axes (Center of Rotation): This green axes establishe the core gravitational rotational
-reference and is visible only through an initial luminous dot dimension.
-* Y Axes (Height): A bright yellow line extending vertically.
-* X Axes (Length): A crisp blue line extending horizontally.
-* W Axes (Width): A pure white line extending laterally.
+* Z Axes (Rotation): This green axes establishe the core gravitational rotational
+reference and is visible only through an initial luminous dot dimension;
+* Y Axes (Height): A bright yellow line extending vertically;
+* X Axes (Length): A crisp blue line extending horizontally;
+* W Axes (Width): A pure white line extending laterally;
 * R Axes (Radial): A purple line curving radially outward, forming the radial with real-time
 rendering sector-model architecture.
 
