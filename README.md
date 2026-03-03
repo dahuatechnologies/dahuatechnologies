@@ -135,12 +135,16 @@ pkg-config --cflags libxml-2.0
 pkg-config --libs libxml-2.0  
 
 ---
+
 - Install Eclipse CDT IDE
 - Create Project C/C++
+
 ---
 
 - Configuration C/C++ Setting (Obs: Insert Per Line Patch and Library one-by-one)
+
 ---
+
 - GCC C++ Compiler
 - Dialect: ISO C++17 (-std=c++17)
 - Defined Symbols (-D): _GNU_SOURCE; CL_TARGET_OPENCL_VERSION=300; _POSIX_C_SOURCE=200809L
@@ -161,8 +165,6 @@ pkg-config --libs libxml-2.0
 ```
 
 ---
-
-```text
 
 You've found the MPI header file. Now let's properly configure OpenMPI on your Fedora 43 system. Since you have the include path `/usr/include/openmpi-x86_64/mpi.h`, this confirms OpenMPI is installed.
 
@@ -354,8 +356,6 @@ sudo chmod +x /etc/profile.d/openmpi.sh
 
 The key is using the paths you've confirmed exist on your system. Since you found `mpi.h` in `/usr/include/openmpi-x86_64`, the libraries should be in `/usr/lib64/openmpi/lib` and binaries in `/usr/lib64/openmpi/bin`. Let me know what you find when you run the `find` commands and I can help you adjust the configuration accordingly.
 
-```
-
 ---
 
 ```text
@@ -367,6 +367,7 @@ https://wiki.minix3.org/doku.php?id=www:download:start
 To Development Expert OS Minix 3.1.2 MICROKERNEL. 
 
 ---
+
 Add This Qemu and Libvirt Managment
 
 ---
