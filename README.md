@@ -305,7 +305,9 @@ Instead of manual path configuration, you can use the MPI compiler wrappers:
 
 6. **Apply** and **Run**
 
-7. **Create a conf file for OpenMPI**
+7. **Use ldconfig to Add System-Wide Path**
+
+**Create a conf file for OpenMPI**
 echo "/usr/lib64/openmpi/lib" | sudo tee /etc/ld.so.conf.d/openmpi.conf
 
 **Update the library cache**
