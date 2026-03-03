@@ -26,7 +26,7 @@
 
 
                                Y+ AXES (HEIGHT)
-         (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
+         (RADIAL) AXES R+ ●    ●    ● W+ AXES (WIDTH)
                            \   │   /
                             \  │  /
                              \ │ /
@@ -34,10 +34,10 @@
                               /|\ (0,0,0,0,0) ZN CENTER ALL AXES (GRAVITY/ROTATION)
                              / | \
                             /  |  \
-                           A-  Y-  W-
+                           W-  Y-  R-
 
 Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|ZN|-----● Y- AND X+ ●-----|ZN|-----● X-
-AND A+ ●-----|ZN|-----● A- AND W+ ●-----|ZN|-----● W-
+AND W+ ●-----|ZN|-----● W- AND R+ ●-----|ZN|-----● R-
 
 * Z Axes (Rotation): This green axes establishe the core gravitational rotational
 reference and is visible only through an initial luminous dot dimension;
