@@ -16,14 +16,14 @@
 
 ```text
 
-**The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation**
+- The GNU General Public License v3.0 and
+- The General Data Protection Regulation (GDPR) and
+- ISO 690:2021 - Information and documentation By Zaita, Davada Et al, 2025
 
-**Zaita, Davada Et al, 2025**
+* Multi-Axes: 5A (Z, Y, X, W, A)
 
-- Use five different colored pens to validate the 5-axis mathematical model
+- Obs: Use five different colored pens to validate the 5-axis mathematical model
 
-
-**Multi-Axes: 5A (Z, Y, X, W, A)
 
                                Y+ AXES (HEIGHT)
          (RADIAL) AXES W+ ●    ●    ● A+ AXES (WIDTH)
