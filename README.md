@@ -16,11 +16,11 @@
 
 ```text
 
-- The GNU General Public License v3.0 and
-- The General Data Protection Regulation (GDPR) and
-- ISO 690:2021 - Information and documentation By Zaita, Davada Et al, 2025
+- The GNU General Public License v3.0;
+- The General Data Protection Regulation (GDPR);
+- ISO 690:2021 - Information and documentation. 
 
-* Multi-Axes: 5A (Z, Y, X, W, A)
+* Multi-Axes: 5A (Z, Y, X, W, A) By Zaita, Davada Et al, 2025
 
 - Obs: Use five different colored pens to validate the 5-axis mathematical model
 
@@ -31,20 +31,26 @@
                             \  │  /
                              \ │ /
    (LENGHT) AXES X+ ●----------0--------- X-
-                              /|\ (0,0,0,0,0) ZN CENTER AXES (GRAVITY/ROTATION)
+                              /|\ (0,0,0,0,0) ZN CENTER ALL AXES (GRAVITY/ROTATION)
                              / | \
                             /  |  \
                            A-  Y-  W-
 
-Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|YN|-----● Y- AND X+ ●-----|XN|-----● X- AND A+ ●-----|AN|-----● A- AND W+ ●-----|WN|-----● W-
+Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|ZN|-----● Y- AND X+ ●-----|ZN|-----● X-
+AND A+ ●-----|ZN|-----● A- AND W+ ●-----|ZN|-----● W-
 
-* Z Axes (Center of Rotation): This green axes establishe the core gravitational rotational reference and is visible only through an initial luminous dot dimension.
+* Z Axes (Center of Rotation): This green axes establishe the core gravitational rotational
+reference and is visible only through an initial luminous dot dimension.
 * Y Axes (Height): A bright yellow line extending vertically.
 * X Axes (Length): A crisp blue line extending horizontally.
 * W Axes (Width): A pure white line extending laterally.
-* R Axes (Radial): A purple line curving radially outward, forming the radial with real-time rendering sector-model architecture.
+* R Axes (Radial): A purple line curving radially outward, forming the radial with real-time
+rendering sector-model architecture.
 
-All computational references use the 0 marker, which extends from the center position representing the origin point; the +1 marker, which extends upward positive, indicating positive directional weighting; and the -1 marker, which extends downward negative, indicating negative directional weighting.
+All computational references use the 0 marker, which extends from the center position
+representing the origin point; the +1 marker, which extends upward positive,
+indicating positive directional weighting; and the -1 marker, which extends
+downward negative, indicating negative directional weighting.
 
 ```
 ---
