@@ -16,11 +16,14 @@
 
 **The GNU General Public License v3.0 and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation**
 
-**Zaita, Davada Et al, 2025**
-
 ---
 
 ```text
+
+**Zaita, Davada Et al, 2025**
+
+* Use five different colored pens to validate the 5-axis mathematical model
+
 
 **Multi-Axes: 5A (Z, Y, X, W, A)
 
