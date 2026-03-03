@@ -40,7 +40,7 @@ Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|ZN|-----● Y- AND X+ ●-----|ZN|---
 AND W+ ●-----|ZN|-----● W- AND R+ ●-----|ZN|-----● R-
 
 * Z Axes (Rotation): This green axes establishe the core gravitational rotational
-reference and is visible only through an initial luminous dot dimension;
+reference and is visible only through an initial luminous dot;
 * Y Axes (Height): A bright yellow line extending vertically;
 * X Axes (Length): A crisp blue line extending horizontally;
 * W Axes (Width): A pure white line extending laterally;
