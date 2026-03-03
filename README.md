@@ -547,6 +547,10 @@ Here are some ideas to get you started:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/e7439a8f-efda-4dfc-86e4-ae6a73a5a96a)
+
+---
+
 ### The Green Forces 
 
 ---
