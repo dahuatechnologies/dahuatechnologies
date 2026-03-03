@@ -559,11 +559,15 @@ Here are some ideas to get you started:
 
 ---
 
-![Image](https://github.com/user-attachments/assets/46bd97a3-1631-4352-b9b8-a583ce774075)
+![Image](https://github.com/user-attachments/assets/c05adfcc-8d2d-46d0-bbbc-fbd50b44a35a)
 
 ---
 
 ### The Green Forces Commanders
+
+---
+
+![Image](https://github.com/user-attachments/assets/46bd97a3-1631-4352-b9b8-a583ce774075)
 
 ---
 
@@ -580,10 +584,6 @@ Here are some ideas to get you started:
 ---
 
 ![Image](https://github.com/user-attachments/assets/074aa7cd-834d-4a67-b582-8cda87eb6f50)
-
----
-
-![Image](https://github.com/user-attachments/assets/c05adfcc-8d2d-46d0-bbbc-fbd50b44a35a)
 
 ---
 
