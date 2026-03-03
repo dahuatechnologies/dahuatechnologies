@@ -307,19 +307,24 @@ Instead of manual path configuration, you can use the MPI compiler wrappers:
 
 7. **Use ldconfig to Add System-Wide Path**
 
-**Create a conf file for OpenMPI**
-echo "/usr/lib64/openmpi/lib" | sudo tee /etc/ld.so.conf.d/openmpi.conf
+**Create a conf file for OpenMPI:**
 
-**Update the library cache**
-sudo ldconfig
+- echo "/usr/lib64/openmpi/lib" | sudo tee /etc/ld.so.conf.d/openmpi.conf
 
-** Verify it's now found**
-ldconfig -p | grep libmpi.so.40
+**Update the library cache:**
 
-**Run your program**
-./mpi_test
+- sudo ldconfig
 
-8. **Why This Happens**
+**Verify it's now found:**
+
+- ldconfig -p | grep libmpi.so.40
+
+**Run your program:**
+
+~$ ./mpi_test
+
+8. **Why This Happens:**
+   
 - OpenMPI 4.0 used libmpi.so.40;
 - OpenMPI 5.0 uses libmpi.so.50;
 - Your program was compiled/linked expecting version 4.0;
