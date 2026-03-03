@@ -30,7 +30,7 @@
                             \  │  /
                              \ │ /
    (LENGHT) AXES X+ ●----------0--------- X-
-                              /|\ ZN (0,0,0,0,0) CENTER AXES
+                              /|\ (0,0,0,0,0) ZN AXES (ROTATION/GRAVITY) 
                              / | \
                             /  |  \
                            A-  Y-  W-
