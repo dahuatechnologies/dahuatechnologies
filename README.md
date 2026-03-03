@@ -50,42 +50,50 @@ All computational references use the 0 marker, which extends from the center pos
 ```
 ---
 
-### neuron-fuzzy logic gamification principles 
+```text
+
+Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 
 ---
 
-**5A manifold: z,y,x,ψ,φ (quantum phases)**
+* Basic Your Project:
+
+- Adhering Mathematical Foundation: Pre-Calculus, Calculus A/B/C;
+- law of excluded middle and law of contradiction;
+- Proving Isomorphisms Mathematics;
+- Gaps Resolutions Between Specification and Implementation;
+- Adopting ANSI C89/90 within Standard Comments /*...*/ using POSIX compliance, Big O Complexity Analysis and PThreads within Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for AMD RyZen 5 7000 S Architectures using Eclipse IDE CDT on exclusive Linux Fedora 43. The interactive result uses external libraries such as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management in a complete file such as `mimix/src/main.c`.
 
 ---
 
-https://github.com/dahuatechnologies/gamification
+* TEST LAB - SERVER 01 - FEDORA SERVER 43 AI; CLIENT 01 - FEDORA DESKTOP EXPERT SYSTEM;
 
+* TEST LAB - AMD RyZen 5 7000 S Radeon Architectures (OK) / Intel Core I7 Nvidia Architectures (NOT OK);
+
+* TEST LAB - Server/Client - Using implementation P2P Protocol Foundations;
+
+* TEST LAB - Security AI - Using OpenSSL to Military Grade Security; 
+
+* TEST LAB - Cluster AI - Using OpenMPI to Cluster Server AI's;
+
+* TEST LAB - Sandbox AI HAL (Hardware Abstraction Layer) - Using Wireshark Foundations to Packet Capture.
+
+--- 
+
+* PROTOTYPE LAB - SERVER 01 - Mimix SERVER 43 AI; CLIENT 01 - MIMIX DESKTOP EXPERT SYSTEM;
+
+* PROTOTYPE LAB Mimix Expert 64 Bits within 32 Bits Protected (X64-86);
+
+* Recommendation is Artificial Intelligence Operation System Microkernel (Duolithic);
+
+* Autonomous Expert System using Service API KEY to Connecting Artificial Intelligence;
+
+* Starting using 5 Axes and 65536 Vectors and 262144 Neurons;
+
+* Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons.
+
+```
 ---
-
-### melon cad face principles
-
----
-
-https://github.com/dahuatechnologies/meloncadface
-
----
-
-https://github.com/user-attachments/assets/365034ab-3a12-4bda-94ff-01898922d1c6
-
----
-
-### heart cad face principles
-
----
-
-https://github.com/dahuatechnologies/heartcadface
-
----
-
-https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
-
----
-
 
 ```text
 
@@ -152,7 +160,11 @@ pkg-config --libs libxml-2.0
 - Libraries: Libraries (-l) m; curl; numa; portaudio; png16; SDL2_mixer; SDL2; v4l2; GLEW; glut; rt; dl; GL; GLU; X11; Xm; Xext; Xt; Xmu; openal; asound; fftw3; jpeg; tesseract; leptonica; OpenCL; ssl; crypto; opencv_core; opencv_videoio; opencv_highgui; opencv_imgproc; opencv_objdetect; opencv_face; opencv_dnn; opencv_video; opencv_calib3d; opencv_imgcodecs 
 - Libraries search path (-L): /usr/lib; /usr/lib64; /usr/lib64/libv4l; /opt/rocm/lib
 
+```
+
 ---
+
+```text
 
 You've found the MPI header file. Now let's properly configure OpenMPI on your Fedora 43 system. Since you have the include path `/usr/include/openmpi-x86_64/mpi.h`, this confirms OpenMPI is installed.
 
@@ -344,7 +356,11 @@ sudo chmod +x /etc/profile.d/openmpi.sh
 
 The key is using the paths you've confirmed exist on your system. Since you found `mpi.h` in `/usr/include/openmpi-x86_64`, the libraries should be in `/usr/lib64/openmpi/lib` and binaries in `/usr/lib64/openmpi/bin`. Let me know what you find when you run the `find` commands and I can help you adjust the configuration accordingly.
 
+```
+
 ---
+
+```text
 
 Download Minix 3.1.1 Academic Source Code Book;
 
@@ -373,59 +389,49 @@ $ sudo dnf install -y     libvirt-daemon-config-network     libvirt-daemon-drive
 
 $ sudo dnf install -y     libguestfs-tools-c     guestfs-tools-c     libguestfs-xfs     nbdkit     nbdkit-server     nbdkit-basic-plugins     nbdkit-curl-plugin     nbdkit-gzip-plugin     nbdkit-tar-plugin     qemu-img     libiscsi     libiscsi-utils
 
----
-
+```
 ---
 
 ```text
 
-Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
-
----
-
-* Basic Your Project:
-
-- Adhering Mathematical Foundation: Pre-Calculus, Calculus A/B/C;
-- law of excluded middle and law of contradiction;
-- Proving Isomorphisms Mathematics;
-- Gaps Resolutions Between Specification and Implementation;
-- Adopting ANSI C89/90 within Standard Comments /*...*/ using POSIX compliance, Big O Complexity Analysis and PThreads within Non-Uniform Memory Access (NUMA) Topology to optimize CPU Parallel Computation and CPU registers, cache optimization using exclusive SIMD vectorization AVX-256, AVX2, FMA using 32 bytes of memory alignment optimized for AMD RyZen 5 7000 S Architectures using Eclipse IDE CDT on exclusive Linux Fedora 43. The interactive result uses external libraries such as GPGPU with OpenCL 3, OpenGL Rendering using BGRA Colors, OpenAL for spatial audio and SDL2 for Windows Management in a complete file such as `mimix/src/main.c`.
-
----
-
-* TEST LAB - SERVER 01 - FEDORA SERVER 43 AI; CLIENT 01 - FEDORA DESKTOP EXPERT SYSTEM;
-
-* TEST LAB - AMD RyZen 5 7000 S Radeon Architectures (OK) / Intel Core I7 Nvidia Architectures (NOT OK);
-
-* TEST LAB - Server/Client - Using implementation P2P Protocol Foundations;
-
-* TEST LAB - Security AI - Using OpenSSL to Military Grade Security; 
-
-* TEST LAB - Cluster AI - Using OpenMPI to Cluster Server AI's;
-
-* TEST LAB - Sandbox AI HAL (Hardware Abstraction Layer) - Using Wireshark Foundations to Packet Capture.
-
---- 
-
-* PROTOTYPE LAB - SERVER 01 - Mimix SERVER 43 AI; CLIENT 01 - MIMIX DESKTOP EXPERT SYSTEM;
-
-* PROTOTYPE LAB Mimix Expert 64 Bits within 32 Bits Protected (X64-86);
-
-* Recomendation is Artificial Intelligence Operation System Microkernel (Duolithic);
-
-* Autonomous Expert System using Service API KEY to Connecting Artificial Intelligence;
-
-* Starting using 5 Axes and 65536 Vectors and 262144 Neurons;
-
-* Neurons-Fuzzy Logic with Entropy and Mandani Inference System for Autonomous Control and Calculation Weights Vectors and functionality Make-Decision for Neurons.
-
----
-
 To new Expert X64_86 within 64 Bits using 32 bits 86 protected using Principles IA-64 (Intel Architecture-64) was a 64-bit microprocessor architecture jointly developed by Hewlett-Packard (HP) and Intel in the 1990s, designed to succeed the PA-RISC and x86 architectures for high-end enterprise servers and workstations. It was built on the concept of Explicitly Parallel Instruction Computing (EPIC), which shifted the burden of identifying instruction-level parallelism from the processor hardware to the compiler.
 
+```
 ---
 
-```
+### neuron-fuzzy logic gamification principles 
+
+---
+
+**5A manifold: z,y,x,ψ,φ (quantum phases)**
+
+---
+
+https://github.com/dahuatechnologies/gamification
+
+---
+
+### melon cad face principles
+
+---
+
+https://github.com/dahuatechnologies/meloncadface
+
+---
+
+https://github.com/user-attachments/assets/365034ab-3a12-4bda-94ff-01898922d1c6
+
+---
+
+### heart cad face principles
+
+---
+
+https://github.com/dahuatechnologies/heartcadface
+
+---
+
+https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
 
 ---
 
