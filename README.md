@@ -173,7 +173,9 @@ pkg-config --libs libxml-2.0
 
 ---
 
-You've found the MPI header file. Now let's properly configure OpenMPI on your Fedora 43 system. Since you have the include path `/usr/include/openmpi-x86_64/mpi.h`, this confirms OpenMPI is installed.
+## 0. You've found the MPI header file. 
+
+Now let's properly configure OpenMPI on your Fedora 43 system. Since you have the include path `/usr/include/openmpi-x86_64/mpi.h`, this confirms OpenMPI is installed.
 
 ## 1. Locate the OpenMPI binaries and libraries
 
@@ -236,24 +238,24 @@ Now let's configure Eclipse with the exact paths we found:
 
 ### Project Properties Setup:
 
-1. **Right-click your project** → **Properties**
+0. **Right-click your project** → **Properties**
 
-2. **C/C++ Build** → **Settings**
+1. **C/C++ Build** → **Settings**
 
-3. **Under "GCC C++ Compiler"** → **Includes**:
+2. **Under "GCC C++ Compiler"** → **Includes**:
    - Add: `/usr/include/openmpi-x86_64`
 
-4. **Under "GCC C Compiler"** → **Includes**:
+3. **Under "GCC C Compiler"** → **Includes**:
    - Add: `/usr/include/openmpi-x86_64`
 
-5. **Under "GCC C++ Linker"** → **Libraries**:
+4. **Under "GCC C++ Linker"** → **Libraries**:
    - Library search path (`-L`):
      - Add: `/usr/lib64/openmpi/lib`
    - Libraries (`-l`):
      - Add: `mpi`
      - Add: `mpi_cxx` (for C++ projects)
 
-6. **Under "GCC C Linker"** → **Libraries**:
+5. **Under "GCC C Linker"** → **Libraries**:
    - Library search path:
      - Add: `/usr/lib64/openmpi/lib`
    - Libraries:
@@ -263,37 +265,37 @@ Now let's configure Eclipse with the exact paths we found:
 
 Instead of manual path configuration, you can use the MPI compiler wrappers:
 
-1. **Project** → **Properties** → **C/C++ Build** → **Settings**
+0. **Project** → **Properties** → **C/C++ Build** → **Settings**
 
-2. **Under "GCC C++ Compiler"**:
+1. **Under "GCC C++ Compiler"**:
    - Command: `mpic++`
    - All options: `${FLAGS}` (remove any -I flags)
 
-3. **Under "GCC C Compiler"**:
+2. **Under "GCC C Compiler"**:
    - Command: `mpicc`
 
-4. **Under "GCC C++ Linker"**:
+3. **Under "GCC C++ Linker"**:
    - Command: `mpic++`
 
-5. **Under "GCC C Linker"**:
+4. **Under "GCC C Linker"**:
    - Command: `mpicc`
 
 ## 5. Create a Run Configuration
 
-1. **Run** → **Run Configurations**
+0. **Run** → **Run Configurations**
 
-2. **Right-click "C/C++ Application"** → **New**
+1. **Right-click "C/C++ Application"** → **New**
 
-3. **Name**: "MPI Run"
+2. **Name**: "MPI Run"
 
-4. **Main tab**:
+3. **Main tab**:
    - Project: Your project name
    - C/C++ Application: Browse to your executable (e.g., `Debug/project_name`)
 
-5. **Arguments tab**:
+4. **Arguments tab**:
    - Program arguments: `-np 4`
 
-6. **Environment tab**:
+5. **Environment tab**:
    - Add variable:
      - Name: `LD_LIBRARY_PATH`
      - Value: `/usr/lib64/openmpi/lib`
@@ -301,9 +303,9 @@ Instead of manual path configuration, you can use the MPI compiler wrappers:
      - Name: `PATH`
      - Value: `/usr/lib64/openmpi/bin:${PATH}`
 
-7. **Apply** and **Run**
+6. **Apply** and **Run**
 
-8. **Create a conf file for OpenMPI**
+7. **Create a conf file for OpenMPI**
 echo "/usr/lib64/openmpi/lib" | sudo tee /etc/ld.so.conf.d/openmpi.conf
 
 **Update the library cache**
@@ -315,14 +317,14 @@ ldconfig -p | grep libmpi.so.40
 **Run your program**
 ./mpi_test
 
-9. **Why This Happens**
+8. **Why This Happens**
 - OpenMPI 4.0 used libmpi.so.40;
 - OpenMPI 5.0 uses libmpi.so.50;
 - Your program was compiled/linked expecting version 4.0;
 - Recompiling with mpicc or correct paths links against the correct version 5.0 libraries;
 - The mpicc wrapper automatically adds the correct include paths and library paths for your installed OpenMPI version.
 
-6. **Test with a simple MPI program**
+9. **Test with a simple MPI program**
 
 Create a test file `mpi_test.c`:
 
