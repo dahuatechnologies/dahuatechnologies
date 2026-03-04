@@ -18,11 +18,7 @@
 
 ---
 
-**Infantry Droids Earthquake trembles**
-
----
-
-## CGQ Attention - Whistle blow
+## Infantry Droids Earthquake trembles - CGQ Attention - Whistle blow
 
 ---
 
