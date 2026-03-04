@@ -18,7 +18,7 @@
 
 ---
 
-**-Deterministic Automata as Finite State Machine**
+**Bizu: - Deterministic Automata as Deterministic Finite State Machine**
 
 ---
 
