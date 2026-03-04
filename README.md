@@ -18,6 +18,15 @@
 
 ---
 
+# space invaders initial logic application
+
+┌──────────────────────┐      ┌──────────────────┐     ┌─────────────────┐
+│      Game Engine     │────▶│  Neuro-Fuzzy AI  │────▶│  EVO AI CORE    │
+│ (space invader game) │◀────│    Controller    │◀────│  (Key API)      │
+└──────────────────────┘      └──────────────────┘     └─────────────────┘
+
+---
+
 https://github.com/user-attachments/assets/00ee1e5f-650f-40ed-8823-47f1893405bc
 
 ---
