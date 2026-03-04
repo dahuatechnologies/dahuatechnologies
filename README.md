@@ -18,6 +18,14 @@
 
 ---
 
+## CGQ Attention - Cmt Corporate Crazy - Whistle blow
+
+---
+
+![Image](https://github.com/user-attachments/assets/53e6c409-00e2-4566-b11f-02f057df986b)
+
+---
+
 ## Droids Infantry Earthquake trembles - CGQ Attention - Whistle blow
 
 ---
