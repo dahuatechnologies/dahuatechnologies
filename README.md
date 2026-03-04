@@ -578,7 +578,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Artificial Intelligence Hologram AI Commander
+## EVOX HOLOGRAPHIC AI COMMANDER
 
 ---
 
