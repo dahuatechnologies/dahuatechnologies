@@ -37,9 +37,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## An simple academic AI with interactive results preview.
+
 ---
 
-## An simple academic AI with interactive results preview.
+## Obs: 3 Axis within Rotation within Vectors and Neurons and synapses 
 
 ---
 
