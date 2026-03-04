@@ -14,7 +14,7 @@
 
 ---
 
-# The Dava Armed Joint Forces  
+# The Joint Armed Forces of Dava 
 
 ---
 
