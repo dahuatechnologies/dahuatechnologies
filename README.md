@@ -22,8 +22,12 @@
 
 ---
 
-       Game Engine      ────▶  EVO AI CORE
-  (space invader game)  ◀────   (Key API)
+* Game Engine           ────▶  EVO AI CORE
+* (space invader game)  ◀────   (Key API)
+
+---
+
+https://github.com/dahuatechnologies/spaceinvaders
 
 ---
 
