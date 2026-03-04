@@ -18,6 +18,14 @@
 
 ---
 
+## Cmt Colonel Infantry Mustard - Whistle blow
+
+---
+
+![Image](https://github.com/user-attachments/assets/6c0c93e2-f5ce-459f-bbdf-325aaa478188)
+
+---
+
 ## PLATOPES Attention - Captain skull - Whistle blow
 
 ---
@@ -26,7 +34,7 @@
 
 ---
 
-## CGQ Attention - Cmt Corporate Crazy - Whistle blow
+## CGQ Attention - Corporate Crazy - Whistle blow
 
 ---
 
