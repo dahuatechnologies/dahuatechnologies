@@ -14,31 +14,13 @@
 
 ---
 
-# The Joint Armed Forces of Dava
+# The Joint Armed Forces of Dava Droids
 
 ---
 
-![Image](https://github.com/user-attachments/assets/cc51ffa8-d98a-41a6-a460-7e1fcb8692e9)
+![Image](https://github.com/user-attachments/assets/f31757be-a90e-4688-91da-2272bf55fcc6)
 
 ---
-
-### Bob Burger and Old Ku in Desert 
-
----
-
-### O time da Bosta Vermelha+Preta = Ranziba or Ranzizo or Tiza Cristum
-
----
-
-### They started airing their dirty laundry at desert and it backfired
-
----
-
-### Did anyone smell uranium anywhere? Is this just old pothead nonsense (Canabis Extreme) ???
-
----
-
-![Image](https://github.com/user-attachments/assets/1b6211b9-1f79-47cb-8c70-550482ebbf30)
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
