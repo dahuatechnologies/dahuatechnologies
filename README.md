@@ -18,6 +18,14 @@
 
 ---
 
+## CGQ Attention - Whistle blow
+
+---
+
+![Image](https://github.com/user-attachments/assets/fbd4a73e-6df4-4108-9662-85e1dfb4db1c)
+
+---
+
 ## Queue for One - Overcoming Obstacle - Whistle blow
 
 ---
