@@ -39,7 +39,11 @@ Here are some ideas to get you started:
 
 ---
 
-## "The AI Commander: Invisible War and the Bounds of Conflict."
+## An simple academic AI with interactive results preview.
+
+---
+
+https://github.com/user-attachments/assets/279c91a4-de74-406a-a8a6-9674b4d13e94
 
 ---
 
