@@ -22,12 +22,16 @@
 
 ---
 
-![Image](https://github.com/user-attachments/assets/d8691b77-796f-4beb-a612-64a653182885)
+![Image](https://github.com/user-attachments/assets/ca865f2d-865b-4627-bde6-f35796c080cd)
 
 ---
 
 
 ###  They started airing their dirty laundry at home and it backfired.
+
+---
+
+### Has anyone smelled uranium around here?
 
 ---
 
