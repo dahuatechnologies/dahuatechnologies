@@ -14,6 +14,14 @@
 
 ---
 
+## An simple academic Expert System Game with interactive results preview.
+
+---
+
+https://github.com/user-attachments/assets/00ee1e5f-650f-40ed-8823-47f1893405bc
+
+---
+
 ## An simple academic AI with interactive results preview.
 
 ---
