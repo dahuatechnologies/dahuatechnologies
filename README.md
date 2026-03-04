@@ -18,12 +18,12 @@
 
 ---
 
-### expert system space invaders connecting AI CORE - Initial logic application
+### Expert System as space invaders connecting EVOX AI CORE - Initial logic application
 
 ---
 
-* Game Engine           ────▶  EVO AI CORE
-* (space invader game)  ◀────   (Key API)
+*     Expert System    ────▶  EVOX AI CORE
+* (Space Invader Game) ◀────   (Key API)
 
 ---
 
