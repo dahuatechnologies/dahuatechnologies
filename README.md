@@ -22,6 +22,14 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/2b0cf251-de09-4e9d-be65-f69213bcf33c)
+
+---
+
+## CGQ Attention - Whistle blow
+
+---
+
 ![Image](https://github.com/user-attachments/assets/fbd4a73e-6df4-4108-9662-85e1dfb4db1c)
 
 ---
