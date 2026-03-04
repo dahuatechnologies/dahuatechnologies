@@ -14,6 +14,15 @@
 
 ---
 
+
+###  Dirty laundry starts to get washed at home.
+
+---
+
+![Image](https://github.com/user-attachments/assets/1b6211b9-1f79-47cb-8c70-550482ebbf30)
+
+---
+
 ## "The AI Commander: Invisible War and the Bounds of Conflict."
 
 ---
