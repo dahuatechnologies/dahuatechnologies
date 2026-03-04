@@ -27,7 +27,7 @@
 
 ---
 
-### Has anyone smelled uranium anywhere?
+### Did anyone smell uranium anywhere? Is this just old stoner gay talk?
 
 ---
 
