@@ -22,6 +22,10 @@
 
 ---
 
+### Bob Burger and Old Ku in Desert (O time da Bosta Preta Ranziba/Ranzizo)
+
+---
+
 ### They started airing their dirty laundry at desert and it backfired
 
 ---
