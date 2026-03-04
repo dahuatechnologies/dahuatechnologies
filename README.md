@@ -18,6 +18,14 @@
 
 ---
 
+## PLATOPES Attention - Captain skull - Whistle blow
+
+---
+
+![Image](https://github.com/user-attachments/assets/e963a26b-2786-4774-ab4c-7b93b4a5e6e3)
+
+---
+
 ## CGQ Attention - Cmt Corporate Crazy - Whistle blow
 
 ---
