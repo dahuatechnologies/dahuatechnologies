@@ -18,6 +18,14 @@
 
 ---
 
+**-Deterministic Automata as Finite State Machine**
+
+---
+
+**- Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and Verilog); The Minix Book: Operating Systems Design and Implementation 3e; Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition; Introduction to the Theory of Computation - Michael Sipser.** 
+
+---
+
 ## Obs0: Axis and Vectors and Neurons and Synapses 
 
 ---
@@ -100,7 +108,6 @@ Bizu: Teacher Zaita (Desktop/Laptop/Mobile App)
 * Basic Your Project:
 ---
 
--Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and Verilog); The Minix Book: Operating Systems Design and Implementation 3e; Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition.
 - Adhering Mathematical Foundation: Pre-Calculus, Calculus A/B/C;
 - law of excluded middle and law of contradiction;
 - Proving Isomorphisms Mathematics;
