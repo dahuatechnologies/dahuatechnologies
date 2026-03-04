@@ -26,6 +26,10 @@
 
 ---
 
+## Amd Ryzen 7000 Series 5 within Amd Radeon Graphics Architecture
+
+---
+
 https://github.com/user-attachments/assets/db039da7-8c87-4a9f-b829-6ccf774644a7
 
 ---
