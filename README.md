@@ -14,11 +14,7 @@
 
 ---
 
-# The Joint Armed Forces of Dava (Fire in Motion)
-
----
-
-### Eles começaram a lavar roupa suja em público no deserto e isso se voltou contra eles.
+# The Joint Armed Forces of Dava
 
 ---
 
