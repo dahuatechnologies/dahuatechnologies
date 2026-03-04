@@ -14,6 +14,14 @@
 
 ---
 
+### Dirty laundry starts getting washed at home.
+
+---
+
+![Image](https://github.com/user-attachments/assets/d8691b77-796f-4beb-a612-64a653182885)
+
+---
+
 
 ###  They started airing their dirty laundry at home and it backfired.
 
