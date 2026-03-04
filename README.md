@@ -18,7 +18,7 @@
 
 ---
 
-### Dirty laundry starts getting washed at home.
+### Eles começaram a lavar roupa suja em público no deserto e isso se voltou contra eles.
 
 ---
 
@@ -27,11 +27,11 @@
 ---
 
 
-###  They started airing their dirty laundry at home and it backfired.
+### They started airing their dirty laundry at desert and it backfired
 
 ---
 
-### Has anyone smelled uranium around here?
+### Has anyone smelled uranium anywhere?
 
 ---
 
