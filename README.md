@@ -52,10 +52,6 @@
 
 ![Image](https://github.com/user-attachments/assets/074aa7cd-834d-4a67-b582-8cda87eb6f50)
 
----
-
-![Image](https://github.com/user-attachments/assets/01f20392-2609-439f-a50a-5124136caa04)
-
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
