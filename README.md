@@ -14,6 +14,46 @@
 
 ---
 
+## An simple academic AI with interactive results preview.
+
+---
+
+## Obs0: Axis and Vectors and Neurons and Synapses 
+
+---
+
+## Obs1: 3 Axis within Rotation (Z, Y, X , R) 
+
+---
+
+https://github.com/user-attachments/assets/f546010f-e90b-40cc-bd5f-8743157cf4b8
+
+---
+
+https://github.com/user-attachments/assets/3ff045ba-620b-4485-8d30-ad4964b4782e
+
+---
+
+https://github.com/user-attachments/assets/279c91a4-de74-406a-a8a6-9674b4d13e94
+
+
+<!--
+**dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+---
+
 # The Joint Armed Forces of Dava Infantry Droids
 
 ---
@@ -79,45 +119,6 @@
 ---
 
 ![Image](https://github.com/user-attachments/assets/dcae3ed6-5d02-4618-b729-d6a1c8420422)
-
----
-
-<!--
-**dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## An simple academic AI with interactive results preview.
-
----
-
-## Obs0: Axis and Vectors and Neurons and Synapses 
-
----
-
-## Obs1: 3 Axis within Rotation (Z, Y, X , R) 
-
----
-
-https://github.com/user-attachments/assets/f546010f-e90b-40cc-bd5f-8743157cf4b8
-
----
-
-https://github.com/user-attachments/assets/3ff045ba-620b-4485-8d30-ad4964b4782e
-
----
-
-https://github.com/user-attachments/assets/279c91a4-de74-406a-a8a6-9674b4d13e94
 
 ---
 
