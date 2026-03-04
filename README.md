@@ -18,7 +18,15 @@
 
 ---
 
-## 14th Mechanized Infantry Battalion - Cmd Colonel Mustard - Whistle blow
+## The Regimental Flag of the 14th Mechanized Infantry Battalion
+
+---
+
+![Image](https://github.com/user-attachments/assets/56d51160-abee-4723-95ba-35c82ea22d40)
+
+---
+
+## 14th Mechanized Infantry Battalion - Cmd Colonel Mustard
 
 ---
 
