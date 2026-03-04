@@ -26,7 +26,7 @@
 
 ---
 
-### Did anyone smell uranium anywhere? Is this just old pothead nonsense?
+### Did anyone smell uranium anywhere? Is this just old pothead nonsense (Canabis Extreme) ???
 
 ---
 
