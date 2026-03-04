@@ -18,7 +18,11 @@
 
 ---
 
-## 14 Infantry Battalion - Cmd Colonel Mustard - Whistle blow
+## 14th Mechanized Infantry Battalion - Cmd Colonel Mustard - Whistle blow
+
+---
+
+![Image](https://github.com/user-attachments/assets/7a450b24-9dd1-4cb4-b3e2-6f0ad52823f6)
 
 ---
 
