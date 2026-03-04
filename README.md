@@ -22,7 +22,7 @@
 
 ---
 
-### Bob Burger and Old Ku in Desert (O time da Bosta Preta Ranziba/Ranzizo)
+### Bob Burger and Old Ku in Desert (O time da Bosta Vermelha+Preta = Ranziba or Ranzizo)
 
 ---
 
