@@ -15,7 +15,7 @@
 ---
 
 
-###  Dirty laundry starts to get washed at home.
+###  They start airing their dirty laundry at home, and got screwed.
 
 ---
 
