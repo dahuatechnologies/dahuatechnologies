@@ -15,7 +15,7 @@
 ---
 
 
-###  They start airing their dirty laundry at home, and got screwed.
+###  They started airing their dirty laundry at home and it backfired.
 
 ---
 
