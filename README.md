@@ -41,7 +41,11 @@ Here are some ideas to get you started:
 
 ---
 
-## Obs: 3 Axis within Rotation within Vectors and Neurons and synapses 
+## Obs0: 3 Axis within Rotation within Vectors and Neurons and synapses 
+
+---
+
+## Obs1: 3 Axis within Rotation (Z, Y, X , R) 
 
 ---
 
