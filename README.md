@@ -18,10 +18,9 @@
 
 ---
 
-![Image](https://github.com/user-attachments/assets/ca865f2d-865b-4627-bde6-f35796c080cd)
+![Image](https://github.com/user-attachments/assets/cc51ffa8-d98a-41a6-a460-7e1fcb8692e9)
 
 ---
-
 
 ### They started airing their dirty laundry at desert and it backfired
 
@@ -32,6 +31,21 @@
 ---
 
 ![Image](https://github.com/user-attachments/assets/1b6211b9-1f79-47cb-8c70-550482ebbf30)
+
+<!--
+**dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ---
 
@@ -72,22 +86,6 @@
 ---
 
 ![Image](https://github.com/user-attachments/assets/074aa7cd-834d-4a67-b582-8cda87eb6f50)
-
-
-<!--
-**dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 
