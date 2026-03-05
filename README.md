@@ -14,7 +14,7 @@
 
 ---
 
-## Adopting Prosthetics to Your Droid
+## Adopting Silicone body suit to Your Droid
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Silicone body suit to Your Droid
+## Adopting silicone overalls for your Droid
 
 ---
 
