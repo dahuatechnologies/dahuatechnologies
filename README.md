@@ -29,12 +29,12 @@
 - Obs: Use four different colored pens to validate the 4-axis mathematical model
 
 
-                               Y+ Axes 
-                               ●    ● Z+ Axes
+                               Y+ Axes (HEIGHT)  
+                               ●    ● Z+ Axes (WIDTH)
                                │   /
                                │  /
                                │ /
-            Axes X+ ●----------0--------- X-
+   (LENGHT) Axes X+ ●----------0--------- X-
                               /|  (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
                              / | 
                             /  |  
@@ -47,15 +47,19 @@ X+ ●-----|R|-----● X- and Y+ ●-----|R|-----● Y- and Z+ ●-----|R|-----�
              ●───────────●
             /│          /│
            / │         / │
-          ●───────────● ──────────→ Y+ Axes 
+          ●───────────● ──────────→ Y+ Axes (HEIGHT) 
           │  │        │  │
-          │  ●────────│──● ──────────→ Z+ Axes
+          │  ●────────│──● ──────────→ Z+ Axes (WIDTH)
           │ /         │ /
           │/          │/
           ●───────────0  (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION))
          /
-        X+ AXES      
+        X+ AXES (LENGHT)      
     
+* X Axes (Length): A crisp red line extending horizontally;
+* Y Axes (Height): A bright green line extending vertically;
+* Z Axes (Width): A pure blue line extending laterally;
+* R Axes (Rotation): This yellow axe establish the core gravitational rotational reference and is visible only through an initial luminous dot;
 
 All computational references use the 0 marker, which extends from the center position
 representing the origin point; the +1 marker, which extends upward positive,
