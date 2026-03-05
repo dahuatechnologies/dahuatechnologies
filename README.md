@@ -10,6 +10,14 @@
 
 ---
 
+### Evox AI Academic Core
+
+---
+
+https://github.com/dahuatechnologies/Evox-AI-Academic-Core
+
+---
+
 ![Image](https://github.com/user-attachments/assets/c1b7f1de-b8da-44ca-90f4-cfc30c4f5fa1)
 
 <!--
@@ -26,8 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
 
 ## An simple academic Expert System Game with interactive results preview.
 
