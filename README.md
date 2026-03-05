@@ -14,7 +14,7 @@
 
 ---
 
-### Evox AI Academic Core
+## The 3D Evox AI Academic Core System By Teacher Zaita (PHD in Computer Science AI)
 
 ---
 
