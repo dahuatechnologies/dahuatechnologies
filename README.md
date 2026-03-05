@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/00ee1e5f-650f-40ed-8823-47f1893405bc
 
 ---
 
-## EVOX AI CORE System v3.0.4 - Neural Sentinel
+## EVOX AI CORE - Neural Sentinel Hypergraph
 
 ---
 
