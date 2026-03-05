@@ -10,6 +10,10 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/c1b7f1de-b8da-44ca-90f4-cfc30c4f5fa1)
+
+---
+
 ### Evox AI Academic Core
 
 ---
@@ -17,8 +21,6 @@
 https://github.com/dahuatechnologies/Evox-AI-Academic-Core
 
 ---
-
-![Image](https://github.com/user-attachments/assets/c1b7f1de-b8da-44ca-90f4-cfc30c4f5fa1)
 
 <!--
 **dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
