@@ -120,32 +120,23 @@ https://github.com/user-attachments/assets/279c91a4-de74-406a-a8a6-9674b4d13e94
 - The General Data Protection Regulation (GDPR);
 - ISO 690:2021 - Information and documentation. 
 
-* Multi-Axes: 5A (Z, Y, X, W, R) By Zaita, Davada Et al, 2025
+* Multi-Axes: 4D (X, Y, Z, R) By Zaita, Davada Et al, 2025
 
 - Obs: Use five different colored pens to validate the 5-axis mathematical model
 
 
-                               Y+ AXES (HEIGHT)
-         (RADIAL) AXES R+ ●    ●    ● W+ AXES (WIDTH)
-                           \   │   /
-                            \  │  /
-                             \ │ /
-   (LENGHT) AXES X+ ●----------0--------- X-
-                              /|\ (0,0,0,0,0) ZN CENTER ALL AXES (GRAVITY/ROTATION)
-                             / | \
-                            /  |  \
-                           W-  Y-  R-
+                               Y+ AXES 
+                               ●    ● Z+ AXES
+                               │   /
+                               │  /
+                               │ /
+            AXES X+ ●----------0--------- X-
+                              /|  R (0,0,0,0) CENTER ALL AXES (GRAVITY/ROTATION)
+                             / | 
+                            /  |  
+                           Z-  Y- 
 
-Z+ ●-----|ZN|-----● Z- AND Y+ ●-----|ZN|-----● Y- AND X+ ●-----|ZN|-----● X-
-AND W+ ●-----|ZN|-----● W- AND R+ ●-----|ZN|-----● R-
-
-* Z Axes (Rotation): This green axes establishe the core gravitational rotational
-reference and is visible only through an initial luminous dot;
-* Y Axes (Height): A bright yellow line extending vertically;
-* X Axes (Length): A crisp blue line extending horizontally;
-* W Axes (Width): A pure white line extending laterally;
-* R Axes (Radial): A purple line curving radially outward, forming the radial with real-time
-rendering sector-model architecture.
+Z+ ●-----|R|-----● Z- AND Y+ ●-----|R|-----● Y- AND X+ ●-----|R|-----● X- AND R+ ●-----|R|-----● R-
 
 All computational references use the 0 marker, which extends from the center position
 representing the origin point; the +1 marker, which extends upward positive,
