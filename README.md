@@ -42,6 +42,21 @@
 
 Z+ ●-----|R|-----● Z- AND Y+ ●-----|R|-----● Y- AND X+ ●-----|R|-----● X- AND R+ ●-----|R|-----● R-
 
+       
+       
+             ●───────────●
+            /│          /│
+           / │         / │
+          ●───────────● ──────────→ Y+ Axes 
+          │  │        │  │
+          │  ●────────│──● ──────────→ Z+ Axes
+          │ /         │ /
+          │/          │/
+          ●───────────● R (0,0,0,0) (CENTER AXES)
+         /
+        X+ AXES      
+    
+
 All computational references use the 0 marker, which extends from the center position
 representing the origin point; the +1 marker, which extends upward positive,
 indicating positive directional weighting; and the -1 marker, which extends
