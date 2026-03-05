@@ -78,6 +78,14 @@ https://github.com/user-attachments/assets/00ee1e5f-650f-40ed-8823-47f1893405bc
 
 ---
 
+## EVOX AI CORE System v3.0.4 - Neural Sentinel
+
+---
+
+https://github.com/dahuatechnologies/NeuralSentinel
+
+---
+
 https://github.com/user-attachments/assets/db039da7-8c87-4a9f-b829-6ccf774644a7
 
 ---
