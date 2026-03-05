@@ -14,7 +14,7 @@
 
 ---
 
-## By Zaita PHD in Computer Science AI
+## Bachelor's Degree Academic Computer Science By Zaita PHD in Computer Science
 
 ---
 
