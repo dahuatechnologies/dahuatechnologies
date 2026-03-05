@@ -10,34 +10,6 @@
 
 ---
 
-![Image](https://github.com/user-attachments/assets/c1b7f1de-b8da-44ca-90f4-cfc30c4f5fa1)
-
----
-
-## Adopting prosthetics for your Droid (aviation aluminum alloys)
-
----
-
-![Image](https://github.com/user-attachments/assets/29ac8f6e-dabd-4558-a32a-4635df5efeb3)
-
----
-
-![Image](https://github.com/user-attachments/assets/0974466b-6d94-4a37-a0f4-7b676a6c7b19)
-
----
-
-## Adopting silicone overalls for your Droid
-
----
-
-![Image](https://github.com/user-attachments/assets/0edb21c9-cd29-425f-af19-30ae334ae83c)
-
----
-
-![Image](https://github.com/user-attachments/assets/b9e77215-94af-4f93-88e8-d265cbf15c33)
-
----
-
 ## An simple academic Expert System Game with interactive results preview.
 
 ---
@@ -537,6 +509,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Image](https://github.com/user-attachments/assets/c1b7f1de-b8da-44ca-90f4-cfc30c4f5fa1)
+
+---
+
+## Adopting prosthetics for your Droid (aviation aluminum alloys)
+
+---
+
+![Image](https://github.com/user-attachments/assets/29ac8f6e-dabd-4558-a32a-4635df5efeb3)
+
+---
+
+![Image](https://github.com/user-attachments/assets/0974466b-6d94-4a37-a0f4-7b676a6c7b19)
+
+---
+
+## Adopting silicone overalls for your Droid
+
+---
+
+![Image](https://github.com/user-attachments/assets/0edb21c9-cd29-425f-af19-30ae334ae83c)
+
+---
+
+![Image](https://github.com/user-attachments/assets/b9e77215-94af-4f93-88e8-d265cbf15c33)
 
 ---
 
