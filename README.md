@@ -14,7 +14,7 @@
 
 ---
 
-## Adopting prosthetics for your Droid (aviation aluminum alloy)
+## Adopting prosthetics for your Droid (aviation aluminum alloys)
 
 ---
 
