@@ -14,6 +14,14 @@
 
 ---
 
+## Adopting Prosthetics to Your Droid
+
+---
+
+![Image](https://github.com/user-attachments/assets/0974466b-6d94-4a37-a0f4-7b676a6c7b19)
+
+---
+
 ## Silicone body suit to Your Droid
 
 ---
