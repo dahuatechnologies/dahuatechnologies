@@ -24,23 +24,23 @@
 - The General Data Protection Regulation (GDPR);
 - ISO 690:2021 - Information and documentation. 
 
-* Multi-Axes: 4D (X, Y, Z, R) By Zaita, Davada Et al, 2025
+* Multi-Axes: 4 Axes (X, Y, Z, R) By Zaita, Davada Et al, 2025
 
 - Obs: Use four different colored pens to validate the 4-axis mathematical model
 
 
-                               Y+ AXES 
-                               ●    ● Z+ AXES
+                               Y+ Axes 
+                               ●    ● Z+ Axes
                                │   /
                                │  /
                                │ /
-            AXES X+ ●----------0--------- X-
+            Axes X+ ●----------0--------- X-
                               /|  (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
                              / | 
                             /  |  
                            Z-  Y- 
 
-Z+ ●-----|R|-----● Z- AND Y+ ●-----|R|-----● Y- AND X+ ●-----|R|-----● X- AND R+ ●-----|R|-----● R-
+X+ ●-----|R|-----● X- and Y+ ●-----|R|-----● Y- and Z+ ●-----|R|-----● Z- and R+ ●-----|R|-----● R-
 
        
        
