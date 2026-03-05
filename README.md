@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/00ee1e5f-650f-40ed-8823-47f1893405bc
 
 ---
 
-**- Books: Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and Verilog); The Minix Book: Operating Systems Design and Implementation 3e; Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition; Introduction to the Theory of Computation - Michael Sipser.** 
+**- Books: Introduction to the Theory of Computation - Michael Sipser; Artificial Intelligence A Modern Approach; The Minix Book: Operating Systems Design and Implementation 3e; Classical and Discrete Differential Geometry: Theory, Applications and Algorithms 1st Edition; Circuit Design with Vhdl, Third Edition; Finite State Machines in Hardware: Theory and Design (with VHDL and Verilog).** 
 
 ---
 
