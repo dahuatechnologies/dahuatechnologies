@@ -26,7 +26,7 @@
 
 * Multi-Axes: 4D (X, Y, Z, R) By Zaita, Davada Et al, 2025
 
-- Obs: Use five different colored pens to validate the 5-axis mathematical model
+- Obs: Use four different colored pens to validate the 4-axis mathematical model
 
 
                                Y+ AXES 
