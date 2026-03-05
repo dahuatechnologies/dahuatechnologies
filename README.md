@@ -18,6 +18,38 @@
 
 ---
 
+```text
+
+- The GNU General Public License v3.0;
+- The General Data Protection Regulation (GDPR);
+- ISO 690:2021 - Information and documentation. 
+
+* Multi-Axes: 4D (X, Y, Z, R) By Zaita, Davada Et al, 2025
+
+- Obs: Use five different colored pens to validate the 5-axis mathematical model
+
+
+                               Y+ AXES 
+                               ●    ● Z+ AXES
+                               │   /
+                               │  /
+                               │ /
+            AXES X+ ●----------0--------- X-
+                              /|  R (0,0,0,0) CENTER ALL AXES (GRAVITY/ROTATION)
+                             / | 
+                            /  |  
+                           Z-  Y- 
+
+Z+ ●-----|R|-----● Z- AND Y+ ●-----|R|-----● Y- AND X+ ●-----|R|-----● X- AND R+ ●-----|R|-----● R-
+
+All computational references use the 0 marker, which extends from the center position
+representing the origin point; the +1 marker, which extends upward positive,
+indicating positive directional weighting; and the -1 marker, which extends
+downward negative, indicating negative directional weighting.
+
+```
+---
+
 ## The 3D Evox AI Academic Core System 
 
 ---
@@ -112,38 +144,6 @@ https://github.com/user-attachments/assets/3ff045ba-620b-4485-8d30-ad4964b4782e
 
 https://github.com/user-attachments/assets/279c91a4-de74-406a-a8a6-9674b4d13e94
 
----
-
-```text
-
-- The GNU General Public License v3.0;
-- The General Data Protection Regulation (GDPR);
-- ISO 690:2021 - Information and documentation. 
-
-* Multi-Axes: 4D (X, Y, Z, R) By Zaita, Davada Et al, 2025
-
-- Obs: Use five different colored pens to validate the 5-axis mathematical model
-
-
-                               Y+ AXES 
-                               ●    ● Z+ AXES
-                               │   /
-                               │  /
-                               │ /
-            AXES X+ ●----------0--------- X-
-                              /|  R (0,0,0,0) CENTER ALL AXES (GRAVITY/ROTATION)
-                             / | 
-                            /  |  
-                           Z-  Y- 
-
-Z+ ●-----|R|-----● Z- AND Y+ ●-----|R|-----● Y- AND X+ ●-----|R|-----● X- AND R+ ●-----|R|-----● R-
-
-All computational references use the 0 marker, which extends from the center position
-representing the origin point; the +1 marker, which extends upward positive,
-indicating positive directional weighting; and the -1 marker, which extends
-downward negative, indicating negative directional weighting.
-
-```
 ---
 
 ```text
