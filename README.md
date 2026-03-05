@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/00ee1e5f-650f-40ed-8823-47f1893405bc
 
 ---
 
-## Obs0: Axis and Vectors and Neurons and Synapses 
+## Obs0: straight lines as axes and curves as vectors and points as neurons and synapse luminescence
 
 ---
 
