@@ -14,7 +14,7 @@
 
 ---
 
-## Project Bachelor's Degree Academic Computer Science By Zaita PHD Computer Science
+### Bachelor's Project in Academic Computer Science by Zaita PHD Computer Science
 
 ---
 
