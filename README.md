@@ -22,8 +22,8 @@
 
 ---
 
-*     Expert System    ────▶  EVOX AI CORE
-* (Space Invader Game) ◀────   (Key API)
+*     Expert System    ────▶     AI CORE
+* (Space Invader Game) ◀────  (Key API) EVOX
 
 ---
 
