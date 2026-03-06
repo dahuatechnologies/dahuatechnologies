@@ -56,7 +56,8 @@ X+ ●-----|R|-----● X- and Y+ ●-----|R|-----● Y- and Z+ ●-----|R|-----�
          /
         X+ AXES (LENGHT)      
 
-* R Axes (Rotation): This yellow axe establish the core gravitational rotational reference and is visible only through an initial luminous dot;
+* R Axes (Rotation): This yellow axe establish the core gravitational rotational
+reference and is visible only through an initial luminous dot;
 * Z Axes (Width): A pure blue line extending laterally;    
 * Y Axes (Height): A bright green line extending vertically;
 * X Axes (Length): A crisp red line extending horizontally;
