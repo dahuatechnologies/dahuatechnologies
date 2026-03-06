@@ -32,14 +32,7 @@
 
 ```text
 
-- The GNU General Public License v3.0;
-- The General Data Protection Regulation (GDPR);
-- ISO 690:2021 - Information and documentation.
-
-ZAITA, DAVADA, et al. Multi-Axes: 5 Axes (X, Y, Z, B, R) Model. 
-GNU General Public License v3.0, 2025.
-    
-* Multi-Axes: 5 Axes (X, Y, Z, B, R) 
+**Multi-Axes: 5 Axes (X, Y, Z, B, R) Model**
 
 - Obs: Use four different colored pens to validate the 4-axis mathematical model
 
