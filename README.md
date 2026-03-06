@@ -65,7 +65,7 @@ Every axis operates on a normalized continuum with three critical reference poin
 
 #### 2.2 Mathematical Formulation
 
-For any point P in the 5-axis space:
+For any point P in the 5-axes space:
 
 ```
 P = [x, y, z, b, r] where each coordinate ∈ [-1, 1]
@@ -81,7 +81,7 @@ W_negative = (max(-x,0) + max(-y,0) + max(-z,0) + max(-b,0) + max(-r,0)) / 5
 α, β, γ are adaptive coefficients based on routing history
 ```
 
-### 3. **The B Axis: Diagonal Base Architecture**
+### 3. **The B Axes: Diagonal Base Architecture**
 
 The B axis represents a unique **diagonal vector** that forms the cube's diagonal base:
 
@@ -132,7 +132,7 @@ This creates a 45-degree diagonal vector that:
      (LENGHT) Axes +X ─── ●──────────────0  (0,0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
 
                     
-* R Axes (Gravity/Rotation): This yellow axe establish the core gravitational rotational
+* R Axes (Gravity/Rotation): This yellow axes establish the core gravitational rotational
 reference and is visible only through an initial luminous dot;
 * B Axes (Diagonal Base): A purple line base outward, forming the cube diagonal
 base with real-time rendering sector-model architecture;
@@ -202,7 +202,7 @@ The algorithm implements comprehensive GDPR safeguards:
 // Article 5: Principles relating to processing of personal data
 struct GDPRCompliance {
     // Lawfulness, fairness, and transparency
-    int consent_obtained;           // Art. 6 - Lawful processing
+    int consent_obtained;            // Art. 6 - Lawful processing
     time_t consent_timestamp;        // Art. 7 - Consent documentation
     
     // Purpose limitation
@@ -225,8 +225,7 @@ struct GDPRCompliance {
 #### 6.2 Data Subject Rights Implementation
 ```c
 // Article 15-22: Data subject rights
-void gdpr_handle_subject_request(MoeRouter *router, 
-                                  GDPRRequestType request) {
+void gdpr_handle_subject_request(MoeRouter *router, GDPRRequestType request) {
     switch(request) {
         case RIGHT_TO_ACCESS:        // Art. 15
             export_user_data(router);
@@ -269,7 +268,7 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
 ```c
 /**
  * @file moe_router.c
- * @brief 5-Axis Mixture of Experts Router Implementation
+ * @brief 5-Axes Mixture of Experts Router Implementation
  * @author Zaita, Davada et al.
  * @date 2025-2026
  * @version 2.0.0
@@ -323,7 +322,7 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
 ├─────────────────────────────────────────────────────────────────┤
 │ for each expert (1..64):                                        │
 │     score = Σ(weights × inputs) + bias                          │
-│     score ×= axis_weight[expert_axis]                           │
+│     score ×= axes_weight[expert_axes]                           │
 │     if directional_bias > 0:                                    │
 │         score ×= (1 + positive_weight)                          │
 │     else:                                                       │
@@ -365,33 +364,33 @@ As specified in the observation, the algorithm validates the mathematical model 
  * Pen Assignment:
  * - Pen 0 (Red)   : Validates X axes linear transformations
  * - Pen 1 (Green) : Validates Y axes vertical scaling
- * - Pen 2 (Blue)  : Validates Z axs lateral movements
+ * - Pen 2 (Blue)  : Validates Z axes lateral movements
  * - Pen 3 (Purple): Validates B axes diagonal synthesis
  * - Pen 4 (Yellow) → R axes: Luminous Dot rotational reference
  * 
  * The R axes is validated through luminous dot tracking
  */
 void validate_with_colored_pens(MoeRouter *router) {
-    // Pen 0 (Red) - X Axis Validation
+    // Pen 0 (Red) - X Axes Validation
     draw_x_axes_red(router);      // Horizontal line from -10 to +10
     
-    // Pen 1 (Green) - Y Axis Validation  
+    // Pen 1 (Green) - Y Axes Validation  
     draw_y_axes_green(router);    // Vertical line from -10 to +10
     
-    // Pen 2 (Blue) - Z Axis Validation
+    // Pen 2 (Blue) - Z Axes Validation
     draw_z_axes_blue(router);     // Lateral line from -10 to +10
     
-    // Pen 3 (Purple) - B Axis Validation
+    // Pen 3 (Purple) - B Axes Validation
     draw_b_axes_purple(router);   // Diagonal line from (-10,-10,-10) to (+10,+10,+10)
     
-    // Pen 4 (Yellow) - R Axis Validation
+    // Pen 4 (Yellow) - R Axes Validation
     draw_r_axes_yellow_dot(router); // Luminous dot at origin with pulsing effect
 }
 ```
 
 ### 10. **Mathematical Proof of 5-Axes Completeness**
 
-The 5-axis model is mathematically complete because:
+The 5-axes model is mathematically complete because:
 
 ```
 Theorem: The set {X, Y, Z, B, R} forms a basis for the routing space.
