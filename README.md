@@ -403,7 +403,7 @@ Proof:
 4. Any routing decision R can be represented as:
    R = αX + βY + γZ + δB + εR where α,β,γ,δ,ε ∈ [-1,1]
 
-Therefore, the 5-axis model spans the complete routing space.
+Therefore, the 5-axes model spans the complete routing space.
 ```
 
 ### 11. **Compliance Integration Summary**
@@ -430,7 +430,7 @@ struct ComplianceFramework {
 };
 ```
 
-This comprehensive algorithm framework ensures mathematical rigor, legal compliance, and proper documentation while implementing the innovative 5-axis model by Zaita, Davada et al., 2025.
+This comprehensive algorithm framework ensures mathematical rigor, legal compliance, and proper documentation while implementing the innovative 5-axes model by Zaita, Davada et al., 2025.
 
 ---
 
