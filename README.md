@@ -55,11 +55,11 @@ X+ ●-----|R|-----● X- and Y+ ●-----|R|-----● Y- and Z+ ●-----|R|-----�
           ●───────────0  (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION))
          /
         X+ AXES (LENGHT)      
-    
-* X Axes (Length): A crisp red line extending horizontally;
-* Y Axes (Height): A bright green line extending vertically;
-* Z Axes (Width): A pure blue line extending laterally;
+
 * R Axes (Rotation): This yellow axe establish the core gravitational rotational reference and is visible only through an initial luminous dot;
+* Z Axes (Width): A pure blue line extending laterally;    
+* Y Axes (Height): A bright green line extending vertically;
+* X Axes (Length): A crisp red line extending horizontally;
 
 All computational references use the 0 marker, which extends from the center position
 representing the origin point; the +1 marker, which extends upward positive,
