@@ -24,13 +24,9 @@
 - The General Data Protection Regulation (GDPR);
 - ISO 690:2021 - Information and documentation.
 
-[1] ZAITA, M., DAVADA, K., et al. Multi-Axes: 5 Axes (X, Y, Z, B, R) Model. 
-    Evolution Technologies Research, 2025. ISBN 978-0-123456-78-9.
+ZAITA, DAVADA, et al. Multi-Axes: 5 Axes (X, Y, Z, B, R) Model. 
+GNU General Public License v3.0, 2025.
     
-[2] Mixture of Experts Router with Real-time 3D Visualization. 
-    Computer Science Foundation with Artificial Intelligence Principles.
-    GNU General Public License v3.0, 2025.
-
 * Multi-Axes: 5 Axes (X, Y, Z, B, R) 
 
 - Obs: Use four different colored pens to validate the 4-axis mathematical model
