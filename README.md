@@ -182,7 +182,7 @@ The algorithm is fully GPL v3.0 compliant with:
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  * 
- * Source code availability: https://github.com/evolution-research/moe-router
+ * Source code availability: https://github.com/dahuatechnologies
  */
 ```
 
