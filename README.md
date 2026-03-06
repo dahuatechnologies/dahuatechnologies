@@ -103,7 +103,7 @@ This creates a 45-degree diagonal vector that:
 
 **Multi-Axes: 5 Axes (X, Y, Z, B, R) Model**
 
-- Obs: Use five different colored pens to validate the 4-axis mathematical model
+- Obs: Use five different colored pens to validate the 5-axes mathematical model
 
 
                                Y+ Axes (HEIGHT)  
