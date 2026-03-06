@@ -35,7 +35,7 @@
                            \   │  /
                              \ │ /
    (LENGHT) Axes +X ●----------0--------- X-
-                              /| \ (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
+                              /| \ (0,0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
                              / |  \
                             /  |    \
                            Z-  Y-     B-  
@@ -52,7 +52,8 @@
 (DIAGONAL BASE) Axes +B ──── ●───────────│──● ──────────→ Z+ Axes (WIDTH)
                           │ /   \        │ /
                           │/        \    │/
-     (LENGHT) Axes +X ─── ●──────────────0  (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
+     (LENGHT) Axes +X ─── ●──────────────0  (0,0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
+
                     
 * R Axes (Gravity/Rotation): This yellow axe establish the core gravitational rotational
 reference and is visible only through an initial luminous dot;
