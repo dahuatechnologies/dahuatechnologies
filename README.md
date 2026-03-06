@@ -24,13 +24,13 @@
 - The General Data Protection Regulation (GDPR);
 - ISO 690:2021 - Information and documentation. 
 
-* Multi-Axes: 4 Axes (X, Y, Z, R) By Zaita, Davada Et al, 2025
+* Multi-Axes: 5 Axes (X, Y, Z, B, R) By Zaita, Davada Et al, 2025
 
 - Obs: Use four different colored pens to validate the 4-axis mathematical model
 
 
                                Y+ Axes (HEIGHT)  
-       (BASE) Axes +B ●       ●    ● Z+ Axes (WIDTH)
+(DIAGONAL BASE) Axes +B ●      ●    ● Z+ Axes (WIDTH)
                          \     │   /
                            \   │  /
                              \ │ /
@@ -42,21 +42,23 @@
 
 +X ●-----|R|-----● X- and +Y ●-----|R|-----● Y- and +Z ●-----|R|-----● Z- and +R ●-----|R|-----● R-
                    
-                         ●──────────────●
-                        /│             /│
-                       / │            / │
-                      ●──────────────● ─────────→ Y+ Axes (HEIGHT) 
-                      │  │           │  │
-     (BASE) Axes +B ──── ●───────────│──● ──────────→ Z+ Axes (WIDTH)
-                      │ /   \        │ /
-                      │/        \    │/
- (LENGHT) Axes +X ─── ●──────────────0  (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
+                             ●──────────────●
+                            /│             /│
+                           / │            / │
+                          ●──────────────● ─────────→ Y+ Axes (HEIGHT) 
+                          │  │           │  │
+(DIAGONAL BASE) Axes +B ──── ●───────────│──● ──────────→ Z+ Axes (WIDTH)
+                          │ /   \        │ /
+                          │/        \    │/
+     (LENGHT) Axes +X ─── ●──────────────0  (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
                     
-* R Axes (Rotation): This yellow axe establish the core gravitational rotational
+* R Axes (Gravity/Rotation): This yellow axe establish the core gravitational rotational
 reference and is visible only through an initial luminous dot;
+* B Axes (Diagonal Base): A purple line base outward, forming the cube diagonal
+base with real-time rendering sector-model architecture;
 * Z Axes (Width): A pure blue line extending laterally;    
 * Y Axes (Height): A bright green line extending vertically;
-* X Axes (Length): A crisp red line extending horizontally;
+* X Axes (Length): A crisp red line extending horizontally.
 
 All computational references use the 0 marker, which extends from the center position
 representing the origin point; the +1 marker, which extends upward positive,
