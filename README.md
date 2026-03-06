@@ -24,20 +24,20 @@
 
 ### 1. **The 5-Axis Coordinate System**
 
-The algorithm implements a **penta-dimensional coordinate framework** that extends traditional spatial mathematics by incorporating diagonal and rotational dimensions:
+The algorithm implements a **penta-axes coordinate framework** that extends traditional spatial mathematics by incorporating diagonal and rotational dimensions:
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                          5-AXIS REFERENCE FRAME                             │
-├─────────────┬───────────────┬─────────────┬────────────────────────────────┤
-│ Axis        │ Color         │ Direction   │ Mathematical Representation    │
-├─────────────┼───────────────┼─────────────┼────────────────────────────────┤
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                          5-AXES REFERENCE FRAME                                │
+├─────────────┬───────────────┬─────────────┬────────────────────────────────────┤
+│ Axis        │ Color         │ Direction   │ Mathematical Representation        │
+├─────────────┼───────────────┼─────────────┼────────────────────────────────────┤
 │ X (Length)  │ Crisp Red     │ Horizontal  │ f(x) = x · î where î = [1,0,0,0,0] │
 │ Y (Height)  │ Bright Green  │ Vertical    │ f(y) = y · ĵ where ĵ = [0,1,0,0,0] │
 │ Z (Width)   │ Pure Blue     │ Lateral     │ f(z) = z · k̂ where k̂ = [0,0,1,0,0] │
-│ B (Diagonal)│ Purple        │ 45° Vector  │ f(b) = b · (î+ĵ+k̂)/√3          │
-│ R (Rotation)│ Yellow Dot    │ Spherical   │ f(r) = r · ω where ω = rotation │
-└─────────────┴───────────────┴─────────────┴────────────────────────────────┘
+│ B (Diagonal)│ Purple        │ 45° Vector  │ f(b) = b · (î+ĵ+k̂)/√3              │
+│ R (Rotation)│ Yellow Dot    │ Spherical   │ f(r) = r · ω where ω = rotation    │
+└─────────────┴───────────────┴─────────────┴────────────────────────────────────┘
 ```
 
 ### 2. **Core Mathematical Principles**
@@ -103,7 +103,7 @@ This creates a 45-degree diagonal vector that:
 
 **Multi-Axes: 5 Axes (X, Y, Z, B, R) Model**
 
-- Obs: Use four different colored pens to validate the 4-axis mathematical model
+- Obs: Use five different colored pens to validate the 4-axis mathematical model
 
 
                                Y+ Axes (HEIGHT)  
@@ -147,12 +147,12 @@ downward negative, indicating negative directional weighting.
 
 ```
 
-### 4. **The R Axis: Gravitational Rotational Reference**
+### 4. **The R Axes: Gravitational Rotational Reference**
 
-The R axis is a **luminous rotational reference** with unique properties:
+The R axes is a **luminous rotational reference** with unique properties:
 
 ```
-R Axis Characteristics:
+R Axes Characteristics:
 1. Visible only as a luminous dot at the origin
 2. Establishes core gravitational field equations
 3. Provides rotational coupling between all other axes
@@ -278,7 +278,7 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
  * GNU General Public License v3.0
  * 
  * @section DESCRIPTION
- * Implements a 5-axis mathematical model for expert routing with
+ * Implements a 5-axes mathematical model for expert routing with
  * real-time 3D visualization and GDPR compliance.
  * 
  * @section REFERENCES
@@ -292,26 +292,26 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
  */
 ```
 
-### 8. **Algorithm Workflow with 5-Axis Integration**
+### 8. **Algorithm Workflow with 5-Axes Integration**
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                      INPUT PROCESSING                           │
 ├─────────────────────────────────────────────────────────────────┤
-│ 512-dimensional input vector → Axis decomposition:              │
-│ [x₁...x₁₀₂] → X axis projection                                   │
-│ [y₁...y₁₀₂] → Y axis projection                                   │
-│ [z₁...z₁₀₂] → Z axis projection                                   │
-│ [b₁...b₁₀₂] → B axis projection (diagonal synthesis)              │
-│ [r₁...r₁₀₂] → R axis projection (rotational coupling)             │
+│ 512-dimensional input vector → Axes decomposition:              │
+│ [x₁...x₁₀₂] → X axes projection                                   │
+│ [y₁...y₁₀₂] → Y axes projection                                   │
+│ [z₁...z₁₀₂] → Z axes projection                                   │
+│ [b₁...b₁₀₂] → B axes projection (diagonal synthesis)              │
+│ [r₁...r₁₀₂] → R axes projection (rotational coupling)             │
 └─────────────────────────────────────────────────────────────────┘
                               ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                    5-AXIS STATE UPDATE                          │
+│                    5-AXES STATE UPDATE                          │
 ├─────────────────────────────────────────────────────────────────┤
 │ 1. Update primary axes (X, Y, Z) from input                     │
-│ 2. Synthesize B axis = (X + Y + Z)/√3                           │
-│ 3. Update R axis with gravitational coupling                    │
+│ 2. Synthesize B axes = (X + Y + Z)/√3                           │
+│ 3. Update R axes with gravitational coupling                    │
 │ 4. Calculate directional weights:                               │
 │    - Origin weight (0 marker)                                   │
 │    - Positive weight (+1 marker)                                │
@@ -338,13 +338,13 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
 ┌─────────────────────────────────────────────────────────────────┐
 │                  VISUALIZATION RENDERING                        │
 ├─────────────────────────────────────────────────────────────────┤
-│ Using 4 colored pens as specified:                              │
+│ Using 5 colored pens as specified:                              │
 │                                                                 │
-│ Pen 1 (Red)   → X axis: Horizontal length vectors               │
-│ Pen 2 (Green) → Y axis: Vertical height vectors                 │
-│ Pen 3 (Blue)  → Z axis: Lateral width vectors                   │
-│ Pen 4 (Purple)→ B axis: Diagonal base vectors                   │
-│ Dot (Yellow)  → R axis: Luminous rotational reference           │
+│ Pen 0 (Red)    → X axes: Horizontal length vectors              │
+│ Pen 1 (Green)  → Y axes: Vertical height vectors                │
+│ Pen 2 (Blue)   → Z axes: Lateral width vectors                  │
+│ Pen 3 (Purple) → B axes: Diagonal base vectors                  │
+│ Pen 4 (Yellow) → R axes: Luminous Dot rotational reference      │
 │                                                                 │
 │ Real-time rendering at 60 FPS with:                             │
 │ - Particle flow visualization                                   │
@@ -354,41 +354,42 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 9. **The Four Colored Pens Validation Method**
+### 9. **The Five Colored Pens Validation Method**
 
-As specified in the observation, the algorithm validates the mathematical model using four distinct colored pens:
+As specified in the observation, the algorithm validates the mathematical model using five distinct colored pens:
 
 ```c
 /**
- * @brief Validate 5-axis model using four colored pens
+ * @brief Validate 5-axes model using five colored pens
  * 
  * Pen Assignment:
- * - Pen 1 (Red)   : Validates X axis linear transformations
- * - Pen 2 (Green) : Validates Y axis vertical scaling
- * - Pen 3 (Blue)  : Validates Z axis lateral movements
- * - Pen 4 (Purple): Validates B axis diagonal synthesis
+ * - Pen 0 (Red)   : Validates X axes linear transformations
+ * - Pen 1 (Green) : Validates Y axes vertical scaling
+ * - Pen 2 (Blue)  : Validates Z axs lateral movements
+ * - Pen 3 (Purple): Validates B axes diagonal synthesis
+ * - Pen 4 (Yellow) → R axes: Luminous Dot rotational reference
  * 
- * The R axis is validated through luminous dot tracking
+ * The R axes is validated through luminous dot tracking
  */
 void validate_with_colored_pens(MoeRouter *router) {
-    // Pen 1 (Red) - X Axis Validation
-    draw_x_axis_red(router);      // Horizontal line from -10 to +10
+    // Pen 0 (Red) - X Axis Validation
+    draw_x_axes_red(router);      // Horizontal line from -10 to +10
     
-    // Pen 2 (Green) - Y Axis Validation  
-    draw_y_axis_green(router);    // Vertical line from -10 to +10
+    // Pen 1 (Green) - Y Axis Validation  
+    draw_y_axes_green(router);    // Vertical line from -10 to +10
     
-    // Pen 3 (Blue) - Z Axis Validation
-    draw_z_axis_blue(router);     // Lateral line from -10 to +10
+    // Pen 2 (Blue) - Z Axis Validation
+    draw_z_axes_blue(router);     // Lateral line from -10 to +10
     
-    // Pen 4 (Purple) - B Axis Validation
-    draw_b_axis_purple(router);   // Diagonal line from (-10,-10,-10) to (+10,+10,+10)
+    // Pen 3 (Purple) - B Axis Validation
+    draw_b_axes_purple(router);   // Diagonal line from (-10,-10,-10) to (+10,+10,+10)
     
-    // Yellow Dot - R Axis Validation
-    draw_r_axis_yellow_dot(router); // Luminous dot at origin with pulsing effect
+    // Pen 4 (Yellow) - R Axis Validation
+    draw_r_axes_yellow_dot(router); // Luminous dot at origin with pulsing effect
 }
 ```
 
-### 10. **Mathematical Proof of 5-Axis Completeness**
+### 10. **Mathematical Proof of 5-Axes Completeness**
 
 The 5-axis model is mathematically complete because:
 
