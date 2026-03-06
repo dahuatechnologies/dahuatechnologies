@@ -257,7 +257,8 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
 #### 7.1 Citation Format
 ```
 [1] ZAITA, M., DAVADA, K., et al. Multi-Axes: 5 Axes (X, Y, Z, B, R) Model. 
-    Evolution Technologies Research, 2025. ISBN 978-0-123456-78-9.
+    Evolution Technologies Research, 2025.
+    GNU General Public License v3.0, 2026. 
     
 [2] Mixture of Experts Router with Real-time 3D Visualization. 
     Computer Science Foundation with Artificial Intelligence Principles.
@@ -295,61 +296,61 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                      INPUT PROCESSING                            │
+│                      INPUT PROCESSING                           │
 ├─────────────────────────────────────────────────────────────────┤
-│ 512-dimensional input vector → Axis decomposition:               │
-│ [x₁...x₁₀₂] → X axis projection                                  │
-│ [y₁...y₁₀₂] → Y axis projection                                  │
-│ [z₁...z₁₀₂] → Z axis projection                                  │
-│ [b₁...b₁₀₂] → B axis projection (diagonal synthesis)             │
-│ [r₁...r₁₀₂] → R axis projection (rotational coupling)            │
+│ 512-dimensional input vector → Axis decomposition:              │
+│ [x₁...x₁₀₂] → X axis projection                                   │
+│ [y₁...y₁₀₂] → Y axis projection                                   │
+│ [z₁...z₁₀₂] → Z axis projection                                   │
+│ [b₁...b₁₀₂] → B axis projection (diagonal synthesis)              │
+│ [r₁...r₁₀₂] → R axis projection (rotational coupling)             │
 └─────────────────────────────────────────────────────────────────┘
                               ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                    5-AXIS STATE UPDATE                           │
+│                    5-AXIS STATE UPDATE                          │
 ├─────────────────────────────────────────────────────────────────┤
-│ 1. Update primary axes (X, Y, Z) from input                      │
-│ 2. Synthesize B axis = (X + Y + Z)/√3                            │
-│ 3. Update R axis with gravitational coupling                     │
-│ 4. Calculate directional weights:                                 │
-│    - Origin weight (0 marker)                                    │
-│    - Positive weight (+1 marker)                                 │
-│    - Negative weight (-1 marker)                                 │
+│ 1. Update primary axes (X, Y, Z) from input                     │
+│ 2. Synthesize B axis = (X + Y + Z)/√3                           │
+│ 3. Update R axis with gravitational coupling                    │
+│ 4. Calculate directional weights:                               │
+│    - Origin weight (0 marker)                                   │
+│    - Positive weight (+1 marker)                                │
+│    - Negative weight (-1 marker)                                │
 └─────────────────────────────────────────────────────────────────┘
                               ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                  EXPERT ROUTING DECISION                          │
+│                  EXPERT ROUTING DECISION                        │
 ├─────────────────────────────────────────────────────────────────┤
-│ for each expert (1..64):                                         │
-│     score = Σ(weights × inputs) + bias                           │
-│     score ×= axis_weight[expert_axis]                            │
-│     if directional_bias > 0:                                     │
-│         score ×= (1 + positive_weight)                           │
-│     else:                                                        │
-│         score ×= (1 + negative_weight)                           │
-│                                                                   │
-│ Apply softmax with temperature:                                  │
-│     p_i = exp(score_i / T) / Σ exp(score_j / T)                  │
-│                                                                   │
-│ Select top-k experts (k=8)                                       │
+│ for each expert (1..64):                                        │
+│     score = Σ(weights × inputs) + bias                          │
+│     score ×= axis_weight[expert_axis]                           │
+│     if directional_bias > 0:                                    │
+│         score ×= (1 + positive_weight)                          │
+│     else:                                                       │
+│         score ×= (1 + negative_weight)                          │
+│                                                                 │
+│ Apply softmax with temperature:                                 │
+│     p_i = exp(score_i / T) / Σ exp(score_j / T)                 │
+│                                                                 │
+│ Select top-k experts (k=8)                                      │
 └─────────────────────────────────────────────────────────────────┘
                               ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                  VISUALIZATION RENDERING                          │
+│                  VISUALIZATION RENDERING                        │
 ├─────────────────────────────────────────────────────────────────┤
-│ Using 4 colored pens as specified:                               │
-│                                                                   │
-│ Pen 1 (Red)   → X axis: Horizontal length vectors                │
-│ Pen 2 (Green) → Y axis: Vertical height vectors                  │
-│ Pen 3 (Blue)  → Z axis: Lateral width vectors                    │
-│ Pen 4 (Purple)→ B axis: Diagonal base vectors                    │
-│ Dot (Yellow)  → R axis: Luminous rotational reference            │
-│                                                                   │
-│ Real-time rendering at 60 FPS with:                              │
-│ - Particle flow visualization                                    │
-│ - Expert activation spheres                                      │
-│ - Confidence-based connections                                   │
-│ - Gravitational field lines                                      │
+│ Using 4 colored pens as specified:                              │
+│                                                                 │
+│ Pen 1 (Red)   → X axis: Horizontal length vectors               │
+│ Pen 2 (Green) → Y axis: Vertical height vectors                 │
+│ Pen 3 (Blue)  → Z axis: Lateral width vectors                   │
+│ Pen 4 (Purple)→ B axis: Diagonal base vectors                   │
+│ Dot (Yellow)  → R axis: Luminous rotational reference           │
+│                                                                 │
+│ Real-time rendering at 60 FPS with:                             │
+│ - Particle flow visualization                                   │
+│ - Expert activation spheres                                     │
+│ - Confidence-based connections                                  │
+│ - Gravitational field lines                                     │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
