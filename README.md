@@ -18,6 +18,18 @@
 
 ---
 
+**Citation Format:**
+
+[1] ZAITA, M., DAVADA, K., et al. Multi-Axes: 5 Axes (X, Y, Z, B, R) Model. 
+    Evolution Technologies Research, 2025.
+    GNU General Public License v3.0, 2026.
+    
+[2] Mixture of Experts Router with Real-time 3D Visualization. 
+    Computer Science Foundation with Artificial Intelligence Principles.
+    GNU General Public License v3.0, 2026.
+
+---
+
 ```text
 
 - The GNU General Public License v3.0;
