@@ -30,15 +30,15 @@
 
 
                                Y+ Axes (HEIGHT)  
-                               ●    ● Z+ Axes (WIDTH)
-                               │   /
-                               │  /
-                               │ /
+       (BASE) Axes +B ●       ●    ● Z+ Axes (WIDTH)
+                         \     │   /
+                           \   │  /
+                             \ │ /
    (LENGHT) Axes +X ●----------0--------- X-
-                              /|  (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
-                             / | 
-                            /  |  
-                           Z-  Y- 
+                              /| \ (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
+                             / |  \
+                            /  |    \
+                           Z-  Y-     B-  
 
 +X ●-----|R|-----● X- and +Y ●-----|R|-----● Y- and +Z ●-----|R|-----● Z- and +R ●-----|R|-----● R-
                    
@@ -47,9 +47,9 @@
                        / │            / │
                       ●──────────────● ─────────→ Y+ Axes (HEIGHT) 
                       │  │           │  │
-                      │  ●───────────│──● ──────────→ Z+ Axes (WIDTH)
-                      │ /            │ /
-                      │/             │/
+     (BASE) Axes +B ──── ●───────────│──● ──────────→ Z+ Axes (WIDTH)
+                      │ /   \        │ /
+                      │/        \    │/
  (LENGHT) Axes +X ─── ●──────────────0  (0,0,0,0) R Neutral Axes (GRAVITY/ROTATION)
                     
 * R Axes (Rotation): This yellow axe establish the core gravitational rotational
