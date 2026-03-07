@@ -10,6 +10,14 @@
 
 ---
 
+### For Novel Academic Reseach Project, Show Here!!! Powered By Davada.
+
+---
+
+### For Government Business Project, talk to uncle XIM XIM Of Chinese.
+
+---
+
 ### Has anyone ever smelled or detected a uranium leak somewhere, to justify anything???
 
 ---
@@ -42,9 +50,6 @@
 
 ![Image](https://github.com/user-attachments/assets/be6f3e41-f195-4dc7-a0e8-c30f8eae98bf)
 
----
-
-### For Government Business Project, talk to uncle XIM XIM Of Chinese.
 
 ---
 
