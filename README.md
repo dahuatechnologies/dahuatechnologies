@@ -2,7 +2,7 @@
 
 ---
 
-### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
+### Powered By Businessman Cousins Davada Zaita and Halaia Tisiba
 
 ---
 
