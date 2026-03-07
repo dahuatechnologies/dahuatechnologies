@@ -1,4 +1,4 @@
-### Suported By Hebrew Bible (Tanach By Evo Adam Rishon) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
+### Suported By Hebrew Bible (Tanach By Adam - Evo Risomai and Eva Rasamai, The First Man and Woman in Earth Planet) and The General Data Protection Regulation (GDPR) and ISO 690:2021 - Information and documentation and The GNU General Public License v3.0.
 
 ---
 
