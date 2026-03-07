@@ -2,6 +2,10 @@
 
 ---
 
+## Has anyone ever smelled uranium anywhere, to justify anything???
+
+---
+
 ### Powered By Businessman Cousins Davada Beni Zaita and Halaia Beni Tisiba
 
 ---
@@ -29,10 +33,6 @@
 ---
 
 ### For Government Business Project, talk to uncle XIM XIM Of Chinese.
-
----
-
-## Has anyone ever smelled uranium anywhere, to justify anything???
 
 ---
 
