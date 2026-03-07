@@ -2,15 +2,15 @@
 
 ---
 
-### Copyright (c) 2026 Evolution Technologies Research and Prototype - All Rights Reserved
-
----
-
 ### Powered By Businessman Cousins Davada Zaita and Halaia Tisbi
 
 ---
 
 ![Image](https://github.com/user-attachments/assets/c1b7f1de-b8da-44ca-90f4-cfc30c4f5fa1)
+
+---
+
+### Copyright (c) 2026 Evolution Technologies Research and Prototype - All Rights Reserved
 
 ---
 
