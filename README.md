@@ -42,7 +42,7 @@ The algorithm implements a **penta-axes coordinate framework** that extends trad
 
 ### 1. **Core Mathematical Principles**
 
-#### 1.1 The Three Fundamental Markers
+#### 1.0 The Three Fundamental Markers
 
 Every axis operates on a normalized continuum with three critical reference points:
 
@@ -63,7 +63,7 @@ Every axis operates on a normalized continuum with three critical reference poin
      Vector direction: inward toward origin
 ```
 
-#### 1.2 Mathematical Formulation
+#### 1.0 Mathematical Formulation
 
 For any point P in the 5-axes space:
 
@@ -195,7 +195,7 @@ The algorithm is fully GPL v3.0 compliant with:
 
 The algorithm implements comprehensive GDPR safeguards:
 
-#### 5.1 Data Processing Principles
+#### 5.0 Data Processing Principles
 ```c
 // Article 5: Principles relating to processing of personal data
 struct GDPRCompliance {
@@ -220,7 +220,7 @@ struct GDPRCompliance {
 };
 ```
 
-#### 5.2 Data Subject Rights Implementation
+#### 5.1 Data Subject Rights Implementation
 ```c
 // Article 15-22: Data subject rights
 void gdpr_handle_subject_request(MoeRouter *router, GDPRRequestType request) {
@@ -251,7 +251,7 @@ void gdpr_handle_subject_request(MoeRouter *router, GDPRRequestType request) {
 
 The algorithm adheres to ISO 690:2021 for information and documentation:
 
-#### 6.1 Citation Format
+#### 6.0 Citation Format
 ```
 [1] ZAITA, DAVADA, et al.
     - Multi-Axes: 5 Axes (X, Y, Z, B, R) Model;
@@ -269,7 +269,7 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
     - GNU General Public License v3.0, 2025. 
 ```
 
-#### 6.2 Documentation Structure
+#### 6.1 Documentation Structure
 ```c
 /**
  * @file moe_router.c
