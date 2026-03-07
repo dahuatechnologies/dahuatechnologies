@@ -16,7 +16,11 @@
 
 ---
 
-### Beit Zaita Reservoir in Eretz Israel (What an irony of fate!!! Very, Very Very Clear, OH!)
+### Beit Zaita Reservoir in Eretz Israel
+
+---
+
+**(What an irony of fate!!! Very, Very Very Clear, OH!)**
 
 ---
 
