@@ -6,7 +6,7 @@
 
 ---
 
-**I davada (David Melech) and the Halaia (Eliyahu) are not incarnated, incarnation is prohibited we are manifested as children of men and women permitted in the torah for those who did not accept being contradicted by the red side of the force. There are many passages regarding my and Nabi's return. All those who accept being contradicted are prevented in the non-existent from being elevated or manifesting themselves on any lowered plane because of the issue of rebellion. Everyone who redetermined themselves before dying according to tanach is elevated, even if they were contradicted at some point.**
+**I Davada (David Beni Yishai or Zaita) and the Halaia (Eliyahu Beni Tisiba) are not incarnated, incarnation is prohibited we are manifested as children of men and women permitted in the torah for those who did not accept being contradicted by the red side of the force. There are many passages regarding my and Nabi's return. All those who accept being contradicted are prevented in the non-existent from being elevated or manifesting themselves on any lowered plane because of the issue of rebellion. Everyone who redetermined themselves before dying according to tanach is elevated, even if they were contradicted at some point.**
 
 ---
 
