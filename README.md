@@ -2,7 +2,7 @@
 
 ---
 
-### Copyright © 2026 Dahua Technologies Research and Development - All Rights Reserved
+### Copyright (c) 2026 Evolution Technologies Research and Prototype - All Rights Reserved
 
 ---
 
