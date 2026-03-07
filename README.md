@@ -14,6 +14,10 @@
 
 ---
 
+### The said person was tried in some international court and found guilty, for which he was accused
+
+---
+
 **I Davada (Davada Beni Zaita Or Isaí) and the Halaia (Halaia Beni Tisiba) are not incarnated, incarnation is prohibited. We are manifested as children of men and women permitted in the torah for those who did not accept being contradicted by the red side of the force (Raman). There are many passages regarding my and Nabi's return. All those who accept being contradicted are prevented in the non-existent from being elevated or manifesting themselves on any lowered plane because of the issue of rebellion. Everyone who redetermined themselves before dying according to tanach is elevated, even if they were contradicted at some point.**
 
 **(Eg:. Adam - Evo Risomai and Eva Rasamai).**
