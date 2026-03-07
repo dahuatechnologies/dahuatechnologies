@@ -32,27 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-## By Davada Beni Zaita: 
-
----
-
 ### For Novel Academic Reseach Project, Show Here!!! Powered By Davada.
-
----
-
-### For Government Business Project, talk to uncle XIM XIM Of Chinese.
-
----
-
-### Has anyone ever smelled or detected a uranium leak somewhere, to justify anything???
-
----
-
-### The said person was tried in some international court and found guilty, for which he was accused???
-
----
-
-### On the issue of contradictions, it is up to Nato Banach and Raman to speak about this at any time.
 
 ---
 
