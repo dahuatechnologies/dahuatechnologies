@@ -283,7 +283,7 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
  * 
  * @section DESCRIPTION
  * Implements a 5-axes mathematical model for expert routing with
- * real-time 3D visualization and GDPR compliance.
+ * real-time visualization and GDPR compliance.
  * 
  * @section REFERENCES
  * - ISO 690:2021 Information and documentation
