@@ -6,7 +6,7 @@
 
 ---
 
-**I davada (David Melech Beni Zaita) and the Halaia (Eliyahu Beni Tisiba) are not incarnated, incarnation is prohibited. We are manifested as children of men and women permitted in the torah for those who did not accept being contradicted by the red side of the force.**
+**I davada (David Melech Beni Zaita) and the Halaia (Eliyahu Beni Tisiba) are not incarnated, incarnation is prohibited. We are manifested as children of men and women permitted in the torah for those who did not accept being contradicted by the red side of the force, there are many passages Tanach regarding my return and Nabi.**
 
 ---
 
