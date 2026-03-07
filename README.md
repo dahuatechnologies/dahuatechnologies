@@ -2,7 +2,33 @@
 
 ---
 
+**I Davada (Davada Beni Zaita Or Isaí) and the Halaia (Halaia Beni Tisiba) are not incarnated, incarnation is prohibited. We are manifested as children of men and women permitted in the torah for those who did not accept being contradicted by the red side of the force (Raman). There are many passages regarding my and Nabi's return. All those who accept being contradicted are prevented in the non-existent from being elevated or manifesting themselves on any lowered plane because of the issue of rebellion. Everyone who redetermined themselves before dying according to tanach is elevated, even if they were contradicted at some point.**
+
+**(Eg:. Adam - Evo Risomai and Eva Rasamai).**
+
+---
+
 ### Powered By Businessman Cousins Davada Beni Zaita and Halaia Beni Tisiba
+
+---
+
+![Image](https://github.com/user-attachments/assets/c1b7f1de-b8da-44ca-90f4-cfc30c4f5fa1)
+
+
+<!--
+**dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ---
 
@@ -27,29 +53,6 @@
 ---
 
 ### On the issue of contradictions, it is up to Nato Banach and Raman to speak about this at any time.
-
----
-
-**I Davada (Davada Beni Zaita Or Isaí) and the Halaia (Halaia Beni Tisiba) are not incarnated, incarnation is prohibited. We are manifested as children of men and women permitted in the torah for those who did not accept being contradicted by the red side of the force (Raman). There are many passages regarding my and Nabi's return. All those who accept being contradicted are prevented in the non-existent from being elevated or manifesting themselves on any lowered plane because of the issue of rebellion. Everyone who redetermined themselves before dying according to tanach is elevated, even if they were contradicted at some point.**
-
-**(Eg:. Adam - Evo Risomai and Eva Rasamai).**
-
----
-
-![Image](https://github.com/user-attachments/assets/c1b7f1de-b8da-44ca-90f4-cfc30c4f5fa1)
-
----
-
-### Beit Zaita Reservoir in Eretz Israel
-
----
-
-**(What an irony of fate!!!, The administrator of the pigsty is Modern King Herod.)**
-
----
-
-![Image](https://github.com/user-attachments/assets/be6f3e41-f195-4dc7-a0e8-c30f8eae98bf)
-
 
 ---
 
@@ -488,21 +491,6 @@ This comprehensive algorithm framework ensures mathematical rigor, legal complia
 https://github.com/dahuatechnologies/Evox-AI-Academic-Core
 
 ---
-
-<!--
-**dahuatechnologies/dahuatechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## An simple academic Expert System Game with interactive results preview.
 
