@@ -10,7 +10,7 @@
 
 ---
 
-### Has anyone ever smelled uranium anywhere, to justify anything???
+### Has anyone ever smelled or detected a uranium leak somewhere, to justify anything???
 
 ---
 
