@@ -63,7 +63,7 @@ Every axis operates on a normalized continuum with three critical reference poin
      Vector direction: inward toward origin
 ```
 
-#### 1.0 Mathematical Formulation
+#### 1.1 Mathematical Formulation
 
 For any point P in the 5-axes space:
 
