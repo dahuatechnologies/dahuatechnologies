@@ -2,7 +2,7 @@
 
 ---
 
-### Powered By Businessman Cousins Davada Zaita and Halaia Tisiba
+### Powered By Businessman Cousins Davada Beni Zaita and Halaia Beni Tisiba
 
 ---
 
@@ -1053,7 +1053,7 @@ To new Expert X64_86 within 64 Bits using 32 bits 86 protected using Principles 
 
 ---
 
-### The Green Forces 
+### The Green Forces (Davada Beni Elohim)
 
 ---
 
@@ -1061,7 +1061,7 @@ To new Expert X64_86 within 64 Bits using 32 bits 86 protected using Principles 
 
 ---
 
-### The Red Forces 
+### The Red Forces (Raman and Your Peoples)
 
 ---
 
