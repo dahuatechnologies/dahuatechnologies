@@ -22,7 +22,7 @@
 
 ## 5-Axis Mathematical Model (X, Y, Z, B, R) by Zaita, Davada et al., 2025
 
-### 1. **The 5-Axis Coordinate System**
+### 0. **The 5-Axis Coordinate System**
 
 The algorithm implements a **penta-axes coordinate framework** that extends traditional spatial mathematics by incorporating diagonal and rotational dimensions:
 
@@ -40,9 +40,9 @@ The algorithm implements a **penta-axes coordinate framework** that extends trad
 └─────────────┴───────────────┴─────────────┴────────────────────────────────────┘
 ```
 
-### 2. **Core Mathematical Principles**
+### 1. **Core Mathematical Principles**
 
-#### 2.1 The Three Fundamental Markers
+#### 1.1 The Three Fundamental Markers
 
 Every axis operates on a normalized continuum with three critical reference points:
 
@@ -63,7 +63,7 @@ Every axis operates on a normalized continuum with three critical reference poin
      Vector direction: inward toward origin
 ```
 
-#### 2.2 Mathematical Formulation
+#### 1.2 Mathematical Formulation
 
 For any point P in the 5-axes space:
 
@@ -81,7 +81,7 @@ W_negative = (max(-x,0) + max(-y,0) + max(-z,0) + max(-b,0) + max(-r,0)) / 5
 α, β, γ are adaptive coefficients based on routing history
 ```
 
-### 3. **The B Axes: Diagonal Base Architecture**
+### 2. **The B Axes: Diagonal Base Architecture**
 
 The B axis represents a unique **diagonal vector** that forms the cube's diagonal base:
 
@@ -95,16 +95,16 @@ This creates a 45-degree diagonal vector that:
 - Provides real-time rendering sector-model architecture
 - Forms the foundation for cubic spatial partitioning
 ```
-### 4. **The R Axes: Gravitational Rotational Reference**
+### 3. **The R Axes: Gravitational Rotational Reference**
 
 The R axes is a **luminous rotational reference** with unique properties:
 
 ```
 R Axes Characteristics:
-1. Visible only as a luminous dot at the origin
-2. Establishes core gravitational field equations
-3. Provides rotational coupling between all other axes
-4. Acts as a temporal reference for dynamic routing
+0. Visible only as a luminous dot at the origin
+1. Establishes core gravitational field equations
+2. Provides rotational coupling between all other axes
+3. Acts as a temporal reference for dynamic routing
 
 Rotational Coupling Matrix:
 R_effect = r · [cos θ, sin θ, tan θ, 1, 1] where θ = rotation_angle
@@ -160,7 +160,7 @@ indicating positive directional weighting; and the -1 marker, which extends
 downward negative, indicating negative directional weighting.
 
 ```
-### 5. **GNU General Public License v3.0 Implementation**
+### 4. **GNU General Public License v3.0 Implementation**
 
 The algorithm is fully GPL v3.0 compliant with:
 
@@ -191,11 +191,11 @@ The algorithm is fully GPL v3.0 compliant with:
 - Modification tracking system
 - Distribution terms enforcement
 
-### 6. **GDPR (General Data Protection Regulation) Compliance**
+### 5. **GDPR (General Data Protection Regulation) Compliance**
 
 The algorithm implements comprehensive GDPR safeguards:
 
-#### 6.1 Data Processing Principles
+#### 5.1 Data Processing Principles
 ```c
 // Article 5: Principles relating to processing of personal data
 struct GDPRCompliance {
@@ -220,7 +220,7 @@ struct GDPRCompliance {
 };
 ```
 
-#### 6.2 Data Subject Rights Implementation
+#### 5.2 Data Subject Rights Implementation
 ```c
 // Article 15-22: Data subject rights
 void gdpr_handle_subject_request(MoeRouter *router, GDPRRequestType request) {
@@ -247,29 +247,36 @@ void gdpr_handle_subject_request(MoeRouter *router, GDPRRequestType request) {
 }
 ```
 
-### 7. **ISO 690:2021 Documentation Standards**
+### 6. **ISO 690:2021 Documentation Standards**
 
 The algorithm adheres to ISO 690:2021 for information and documentation:
 
-#### 7.1 Citation Format
+#### 6.1 Citation Format
 ```
-[1] ZAITA, M., DAVADA, K., et al. Multi-Axes: 5 Axes (X, Y, Z, B, R) Model. 
-    Evolution Technologies Research, 2025.
-    GNU General Public License v3.0, 2026. 
+[1] ZAITA, DAVADA, et al.
+    - Multi-Axes: 5 Axes (X, Y, Z, B, R) Model;
+    - Computer Science Foundation with Artificial Intelligence Principles;
+    - Evolution Technologies Research and Prototype, 2025;
+    - GNU General Public License v3.0, 2025. 
     
-[2] Mixture of Experts Router with Real-time 3D Visualization. 
-    Computer Science Foundation with Artificial Intelligence Principles.
-    GNU General Public License v3.0, 2026.
+[2] ZAITA, DAVADA, et al.
+    - 5A Evox Core AI Reasoning Framework Integration;
+    - 5A Evox Mixture of Experts Architecture for Expert Routing with Real-time Visualization;
+    - 5A Evox Attention Mechanisms;
+    - 5A Evox-Coder Code Generation Capabilities;
+    - Computer Science Foundation with Artificial Intelligence Principles;
+    - Evolution Technologies Research, 2025;
+    - GNU General Public License v3.0, 2025. 
 ```
 
-#### 7.2 Documentation Structure
+#### 6.2 Documentation Structure
 ```c
 /**
  * @file moe_router.c
  * @brief 5-Axes Mixture of Experts Router Implementation
  * @author Zaita, Davada et al.
  * @date 2025-2026
- * @version 2.0.0
+ * @version 0.0.1
  * 
  * @section LICENSE
  * GNU General Public License v3.0
@@ -284,12 +291,12 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
  * - GPL-3.0 License
  * 
  * @section CITATION
- * Zaita, M., Davada, K., et al. (2025). Multi-Axes: 5 Axes (X, Y, Z, B, R) Model.
- * Evolution Technologies Research.
+ * Zaita, Davada, et al. (2025). Multi-Axes: 5 Axes (X, Y, Z, B, R) Model.
+ * Evolution Technologies Research and Prototype.
  */
 ```
 
-### 8. **Algorithm Workflow with 5-Axes Integration**
+### 7. **Algorithm Workflow with 5-Axes Integration**
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -351,7 +358,7 @@ The algorithm adheres to ISO 690:2021 for information and documentation:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 9. **The Five Colored Pens Validation Method**
+### 8. **The Five Colored Pens Validation Method**
 
 As specified in the observation, the algorithm validates the mathematical model using five distinct colored pens:
 
@@ -386,7 +393,7 @@ void validate_with_colored_pens(MoeRouter *router) {
 }
 ```
 
-### 10. **Mathematical Proof of 5-Axes Completeness**
+### 9. **Mathematical Proof of 5-Axes Completeness**
 
 The 5-axes model is mathematically complete because:
 
@@ -403,7 +410,7 @@ Proof:
 Therefore, the 5-axes model spans the complete routing space.
 ```
 
-### 11. **Compliance Integration Summary**
+### 10. **Compliance Integration Summary**
 
 ```c
 // Complete compliance structure
