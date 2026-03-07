@@ -95,6 +95,20 @@ This creates a 45-degree diagonal vector that:
 - Provides real-time rendering sector-model architecture
 - Forms the foundation for cubic spatial partitioning
 ```
+### 4. **The R Axes: Gravitational Rotational Reference**
+
+The R axes is a **luminous rotational reference** with unique properties:
+
+```
+R Axes Characteristics:
+1. Visible only as a luminous dot at the origin
+2. Establishes core gravitational field equations
+3. Provides rotational coupling between all other axes
+4. Acts as a temporal reference for dynamic routing
+
+Rotational Coupling Matrix:
+R_effect = r · [cos θ, sin θ, tan θ, 1, 1] where θ = rotation_angle
+```
 
 **Visual Representation:**
 ---
@@ -146,22 +160,6 @@ indicating positive directional weighting; and the -1 marker, which extends
 downward negative, indicating negative directional weighting.
 
 ```
-
-### 4. **The R Axes: Gravitational Rotational Reference**
-
-The R axes is a **luminous rotational reference** with unique properties:
-
-```
-R Axes Characteristics:
-1. Visible only as a luminous dot at the origin
-2. Establishes core gravitational field equations
-3. Provides rotational coupling between all other axes
-4. Acts as a temporal reference for dynamic routing
-
-Rotational Coupling Matrix:
-R_effect = r · [cos θ, sin θ, tan θ, 1, 1] where θ = rotation_angle
-```
-
 ### 5. **GNU General Public License v3.0 Implementation**
 
 The algorithm is fully GPL v3.0 compliant with:
