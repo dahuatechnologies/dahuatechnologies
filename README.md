@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 **- Interactive Functions: Mobile Phone within Voice-activated attendant, Voice Command, Hands Gesture, Radio Online, On-line Weather, Etc...**
 
-**- Smart Car EV: The Solar roof for with solar energy capture.** 
+**- Smart Car EV: The Solar roof for with solar energy capture batteryless.** 
     
 ---
 
