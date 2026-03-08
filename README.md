@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     
 ---
 
-**Old Fashioned: Shared Mobile Phone using BlueTooth with Smart Radio**
+**Perhaps Old Fashioned: Shared Mobile Phone using BlueTooth with Smart Radio**
 
 ---
 
