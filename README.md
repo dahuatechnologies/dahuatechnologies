@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-**- Smart Car Autonoumous Expert System for Comunnication within Evox AI CORE in Cloud Computer;**
+**- Smart Car Autonomous Expert System for Comunnication within Evox AI CORE in Cloud Computer;**
 
 **- Smart Car using 5G Chip Interactive or Satellite Chip Interactive or Wi-Fi network;**
 
