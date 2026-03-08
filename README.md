@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ---
 
-### Technological Nonsense - What will be the logical principle of the car???
+### Technological Nonsense - What will be the logical principle of The Expert Smart Car???
 
 ---
 
-**- Smart Expert System Comunnication with Evox AI CORE in Cloud Computer;**
+**- Smart Car Expert System for Comunnication within Evox AI CORE in Cloud Computer;**
 
 **- Smart Car using 5G Chip Interactive or Satellite Chip Interactive**
 
