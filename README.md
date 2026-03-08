@@ -48,8 +48,7 @@ Here are some ideas to get you started:
 
 **- Smart Car using 5G Chip Interactive and Satellite Chip Interactive and Wi-Fi network;**
 
-**- Interactive Functions: Mobile Phone, Voice-activated attendant, Hands Gesture, Radio Online,
-    On-line Weather, Etc...**
+**- Interactive Functions: Mobile Phone within Voice-activated attendant, Voice Command, Hands Gesture, Radio Online, On-line Weather, Etc...**
     
 ---
 
