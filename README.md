@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 ---
 
-**- Smart Expert System Comunnication with Evox AI CORE in Cloud Computer**
+**- Smart Expert System Comunnication with Evox AI CORE in Cloud Computer;**
 
-**- Smart Car using 5G Chip Interactive or Satellite Chip**
+**- Smart Car using 5G Chip Interactive or Satellite Chip Interactive**
 
 ---
 
