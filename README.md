@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-**- Human Driven Expert System for Smart Cars with remote communication to the Evox AI CORE in the Cloud;**
+**- Human Driven for Smart Cars with remote communication to the Evox AI CORE in the Cloud;**
 
 **- Expert System Driven for Smart Cars with remote communication to the Evox AI CORE in the Cloud;**
 
