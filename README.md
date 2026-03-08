@@ -36,6 +36,20 @@ Here are some ideas to get you started:
 
 ---
 
+### Technological Nonsense - What will be the logical principle of the car???
+
+---
+
+**- Smart Expert System Comunnication with Evox AI CORE in Cloud Computer**
+
+**- Smart Car using 5G Chip Interactive or Satellite Chip**
+
+---
+
+![Image](https://github.com/user-attachments/assets/60e53084-4e0f-4cee-863f-496fd82183a2)
+
+---
+
 ### Copyright (c) 2026 Evolution Technologies Research and Prototype - All Rights Reserved
 
 ---
