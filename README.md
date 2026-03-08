@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Perhaps Old Fashioned: Casio watch with solar energy capture batteryless**
+**Perhaps Old Fashioned: Casio batteryless watch with solar energy capture**
 
 ---
 
