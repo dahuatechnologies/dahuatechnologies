@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/60e53084-4e0f-4cee-863f-496fd82183a2)
+
+---
+
 **- Human Driven for EV Smart Cars with remote communication to the Evox AI CORE in the Cloud;**
 
 **- Expert System Driven for EV Smart Cars with remote communication to the Evox AI CORE in the Cloud;**
@@ -55,10 +59,6 @@ Here are some ideas to get you started:
 ---
 
 **Perhaps Old Fashioned: Shared Mobile Phone using BlueTooth with Smart Radio**
-
----
-
-![Image](https://github.com/user-attachments/assets/60e53084-4e0f-4cee-863f-496fd82183a2)
 
 ---
 
