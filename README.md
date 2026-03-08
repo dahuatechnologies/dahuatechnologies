@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 **- Interactive Functions: Mobile Phone within Voice-activated attendant, Voice Command, Hands Gesture, Radio Online, On-line Weather, Etc...**
 
-**- Solar roof for energy Capture S.O.S to Electric Vehicle.** 
+**- Solar roof for energy capture S.O.S to Electric Vehicle.** 
     
 ---
 
