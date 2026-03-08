@@ -40,15 +40,17 @@ Here are some ideas to get you started:
 
 ---
 
-**- Human Driven for Smart Cars with remote communication to the Evox AI CORE in the Cloud;**
+**- Human Driven for EV Smart Cars with remote communication to the Evox AI CORE in the Cloud;**
 
-**- Expert System Driven for Smart Cars with remote communication to the Evox AI CORE in the Cloud;**
+**- Expert System Driven for EV Smart Cars with remote communication to the Evox AI CORE in the Cloud;**
 
 **- Smart Car using 5G Chip Interactive or Satellite Chip Interactive or Wi-Fi network;**
 
 **- Smart Car using 5G Chip Interactive and Satellite Chip Interactive and Wi-Fi network;**
 
 **- Interactive Functions: Mobile Phone within Voice-activated attendant, Voice Command, Hands Gesture, Radio Online, On-line Weather, Etc...**
+
+**- Solar roof for energy Capture S.O.S to Electric Vehicle.** 
     
 ---
 
