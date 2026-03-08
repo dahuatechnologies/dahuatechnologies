@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Perhaps Old Fashioned: Casio Watch within Solar roof for energy capture**
+**Perhaps Old Fashioned: Casio watch with solar energy capture**
 
 ---
 
