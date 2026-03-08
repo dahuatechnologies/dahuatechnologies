@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 **- Interactive Functions: Mobile Phone within Voice-activated attendant, Voice Command, Hands Gesture, Radio Online, On-line Weather, Etc...**
 
-**- Smart Car EV: The Solar roof for with solar energy capture batteryless.** 
+**- Smart Car EV: The Solar roof for with solar energy capture.** 
     
 ---
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Perhaps Old Fashioned: Casio watch with solar energy capture**
+**Perhaps Old Fashioned: Casio watch with solar energy capture batteryless**
 
 ---
 
