@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 **- Smart Car using 5G Chip Interactive or Satellite Chip Interactive;**
 
-**- Interactive Functions: Radio Online, On-line Weather...**
+**- Interactive Functions: Radio Online, On-line Weather. Etc...**
 
 ---
 
