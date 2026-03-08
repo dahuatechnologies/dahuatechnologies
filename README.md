@@ -52,6 +52,10 @@ Here are some ideas to get you started:
 
 ---
 
+**Old Fashioned: Shared Phone using BlueTooth with Smart Screen**
+
+---
+
 ![Image](https://github.com/user-attachments/assets/60e53084-4e0f-4cee-863f-496fd82183a2)
 
 ---
