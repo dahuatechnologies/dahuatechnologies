@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 **- Smart Car Expert System for Comunnication within Evox AI CORE in Cloud Computer;**
 
-**- Smart Car using 5G Chip Interactive or Satellite Chip Interactive;**
+**- Smart Car using 5G Chip Interactive or Satellite Chip Interactive or Wi-Fi network;**
+
+**- Smart Car using 5G Chip Interactive and Satellite Chip Interactive and Wi-Fi network;**
 
 **- Interactive Functions: Radio Online, On-line Weather. Etc...**
 
